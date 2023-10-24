@@ -1,32 +1,38 @@
-import imagen from '../assets/images/pexels-francisco-basto-5344794.jpg'
+import { Link } from 'react-router-dom'
 import video from '../assets/images/vid1.mp4'
+import { NavBar } from './NavBar'
+
+
 
 
 export const Header = () => {
     return (
         <>
             <div className="">
-                <div className="h-screen relative isolate overflow-hidden lg:flex justify-center lg:gap-x-20 lg:px-24">
+                <div className="h-screen relative isolate overflow-hidden lg:flex  flex- justify-center ">
 
                     <video className='absolute object-cover overflow-hidden -z-20 w-full min-h-[55%]' src={video} autoPlay loop muted alt="Caribean sea" />
-                    <div className="mx-auto max-w-lg text-center lg:flex-auto lg:py-32 lg:text-left">
-                        <h2 className="pt-10 text-3xl font-bold tracking-tight text-white text-center sm:text-4xl">
-                            Estamos trabajando en brindarte la mejor experiencia.
+                    <main className='flex flex-col px-10 mt-4 mx-auto sm:max-w-[75%] xl:max-w-6xl'>
 
+                        <NavBar />
+                        <div className="text-center lg:flex-auto lg:py-32 lg:text-left">
+                            <h1 className="pt-10 text-3xl font-bold tracking-tight text-[#FFF8EA] text-center sm:text-7xl">
+                                Estamos trabajando en nuestra web
 
-                        </h2>
-                        <p className="mt-6 text-lg leading-8 text-gray-300">
-                            Pronto estara lista nuestra nueva web. Mientras puedes estar al tanto de todas nuestras ofertas y disponibilidad en nuestras redes sociales.
-                        </p>
-                        <div className="mt-10 flex items-center justify-center gap-x-6">
-                            <a
-                                href="#"
-                                className="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
-                            >
-                                Saber más <span aria-hidden="true">→</span>
-                            </a>
+                            </h1>
+                            <p className="mt-6 text-lg leading-tight text-[#FFF8EA]">
+                                Pronto estara lista nuestra nueva web. Mientras tanto, puedes estar informado de todas nuestras novedades en nuestras redes sociales, encontrarás los links más abajo.
+                            </p>
+                            <div className="mt-10 flex items-center justify-center gap-x-6">
+                                <Link
+                                    to="/"
+                                    className="rounded-full bg-[#FFF8EA] px-6 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white "
+                                >
+                                    Próximamente
+                                </Link>
+                            </div>
                         </div>
-                    </div>
+                    </main>
                 </div>
             </div>
         </>
