@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import img1 from '../assets/images/pexels-francisco-basto-5344794.jpg'
+import img1 from '../assets/images/30-02.png'
 export const Details = () => {
     return (
         <div>
@@ -8,7 +8,7 @@ export const Details = () => {
 
                     <img className="h-44 sm:h-72  object-cover" src={img1} alt="Rent your apartment in Riviera Maya" />
 
-                    <div className='md:px-16 px-6 pb-2'>
+                    <div className='md:px-16 lg:ml-20 px-6 pb-2'>
                         <h2 className='text-[#FFF8EA] text-2xl md:text-3xl lg:text-5xl mb-5 md:mb-10'>
                             Como puedo reservar mi alojamiento?
                         </h2>
