@@ -15,7 +15,7 @@ export const Details = () => {
 
                         <Link
                             to="/"
-                            className="rounded-full bg-[#FFF8EA] px-6 py-2.5 text-sm font-semibold text-[#023047] border-2 border-[#FFF8EA] hover:text-[#2f291d] shadow-sm hover:bg-transparent"
+                            className="rounded-full bg-[#FFF8EA] px-6 py-2.5 text-sm font-semibold text-[#023047] border-2 border-[#FFF8EA] hover:text-[#FFF8EA] shadow-sm hover:bg-transparent"
                         >
                             Contáctanos
                         </Link>
