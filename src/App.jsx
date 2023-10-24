@@ -1,6 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { Header } from "./components/Header"
 import { Footer } from './components/Footer'
+import { Details } from './components/Details'
 
 
 
@@ -10,18 +11,13 @@ function App() {
     <>
       <BrowserRouter>
 
-        <div className="h-screen bg-[#FFF8EA] static">
+        <div className="bg-[#FFF8EA]">
           <Routes>
             <Route exact path='/' element={<Header />} />
           </Routes>
-          <div className="w-full absolute bottom-0">
-
-            <Footer />
-          </div>
+          <Details />
+          <Footer />
         </div>
-
-
-
       </BrowserRouter>
     </>
   )
