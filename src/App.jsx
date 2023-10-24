@@ -9,12 +9,19 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <div className="h-screen bg-[#FFF8EA]">
+
+        <div className="h-screen bg-[#FFF8EA] static">
           <Routes>
             <Route exact path='/' element={<Header />} />
           </Routes>
+          <div className="w-full absolute bottom-0">
+
+            <Footer />
+          </div>
         </div>
-        <Footer />
+
+
+
       </BrowserRouter>
     </>
   )
