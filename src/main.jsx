@@ -4,12 +4,17 @@ import App from './App.jsx'
 import './index.css'
 import './fonts/Boiling-BlackDemo.ttf'
 import { NextUIProvider } from "@nextui-org/react";
+import { ThemeProvider } from "@material-tailwind/react";
+
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <NextUIProvider>
-    <React.StrictMode>
-      <App />
-    </React.StrictMode>
-  </NextUIProvider>
+  <ThemeProvider>
+    <NextUIProvider>
+      <React.StrictMode>
+        <App />
+      </React.StrictMode>
+    </NextUIProvider>
+  </ThemeProvider>
+
 )

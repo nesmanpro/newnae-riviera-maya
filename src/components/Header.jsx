@@ -26,7 +26,7 @@ export const Header = () => {
                             <div className="mt-10 flex items-center justify-center gap-x-6">
                                 <Link
                                     to="/"
-                                    className="rounded-full bg-[#FFF8EA] px-6 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white "
+                                    className="rounded-full bg-[#FFF8EA] px-6 py-2.5 text-sm font-semibold text-[#023047] border-2 border-[#FFF8EA] hover:text-[#FFF8EA] shadow-sm hover:bg-transparent"
                                 >
                                     Próximamente
                                 </Link>
