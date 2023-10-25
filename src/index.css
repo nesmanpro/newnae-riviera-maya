@@ -3,11 +3,16 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: "Title";   /*Can be any text*/
+    font-family: "boiling";
     src: local("BoillingBlack"),
         url("./fonts/Boiling-BlackDemo.ttf") format("truetype");
 }
+@font-face {
+    font-family: "josefine";
+    src: local("josefine"),
+        url("./fonts/NTJosefine.otf") format("truetype");
+}
 
 h1, h2 {
-    font-family: "Title";
+    font-family: "josefine";
 }

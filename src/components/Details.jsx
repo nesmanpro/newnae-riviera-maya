@@ -10,7 +10,7 @@ export const Details = () => {
 
                     <div className='md:px-16 px-6 pb-2'>
                         <h2 className='text-[#FFF8EA] text-xl xs:text-2xl md:text-3xl lg:text-5xl mb-5 md:mb-10'>
-                            Como puedo reservar mi alojamiento?
+                            ¿Cómo puedo reservar mi alojamiento?
                         </h2>
 
                         <Link
