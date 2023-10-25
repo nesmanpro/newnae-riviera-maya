@@ -13,11 +13,12 @@ export const NavBar = () => {
             <nav >
                 <ul className='flex gap-5 font-sans font-bold text-[#FFF8EA]'>
                     <li className='border-b-3 border-transparent hover:border-b-3 hover:border-[#219EBC] transition ease-in-out delay-100'>
-                        <a href="#">Home</a></li>
+                        <Link to="/">Home</Link></li>
                     <li className='border-b-3 border-transparent hover:border-b-3 hover:border-[#219EBC] transition ease-in-out delay-100'>
-                        <a href="#">Departments</a></li>
+                        <Link to="/contact">Departments</Link></li>
                     <li className='border-b-3 border-transparent hover:border-b-3 hover:border-[#219EBC] transition ease-in-out delay-100'>
-                        <a href="#">Contact</a></li>
+                        <Link to="/contact">Contact</Link></li>
+
                 </ul>
             </nav>
 
