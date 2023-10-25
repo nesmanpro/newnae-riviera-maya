@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import video from '../assets/images/vid1.mp4'
+import video from '../assets/images/wave.webm'
 import { NavBar } from './NavBar'
 
 
