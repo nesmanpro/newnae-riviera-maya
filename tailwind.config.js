@@ -8,7 +8,21 @@ export default {
     "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        helvetica: 'helvetica',
+        josefine: 'josefine',
+        bebas: 'bebas'
+      }
+    },
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'azulClaro': '#219EBC',
+      'azulOscuro': '#023047',
+      'arenaClaro': '#FFF8EA',
+      'arenaOscuro': '#78dcca',
+    }
   },
   darkMode: "class",
   plugins: [nextui()],

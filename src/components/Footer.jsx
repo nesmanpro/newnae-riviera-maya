@@ -4,12 +4,12 @@ import { Link } from "react-router-dom";
 
 export function Footer() {
     return (
-        <footer className="w-full bg-[#023047] p-8 rounded-tl-3xl rounded-tr-3xl pt-16 ">
+        <footer className="w-full bg-azulOscuro p-8 rounded-tl-3xl rounded-tr-3xl pt-16 ">
             <div className="md:px-10 mx-auto sm:max-w-[75%] xl:max-w-6xl lg:max-w-4xl">
 
                 <div className="flex flex-row flex-wrap items-center justify-center gap-y-6 gap-x-12 text-center md:justify-between">
                     <img className="h-10" src={Logo} alt="logo-ct" />
-                    <ul className="flex flex-wrap items-center gap-y-2 gap-x-8 text-[#FFF8EA]">
+                    <ul className="flex flex-wrap items-center gap-y-2 gap-x-8 text-arenaClaro">
                         <li className="hover:scale-110 cursor-pointer">
                             <Link to={'https://www.instagram.com/naerivieramaya'} target="_blank">
                                 <svg className="h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -29,8 +29,8 @@ export function Footer() {
 
                     </ul>
                 </div>
-                <hr className="my-8 mb-2 border-[#FFF8EA]" />
-                <Typography className="text-xs italic text-[#FFF8EA]">
+                <hr className="my-8 mb-2 border-arenaClaro" />
+                <Typography className="text-xs italic text-arenaClaro">
                     &copy; 2023 Nae Riviera Maya
                 </Typography>
             </div>

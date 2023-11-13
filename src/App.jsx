@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { Header } from "./components/Header"
 import { Footer } from './components/Footer'
-import { Contact } from './components/Contact'
+import { Contact } from './pages/Contact'
 import { Details } from './components/Details'
 import { ItemListContainer } from './components/ItemListContainer'
 

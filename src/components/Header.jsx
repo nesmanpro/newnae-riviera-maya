@@ -22,17 +22,17 @@ export const Header = () => {
 
                         <NavBar />
                         <div className="text-center lg:flex-auto lg:py-32 lg:text-left mb-20 lg:mb-0">
-                            <h1 className="pt-10 text-3xl font-bold tracking-normal text-[#FFF8EA] text-center sm:text-7xl">
+                            <h1 className="pt-10 text-3xl font-bold tracking-normal text-arenaClaro text-center sm:text-7xl">
                                 Estamos trabajando en nuestra web
 
                             </h1>
-                            <p className="mt-6 text-lg  leading-tight text-[#FFF8EA]">
+                            <p className="mt-6 text-lg  leading-tight text-arenaClaro">
                                 Pronto estara lista nuestra nueva web. Mientras tanto, puedes estar informado de todas nuestras novedades en nuestras redes sociales, encontrarás los links más abajo.
                             </p>
                             <div className="mt-10 flex items-center justify-center gap-x-6">
                                 <Link
                                     to="/contact"
-                                    className="rounded-full bg-[#FFF8EA] px-6 py-2.5 text-sm font-semibold text-[#023047] border-2 border-[#FFF8EA] hover:text-[#FFF8EA] shadow-sm hover:bg-transparent"
+                                    className="rounded-full bg-arenaClaro px-6 py-2.5 text-sm font-semibold text-azulOscuro border-2 border-arenaClaro hover:text-arenaClaro shadow-sm hover:bg-transparent transition hover:duration-500 ease-in-out"
                                 >
                                     Próximamente
                                 </Link>

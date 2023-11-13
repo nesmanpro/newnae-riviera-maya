@@ -7,10 +7,17 @@
     src: local("bebas"),
         url("./fonts/BebasNeueBold.ttf") format("truetype");
 }
+
 @font-face {
     font-family: "josefine";
     src: local("josefine"),
         url("./fonts/NTJosefine.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "helvetica";
+    src: local("helvetica"),
+        url("./fonts/HelveticaNeue.ttc") format("truetype");
 }
 
 h1, h2 {
@@ -19,30 +26,4 @@ h1, h2 {
 
 h3 {
     font-family: "bebas";
-}
-.propsimg {
-  background-position: center;
-  background-size: cover;
-}
-
-.fade-enter {
-  opacity: 0;
-  transform: scale(0.9);
-}
-
-.fade-enter-active {
-  opacity: 1;
-  transform: scale(1);
-  transition: opacity 300ms, transform 300ms;
-}
-
-.fade-exit {
-  opacity: 1;
-  transform: scale(1);
-}
-
-.fade-exit-active {
-  opacity: 0;
-  transform: scale(0.9);
-  transition: opacity 300ms, transform 300ms;
 }
