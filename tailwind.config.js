@@ -21,7 +21,7 @@ export default {
       'azulClaro': '#219EBC',
       'azulOscuro': '#023047',
       'arenaClaro': '#FFF8EA',
-      'arenaOscuro': '#78dcca',
+      'arenaOscuro': '#FFE299',
     }
   },
   darkMode: "class",

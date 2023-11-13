@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { Link } from 'react-scroll'
 import img1 from '../assets/images/30-02.png'
 export const Details = () => {
     return (
@@ -10,14 +10,19 @@ export const Details = () => {
 
                     <div className='md:px-16 px-6 pb-2'>
                         <h2 className='text-arenaClaro leading-tight tracking-wide text-xl xs:text-2xl md:text-3xl lg:text-5xl mb-5 md:mb-10'>
-                            ¿Cómo puedo reservar mi alojamiento?
+                            Explora nuestros alojamientos
                         </h2>
 
-                        <Link
-                            to="/contact"
-                            className="rounded-full bg-arenaClaro px-2.5 py-1.5 md:px-6 md:py-2.5 text-xs sm:text-sm font-semibold text-azulOscuro border-2 border-arenaClaro hover:text-arenaClaro shadow-sm hover:bg-transparent transition hover:duration-500 ease-in-out"
+                        <Link to='ItemList'
+                            spy={true}
+                            smooth={true}
+                            offset={50}
+                            duration={500}
+                            className=" text-arenaClaro  font-semibold cursor-pointer"
                         >
-                            Contáctanos
+                            <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" fill="currentColor" className="bi bi-arrow-down-circle-fill" viewBox="0 0 16 16">
+                                <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z" />
+                            </svg>
                         </Link>
 
                     </div>

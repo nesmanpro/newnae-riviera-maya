@@ -1,7 +1,9 @@
 import { useEffect, useState } from 'react'
 import PedirDatos from '../helpers/PedirDatos'
-import { Details } from './Details';
-import { ItemList } from './ItemList';
+import { Details } from '../components/Details';
+import { ItemList } from '../components/ItemList';
+import { Banda } from '../components/Banda';
+import { BannerBot } from '../components/BannerBot';
 
 export const ItemListContainer = () => {
 
@@ -17,9 +19,11 @@ export const ItemListContainer = () => {
 
 
     return (
-        <div>
+        <div className='bg-arenaClaro'>
             <Details />
             <ItemList productos={productos} />
+            <BannerBot />
+            <Banda />
         </div>
     )
 }

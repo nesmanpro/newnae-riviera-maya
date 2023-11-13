@@ -6,7 +6,7 @@ export const Contact = () => {
 
     return (
 
-        <main>
+        <main className='bg-arenaClaro'>
 
             <DetailsContact />
             <section className="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-10  sm:h-48 mb-20 md:mb-32 mx-auto sm:max-w-[75%] xl:max-w-6xl">
