@@ -1,8 +1,14 @@
-import { Link } from 'react-router-dom'
-import { Link as Hash } from 'react-scroll'
+import { Link, NavLink, useLocation } from 'react-router-dom'
 import Logo from '../assets/logo/logoLight.svg'
+import { Link as NavScroll } from 'react-scroll'
+
 
 export const NavBar = () => {
+
+    const location = useLocation();
+
+    const isActiveDepartamentos = location.pathname === '/';
+
     return (
         <section className='flex justify-between items-center pt-5'>
             <nav>
@@ -12,15 +18,25 @@ export const NavBar = () => {
 
             </nav>
             <nav >
-                {/* border-b-3 border-transparent hover:border-b-3 hover:border-azulOscuro transition hover:duration-1000 ease-in-out  */}
                 <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
                     <li className='navlink'>
-                        <Link to="/">Home</Link></li>
-                    <li className='navlink cursor-pointer'>
-                        <Hash to="ItemList" spy={true}
-                            smooth={true}
-                            offset={50}
-                            duration={1000}>Departments</Hash></li>
+                        <Link to="/">Home</Link>
+                    </li>
+                    {
+                        isActiveDepartamentos &&
+                        <li className='navlink cursor-pointer'>
+
+                            <NavScroll
+                                to="ItemList"
+                                spy={true}
+                                smooth={true}
+                                offset={-150}
+                                duration={500}
+                            >
+                                Departments
+                            </NavScroll>
+                        </li>
+                    }
                     <li className='navlink'>
                         <Link to="/contact">Contact</Link></li>
 

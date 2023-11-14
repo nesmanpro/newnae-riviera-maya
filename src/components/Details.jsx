@@ -16,7 +16,7 @@ export const Details = () => {
                         <Link to='ItemList'
                             spy={true}
                             smooth={true}
-                            offset={50}
+                            offset={-150}
                             duration={500}
                             className=" text-arenaClaro  font-semibold cursor-pointer"
                         >

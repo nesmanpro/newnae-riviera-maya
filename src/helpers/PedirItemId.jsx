@@ -1,9 +1,9 @@
 import data from '../data/departments.json'
 
-const PedirItemId = () => {
+const PedirItemId = (id) => {
 
     return new Promise((resolve, reject) => {
-        const item = data.findIndex((el) => el == el.id)
+        const item = data.find((el) => el.id === id)
 
         if (item) {
             resolve(item)

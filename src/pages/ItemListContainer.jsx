@@ -22,8 +22,8 @@ export const ItemListContainer = () => {
         <div className='bg-arenaClaro'>
             <Details />
             <ItemList productos={productos} />
-            <BannerBot />
             <Banda />
+            <BannerBot />
         </div>
     )
 }
