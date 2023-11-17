@@ -13,12 +13,14 @@ export const ItemList = ({ productos }) => {
                     productos.map((prod, index) =>
                     (
 
-                        <Link to={`/item/${prod.id}`} key={prod.id} className={` border-azulClaro border-b-1 last:border-none  hover:w-full px-20 py-6 pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height duration-1000 ease-in-out h-32 hover:h-64 hover:border-none`}
+                        <Link to={`/item/${prod.id}`} key={prod.id} className={` border-azulClaro w-[70vw] border-b-1 last:border-none  hover:w-full px-20 py-6 pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-64 hover:border-none`}
                             onMouseEnter={() => setHoveredIndex(index)}
                             onMouseLeave={() => setHoveredIndex(null)}
 
                             style={{
                                 backgroundImage: `url(${hoveredIndex === index ? prod.img.img1 : 'transparent'})`,
+                                transitionDuration: '1000ms',
+                                // backgroundPosition: 'center calc(100% + 200px)',
                             }}
                         >
 

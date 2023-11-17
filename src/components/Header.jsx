@@ -20,10 +20,12 @@ export const Header = () => {
             <div className="">
                 <div className=" relative isolate overflow-hidden lg:flex justify-center">
 
-                    {esMobile
-                        ? <img className='absolute object-cover overflow-hidden -z-20 w-full h-screen lg:h-full' src={img} alt="" />
-
-                        : <video className='absolute object-cover overflow-hidden -z-20 w-full h-screen lg:h-full' src={video} autoPlay loop muted alt="Caribean sea" />
+                    {isActiveDepartamentos ?
+                        (esMobile ?
+                            <img className='absolute object-cover overflow-hidden -z-20 w-full h-screen lg:h-full' src={img} alt="" />
+                            : <video className='absolute object-cover overflow-hidden -z-20 w-full h-screen lg:h-full' src={video} autoPlay loop muted alt="Caribbean sea" />
+                        )
+                        : <div className='bg-azulOscuro h-96 w-full'></div>
                     }
 
                     <main className='flex flex-col px-10 mt-4 mx-auto sm:max-w-[75%] xl:max-w-6xl'>

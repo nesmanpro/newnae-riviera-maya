@@ -1,4 +1,4 @@
-import { Link, NavLink, useLocation } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import Logo from '../assets/logo/logoLight.svg'
 import { Link as NavScroll } from 'react-scroll'
 
