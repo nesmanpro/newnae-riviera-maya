@@ -1,7 +1,14 @@
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import Logo from '../assets/logo/logoLight.svg'
+import { Link as NavScroll } from 'react-scroll'
+
 
 export const NavBar = () => {
+
+    const location = useLocation();
+
+    const isActiveDepartamentos = location.pathname === '/';
+
     return (
         <section className='flex justify-between items-center pt-5'>
             <nav>
@@ -11,12 +18,26 @@ export const NavBar = () => {
 
             </nav>
             <nav >
-                <ul className='flex gap-5 font-sans font-bold text-[#FFF8EA]'>
-                    <li className='border-b-3 border-transparent hover:border-b-3 hover:border-[#219EBC] transition ease-in-out delay-100'>
-                        <Link to="/">Home</Link></li>
-                    <li className='border-b-3 border-transparent hover:border-b-3 hover:border-[#219EBC] transition ease-in-out delay-100'>
-                        <Link to="/contact">Departments</Link></li>
-                    <li className='border-b-3 border-transparent hover:border-b-3 hover:border-[#219EBC] transition ease-in-out delay-100'>
+                <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
+                    <li className='navlink'>
+                        <Link to="/">Home</Link>
+                    </li>
+                    {
+                        isActiveDepartamentos &&
+                        <li className='navlink cursor-pointer'>
+
+                            <NavScroll
+                                to="ItemList"
+                                spy={true}
+                                smooth={true}
+                                offset={-150}
+                                duration={500}
+                            >
+                                Departments
+                            </NavScroll>
+                        </li>
+                    }
+                    <li className='navlink'>
                         <Link to="/contact">Contact</Link></li>
 
                 </ul>

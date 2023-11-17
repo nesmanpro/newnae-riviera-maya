@@ -1,0 +1,263 @@
+[
+    {
+        "id": "kumaru-01",
+        "title": "Beachfront Bliss in Playa del Carmen",
+        "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+        "details": {
+            "rooms": "2 Habitaciones",
+            "area": "Playa del Carmen",
+            "plus": "Vistas Panoramicas"
+        },
+        "description": 
+        {
+            "acerca": "Kumaru es un condominio localizado en la zona diamante de Playa del Carmen. Se encuentra sobre avenida CTM entre la famosa 5th avenida y 10th avenida. Esta unidad se encuentra totalmente equipada y decorada muebles y accesorios de gran calidad y buen gusto. Se localiza a tan solo unos metros del mar y a unos cuantos pasos de la famosa Quinta Avenida de Playa del Carmen.Este lugar único tiene su propio estilo.",
+            "alojamiento": "Si eres amante del estilo mediterráneo esta unidad será ideal para tu estancia, los delicados detalles diseñados por la casona playa del carmen lo hacen único brindando la sensación de frescura y calma.",
+            "acceso": "En ultimo piso del Condominio cuenta con un roof con barra, camastros, sillones y alberca que serán compartidos con otros huéspedes. También cuenta con un Gimnasio que tiene bicis estáticas instaladas."
+        },
+        "facilities": 
+        {
+            "remote": "Área para trabajar",
+            "lock": "Caja fuerte",
+            "wifi": "Free wifi",
+            "tv": "Televisión HD y Netflix",
+            "ac": "Sistema de aire acondicionado sin conductos tipo split",
+            "fan": "Ventilador de techo",
+            "coffee": "Cafetera",
+            "parking": "Estacionamiento de pago en las instalaciones"
+        },
+        "img": 
+        {
+            "img1": "../img/apartments/kumaru01/1.jpg",
+            "img2": "../img/apartments/kumaru01/2.jpg"
+        },
+        "extras": {
+            "icon": {
+                "pet": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M13.7 13.93a4 4 0 0 1 5.28.6l.29.37 4.77 6.75a4 4 0 0 1 .6 3.34 4 4 0 0 1-4.5 2.91l-.4-.08-3.48-.93a1 1 0 0 0-.52 0l-3.47.93a4 4 0 0 1-2.94-.35l-.4-.25a4 4 0 0 1-1.2-5.2l.23-.37 4.77-6.75a4 4 0 0 1 .96-.97zm3.75 1.9a2 2 0 0 0-2.98.08l-.1.14-4.84 6.86a2 2 0 0 0 2.05 3.02l.17-.04 4-1.07a1 1 0 0 1 .5 0l3.97 1.06.15.04a2 2 0 0 0 2.13-2.97l-4.95-7.01zM27 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM5 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm22 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM5 14a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm6-10a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm10 0a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM11 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm10 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4z'/></svg>",
+                "wifi": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 20.33a3.67 3.67 0 1 1 0 7.34 3.67 3.67 0 0 1 0-7.34zm0 2a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34zM16 15a9 9 0 0 1 8.04 4.96l-1.51 1.51a7 7 0 0 0-13.06 0l-1.51-1.51A9 9 0 0 1 16 15zm0-5.33c4.98 0 9.37 2.54 11.94 6.4l-1.45 1.44a12.33 12.33 0 0 0-20.98 0l-1.45-1.45A14.32 14.32 0 0 1 16 9.66zm0-5.34c6.45 0 12.18 3.1 15.76 7.9l-1.43 1.44a17.64 17.64 0 0 0-28.66 0L.24 12.24c3.58-4.8 9.3-7.9 15.76-7.9z'/></svg>",
+                "outdoor": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bed": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "ac": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "parking": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bbq": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "dryer": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "work": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "coffee": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "security": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>"
+                
+                
+            },
+            "text": {
+                "bed": "Cama queensize",
+                "dryer": "Secadora",
+                "outdoor": "Muebles de jardin o terraza",
+                "pet": "Admite mascotas",
+                "work": "Área para trabajo remoto",
+                "bbq": "Bbq privada",
+                "security": "Seguridad privada",
+                "wifi": "Free wifi",
+                "tv": "Televisión",
+                "ac": "Sistema de aire acondicionado",
+                "fan": "Ventilador de techo",
+                "coffee": "Cafetera",
+                "parking": "Estacionamiento en las instalaciones"
+            }
+        }
+        
+    },
+    {
+        "id": "kumaru-02",
+        "title": "Beachfront Bliss in Playa del Carmen",
+        "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+        "details": {
+            "rooms": "2 Habitaciones",
+            "area": "Playa del Carmen",
+            "plus": "Vistas Panoramicas"
+        },
+        "description": 
+        {
+            "acerca": "Kumaru es un condominio localizado en la zona diamante de Playa del Carmen. Se encuentra sobre avenida CTM entre la famosa 5th avenida y 10th avenida. Esta unidad se encuentra totalmente equipada y decorada muebles y accesorios de gran calidad y buen gusto. Se localiza a tan solo unos metros del mar y a unos cuantos pasos de la famosa Quinta Avenida de Playa del Carmen.Este lugar único tiene su propio estilo.",
+            "alojamiento": "Si eres amante del estilo mediterráneo esta unidad será ideal para tu estancia, los delicados detalles diseñados por la casona playa del carmen lo hacen único brindando la sensación de frescura y calma.",
+            "acceso": "En ultimo piso del Condominio cuenta con un roof con barra, camastros, sillones y alberca que serán compartidos con otros huéspedes. También cuenta con un Gimnasio que tiene bicis estáticas instaladas."
+        },
+        "facilities": 
+        {
+            "remote": "Área para trabajar",
+            "lock": "Caja fuerte",
+            "wifi": "Free wifi",
+            "tv": "Televisión HD y Netflix",
+            "ac": "Sistema de aire acondicionado sin conductos tipo split",
+            "fan": "Ventilador de techo",
+            "coffee": "Cafetera",
+            "parking": "Estacionamiento de pago en las instalaciones"
+        },
+        "img": 
+        {
+            "img1": "../img/apartments/kumaru01/1.jpg",
+            "img2": "../img/apartments/kumaru01/2.jpg"
+        },
+        "extras": {
+            "icon": {
+                "pet": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M13.7 13.93a4 4 0 0 1 5.28.6l.29.37 4.77 6.75a4 4 0 0 1 .6 3.34 4 4 0 0 1-4.5 2.91l-.4-.08-3.48-.93a1 1 0 0 0-.52 0l-3.47.93a4 4 0 0 1-2.94-.35l-.4-.25a4 4 0 0 1-1.2-5.2l.23-.37 4.77-6.75a4 4 0 0 1 .96-.97zm3.75 1.9a2 2 0 0 0-2.98.08l-.1.14-4.84 6.86a2 2 0 0 0 2.05 3.02l.17-.04 4-1.07a1 1 0 0 1 .5 0l3.97 1.06.15.04a2 2 0 0 0 2.13-2.97l-4.95-7.01zM27 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM5 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm22 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM5 14a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm6-10a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm10 0a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM11 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm10 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4z'/></svg>",
+                "wifi": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 20.33a3.67 3.67 0 1 1 0 7.34 3.67 3.67 0 0 1 0-7.34zm0 2a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34zM16 15a9 9 0 0 1 8.04 4.96l-1.51 1.51a7 7 0 0 0-13.06 0l-1.51-1.51A9 9 0 0 1 16 15zm0-5.33c4.98 0 9.37 2.54 11.94 6.4l-1.45 1.44a12.33 12.33 0 0 0-20.98 0l-1.45-1.45A14.32 14.32 0 0 1 16 9.66zm0-5.34c6.45 0 12.18 3.1 15.76 7.9l-1.43 1.44a17.64 17.64 0 0 0-28.66 0L.24 12.24c3.58-4.8 9.3-7.9 15.76-7.9z'/></svg>",
+                "outdoor": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bed": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "ac": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "parking": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bbq": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "dryer": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "work": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "coffee": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "security": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>"
+                
+                
+            },
+            "text": {
+                "bed": "Cama queensize",
+                "dryer": "Secadora",
+                "outdoor": "Muebles de jardin o terraza",
+                "pet": "Admite mascotas",
+                "work": "Área para trabajo remoto",
+                "bbq": "Bbq privada",
+                "security": "Seguridad privada",
+                "wifi": "Free wifi",
+                "tv": "Televisión",
+                "ac": "Sistema de aire acondicionado",
+                "fan": "Ventilador de techo",
+                "coffee": "Cafetera",
+                "parking": "Estacionamiento en las instalaciones"
+            }
+        }
+    },
+    {
+        "id": "kumaru-03",
+        "title": "Beachfront Bliss in Playa del Carmen",
+        "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+        "details": {
+            "rooms": "2 Habitaciones",
+            "area": "Playa del Carmen",
+            "plus": "Vistas Panoramicas"
+        },
+        "description": 
+        {
+            "acerca": "Kumaru es un condominio localizado en la zona diamante de Playa del Carmen. Se encuentra sobre avenida CTM entre la famosa 5th avenida y 10th avenida. Esta unidad se encuentra totalmente equipada y decorada muebles y accesorios de gran calidad y buen gusto. Se localiza a tan solo unos metros del mar y a unos cuantos pasos de la famosa Quinta Avenida de Playa del Carmen.Este lugar único tiene su propio estilo.",
+            "alojamiento": "Si eres amante del estilo mediterráneo esta unidad será ideal para tu estancia, los delicados detalles diseñados por la casona playa del carmen lo hacen único brindando la sensación de frescura y calma.",
+            "acceso": "En ultimo piso del Condominio cuenta con un roof con barra, camastros, sillones y alberca que serán compartidos con otros huéspedes. También cuenta con un Gimnasio que tiene bicis estáticas instaladas."
+        },
+        "facilities": 
+        {
+            "remote": "Área para trabajar",
+            "lock": "Caja fuerte",
+            "wifi": "Free wifi",
+            "tv": "Televisión HD y Netflix",
+            "ac": "Sistema de aire acondicionado sin conductos tipo split",
+            "fan": "Ventilador de techo",
+            "coffee": "Cafetera",
+            "parking": "Estacionamiento de pago en las instalaciones"
+        },
+        "img": 
+        {
+            "img1": "../img/apartments/kumaru01/1.jpg",
+            "img2": "../img/apartments/kumaru01/2.jpg"
+        },
+        "extras": {
+            "icon": {
+                "pet": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M13.7 13.93a4 4 0 0 1 5.28.6l.29.37 4.77 6.75a4 4 0 0 1 .6 3.34 4 4 0 0 1-4.5 2.91l-.4-.08-3.48-.93a1 1 0 0 0-.52 0l-3.47.93a4 4 0 0 1-2.94-.35l-.4-.25a4 4 0 0 1-1.2-5.2l.23-.37 4.77-6.75a4 4 0 0 1 .96-.97zm3.75 1.9a2 2 0 0 0-2.98.08l-.1.14-4.84 6.86a2 2 0 0 0 2.05 3.02l.17-.04 4-1.07a1 1 0 0 1 .5 0l3.97 1.06.15.04a2 2 0 0 0 2.13-2.97l-4.95-7.01zM27 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM5 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm22 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM5 14a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm6-10a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm10 0a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM11 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm10 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4z'/></svg>",
+                "wifi": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 20.33a3.67 3.67 0 1 1 0 7.34 3.67 3.67 0 0 1 0-7.34zm0 2a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34zM16 15a9 9 0 0 1 8.04 4.96l-1.51 1.51a7 7 0 0 0-13.06 0l-1.51-1.51A9 9 0 0 1 16 15zm0-5.33c4.98 0 9.37 2.54 11.94 6.4l-1.45 1.44a12.33 12.33 0 0 0-20.98 0l-1.45-1.45A14.32 14.32 0 0 1 16 9.66zm0-5.34c6.45 0 12.18 3.1 15.76 7.9l-1.43 1.44a17.64 17.64 0 0 0-28.66 0L.24 12.24c3.58-4.8 9.3-7.9 15.76-7.9z'/></svg>",
+                "outdoor": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bed": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "ac": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "parking": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bbq": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "dryer": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "work": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "coffee": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "security": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>"
+                
+                
+            },
+            "text": {
+                "bed": "Cama queensize",
+                "dryer": "Secadora",
+                "outdoor": "Muebles de jardin o terraza",
+                "pet": "Admite mascotas",
+                "work": "Área para trabajo remoto",
+                "bbq": "Bbq privada",
+                "security": "Seguridad privada",
+                "wifi": "Free wifi",
+                "tv": "Televisión",
+                "ac": "Sistema de aire acondicionado",
+                "fan": "Ventilador de techo",
+                "coffee": "Cafetera",
+                "parking": "Estacionamiento en las instalaciones"
+            }
+        }
+        
+    },
+    {
+        "id": "kumaru-04",
+        "title": "Beachfront Bliss in Playa del Carmen",
+        "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+        "details": {
+            "rooms": "2 Habitaciones",
+            "area": "Playa del Carmen",
+            "plus": "Vistas Panoramicas"
+        },
+        "description": 
+        {
+            "acerca": "Kumaru es un condominio localizado en la zona diamante de Playa del Carmen. Se encuentra sobre avenida CTM entre la famosa 5th avenida y 10th avenida. Esta unidad se encuentra totalmente equipada y decorada muebles y accesorios de gran calidad y buen gusto. Se localiza a tan solo unos metros del mar y a unos cuantos pasos de la famosa Quinta Avenida de Playa del Carmen.Este lugar único tiene su propio estilo.",
+            "alojamiento": "Si eres amante del estilo mediterráneo esta unidad será ideal para tu estancia, los delicados detalles diseñados por la casona playa del carmen lo hacen único brindando la sensación de frescura y calma.",
+            "acceso": "En ultimo piso del Condominio cuenta con un roof con barra, camastros, sillones y alberca que serán compartidos con otros huéspedes. También cuenta con un Gimnasio que tiene bicis estáticas instaladas."
+        },
+        "facilities": 
+        {
+            "remote": "Área para trabajar",
+            "lock": "Caja fuerte",
+            "wifi": "Free wifi",
+            "tv": "Televisión HD y Netflix",
+            "ac": "Sistema de aire acondicionado sin conductos tipo split",
+            "fan": "Ventilador de techo",
+            "coffee": "Cafetera",
+            "parking": "Estacionamiento de pago en las instalaciones"
+        },
+        "img": 
+        {
+            "img1": "../img/apartments/kumaru01/1.jpg",
+            "img2": "../img/apartments/kumaru01/2.jpg"
+        },
+        "extras": {
+            "icon": {
+                "pet": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M13.7 13.93a4 4 0 0 1 5.28.6l.29.37 4.77 6.75a4 4 0 0 1 .6 3.34 4 4 0 0 1-4.5 2.91l-.4-.08-3.48-.93a1 1 0 0 0-.52 0l-3.47.93a4 4 0 0 1-2.94-.35l-.4-.25a4 4 0 0 1-1.2-5.2l.23-.37 4.77-6.75a4 4 0 0 1 .96-.97zm3.75 1.9a2 2 0 0 0-2.98.08l-.1.14-4.84 6.86a2 2 0 0 0 2.05 3.02l.17-.04 4-1.07a1 1 0 0 1 .5 0l3.97 1.06.15.04a2 2 0 0 0 2.13-2.97l-4.95-7.01zM27 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM5 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm22 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM5 14a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm6-10a4 4 0 1 1 0 8 4 4 0 0 1 0-8zm10 0a4 4 0 1 1 0 8 4 4 0 0 1 0-8zM11 6a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm10 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4z'/></svg>",
+                "wifi": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M16 20.33a3.67 3.67 0 1 1 0 7.34 3.67 3.67 0 0 1 0-7.34zm0 2a1.67 1.67 0 1 0 0 3.34 1.67 1.67 0 0 0 0-3.34zM16 15a9 9 0 0 1 8.04 4.96l-1.51 1.51a7 7 0 0 0-13.06 0l-1.51-1.51A9 9 0 0 1 16 15zm0-5.33c4.98 0 9.37 2.54 11.94 6.4l-1.45 1.44a12.33 12.33 0 0 0-20.98 0l-1.45-1.45A14.32 14.32 0 0 1 16 9.66zm0-5.34c6.45 0 12.18 3.1 15.76 7.9l-1.43 1.44a17.64 17.64 0 0 0-28.66 0L.24 12.24c3.58-4.8 9.3-7.9 15.76-7.9z'/></svg>",
+                "outdoor": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bed": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "ac": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "parking": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "bbq": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "dryer": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "work": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "coffee": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>",
+                "security": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' aria-hidden='true' role='presentation' focusable='false' style='display: block; height: 24px; width: 24px; fill: currentcolor;'><path d='M29 15v16h-2v-6h-6v6h-2v-6.15a2 2 0 0 1 1.84-1.84L21 23h6v-8zM5 15v8h6a2 2 0 0 1 2 1.85V31h-2v-6H5v6H3V15zM16 1a15 15 0 0 1 13.56 8.57 1 1 0 0 1-.8 1.42l-.1.01H17v8h8v2h-8v10h-2V21H7v-2h8v-8H3.35a1 1 0 0 1-.95-1.32l.04-.1A15 15 0 0 1 16 1zm0 2A13 13 0 0 0 5.4 8.47l-.2.28-.16.25h21.92l-.17-.25a13 13 0 0 0-10.1-5.73L16.34 3z'/></svg>"
+                
+                
+            },
+            "text": {
+                "bed": "Cama queensize",
+                "dryer": "Secadora",
+                "outdoor": "Muebles de jardin o terraza",
+                "pet": "Admite mascotas",
+                "work": "Área para trabajo remoto",
+                "bbq": "Bbq privada",
+                "security": "Seguridad privada",
+                "wifi": "Free wifi",
+                "tv": "Televisión",
+                "ac": "Sistema de aire acondicionado",
+                "fan": "Ventilador de techo",
+                "coffee": "Cafetera",
+                "parking": "Estacionamiento en las instalaciones"
+            }
+        }
+        
+    }
+
+    
+]
