@@ -20,7 +20,7 @@ export const NavBar = () => {
             <nav >
                 <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
                     <li className='navlink'>
-                        <Link to="/">Home</Link>
+                        <Link to="/">Nosotros</Link>
                     </li>
                     {
                         isActiveDepartamentos &&
@@ -31,14 +31,14 @@ export const NavBar = () => {
                                 spy={true}
                                 smooth={true}
                                 offset={-150}
-                                duration={500}
+                                duration={1000}
                             >
-                                Departments
+                                Departamentos
                             </NavScroll>
                         </li>
                     }
                     <li className='navlink'>
-                        <Link to="/contact">Contact</Link></li>
+                        <Link to="/contact">Contacto</Link></li>
 
                 </ul>
             </nav>

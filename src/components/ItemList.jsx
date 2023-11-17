@@ -19,7 +19,7 @@ export const ItemList = ({ productos }) => {
 
                             style={{
                                 backgroundImage: `url(${hoveredIndex === index ? prod.img.img1 : 'transparent'})`,
-                                transitionDuration: '1000ms',
+                                transitionDuration: '1500ms',
                                 // backgroundPosition: 'center calc(100% + 200px)',
                             }}
                         >
