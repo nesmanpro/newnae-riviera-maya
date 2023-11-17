@@ -7,7 +7,7 @@ export const NavBar = () => {
 
     const location = useLocation();
 
-    const isActiveDepartamentos = location.pathname === '/';
+    const isDark = location.pathname === '/';
 
     return (
         <section className='flex justify-between items-center pt-5'>
@@ -18,13 +18,32 @@ export const NavBar = () => {
 
             </nav>
             <nav >
-                <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
-                    <li className='navlink'>
-                        <Link to="/">Nosotros</Link>
-                    </li>
-                    {
-                        isActiveDepartamentos &&
+                {isDark ?
+                    <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
+                        <li className='navlink'>
+                            <Link to="/">Nosotros</Link>
+                        </li>
                         <li className='navlink cursor-pointer'>
+                            <NavScroll
+                                to="ItemList"
+                                spy={true}
+                                smooth={true}
+                                offset={-150}
+                                duration={1000}
+                            >
+                                Departamentos
+                            </NavScroll>
+                        </li>
+                        <li className='navlink'>
+                            <Link to="/contact">Contacto</Link>
+                        </li>
+                    </ul>
+                    :
+                    <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
+                        <li className='navlinkDark'>
+                            <Link to="/">Nosotros</Link>
+                        </li>
+                        <li className='navlinkDark cursor-pointer'>
 
                             <NavScroll
                                 to="ItemList"
@@ -36,11 +55,12 @@ export const NavBar = () => {
                                 Departamentos
                             </NavScroll>
                         </li>
-                    }
-                    <li className='navlink'>
-                        <Link to="/contact">Contacto</Link></li>
+                        <li className='navlinkDark'>
+                            <Link to="/contact">Contacto</Link>
+                        </li>
+                    </ul>
+                }
 
-                </ul>
             </nav>
 
 
