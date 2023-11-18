@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 
 export const BannerBot = () => {
+
     return (
         <section className='grid grid-cols-2 items-center h-96 overflow-hidden text-2xl text-azulOscuro bg-arenaClaro rounded-tr-3xl rounded-tl-3xl relative bottom-[-22px] z-20'>
             <div className='h-full bg-[url("../public/img/apartments/kumaru01/3.jpg")] bg-cover bg-center'>

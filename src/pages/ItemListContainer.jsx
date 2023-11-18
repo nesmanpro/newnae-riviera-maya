@@ -9,12 +9,15 @@ export const ItemListContainer = () => {
 
     const [productos, setProductos] = useState([]);
 
+
+
     useEffect(() => {
 
         PedirDatos()
             .then((res) => {
                 setProductos(res)
             })
+
     }, [])
 
 

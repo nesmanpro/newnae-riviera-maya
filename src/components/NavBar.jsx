@@ -6,7 +6,6 @@ import { Link as NavScroll } from 'react-scroll'
 export const NavBar = () => {
 
     const location = useLocation();
-
     const isDark = location.pathname === '/';
 
     return (
@@ -45,15 +44,9 @@ export const NavBar = () => {
                         </li>
                         <li className='navlinkDark cursor-pointer'>
 
-                            <NavScroll
-                                to="ItemList"
-                                spy={true}
-                                smooth={true}
-                                offset={-150}
-                                duration={1000}
-                            >
-                                Departamentos
-                            </NavScroll>
+                            <li className='navlinkDark'>
+                                <Link to="/">Apartamentos</Link>
+                            </li>
                         </li>
                         <li className='navlinkDark'>
                             <Link to="/contact">Contacto</Link>

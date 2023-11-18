@@ -1,6 +1,8 @@
 import { Link } from 'react-scroll'
 import img1 from '../assets/images/30-02.png'
+
 export const Details = () => {
+
     return (
         <div>
             <main className="flex justify-center px-5 py-10 sm:p-16">
@@ -17,7 +19,7 @@ export const Details = () => {
                             spy={true}
                             smooth={true}
                             offset={-150}
-                            duration={500}
+                            duration={1000}
                             className=" text-arenaClaro  font-semibold cursor-pointer"
                         >
                             <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" fill="currentColor" className="bi bi-arrow-down-circle-fill" viewBox="0 0 16 16">
