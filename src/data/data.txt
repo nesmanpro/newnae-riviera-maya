@@ -1,4 +1,3 @@
-apiKey={'AIzaSyALn0hAF6IvpaqBUDOdNgflSG9R_Kko1U4'}
 
 20.6296° N, 87.0739° W
 
