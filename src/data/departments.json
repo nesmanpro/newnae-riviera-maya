@@ -4,9 +4,10 @@
         "title": "Beachfront Bliss in Playa del Carmen",
         "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
         "details": {
-            "rooms": "2 Habitaciones",
-            "area": "Playa del Carmen",
-            "plus": "Vistas Panoramicas"
+            "rooms": "2 habitaciones",
+            "guest": "3 huespedes",
+            "plus": "vistas panoramicas",
+            "area": "playa del carmen"
         },
         "description": 
         {
@@ -28,7 +29,10 @@
         "img": 
         {
             "img1": "../img/apartments/kumaru01/1.jpg",
-            "img2": "../img/apartments/kumaru01/2.jpg"
+            "img2": "../img/apartments/kumaru01/2.jpg",
+            "img3": "../img/apartments/kumaru01/3.jpg",
+            "img4": "../img/apartments/kumaru01/4.jpg",
+            "img5": "../img/apartments/kumaru01/5.jpg"
         },
         "extras": {
             "icon": {
@@ -69,9 +73,10 @@
         "title": "Beachfront Bliss in Playa del Carmen",
         "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
         "details": {
-            "rooms": "2 Habitaciones",
-            "area": "Playa del Carmen",
-            "plus": "Vistas Panoramicas"
+            "rooms": "2 habitaciones",
+            "guest": "3 huespedes",
+            "plus": "vistas panoramicas",
+            "area": "playa del carmen"
         },
         "description": 
         {
@@ -93,7 +98,10 @@
         "img": 
         {
             "img1": "../img/apartments/kumaru01/1.jpg",
-            "img2": "../img/apartments/kumaru01/2.jpg"
+            "img2": "../img/apartments/kumaru01/2.jpg",
+            "img3": "../img/apartments/kumaru01/3.jpg",
+            "img4": "../img/apartments/kumaru01/4.jpg",
+            "img5": "../img/apartments/kumaru01/5.jpg"
         },
         "extras": {
             "icon": {
@@ -133,9 +141,10 @@
         "title": "Beachfront Bliss in Playa del Carmen",
         "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
         "details": {
-            "rooms": "2 Habitaciones",
-            "area": "Playa del Carmen",
-            "plus": "Vistas Panoramicas"
+            "rooms": "2 habitaciones",
+            "guest": "3 huespedes",
+            "plus": "vistas panoramicas",
+            "area": "playa del carmen"
         },
         "description": 
         {
@@ -157,7 +166,10 @@
         "img": 
         {
             "img1": "../img/apartments/kumaru01/1.jpg",
-            "img2": "../img/apartments/kumaru01/2.jpg"
+            "img2": "../img/apartments/kumaru01/2.jpg",
+            "img3": "../img/apartments/kumaru01/3.jpg",
+            "img4": "../img/apartments/kumaru01/4.jpg",
+            "img5": "../img/apartments/kumaru01/5.jpg"
         },
         "extras": {
             "icon": {
@@ -198,9 +210,10 @@
         "title": "Beachfront Bliss in Playa del Carmen",
         "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
         "details": {
-            "rooms": "2 Habitaciones",
-            "area": "Playa del Carmen",
-            "plus": "Vistas Panoramicas"
+            "rooms": "2 habitaciones",
+            "guest": "3 huespedes",
+            "plus": "vistas panoramicas",
+            "area": "playa del carmen"
         },
         "description": 
         {
@@ -222,7 +235,10 @@
         "img": 
         {
             "img1": "../img/apartments/kumaru01/1.jpg",
-            "img2": "../img/apartments/kumaru01/2.jpg"
+            "img2": "../img/apartments/kumaru01/2.jpg",
+            "img3": "../img/apartments/kumaru01/3.jpg",
+            "img4": "../img/apartments/kumaru01/4.jpg",
+            "img5": "../img/apartments/kumaru01/5.jpg"
         },
         "extras": {
             "icon": {

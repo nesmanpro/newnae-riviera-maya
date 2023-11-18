@@ -28,7 +28,6 @@ export const ItemDetailContainer = () => {
     return (
         <div>
             {item && <ItemDetail item={item} />}
-
         </div>
     )
 }

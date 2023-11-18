@@ -14,9 +14,8 @@ export const NavBar = () => {
                 <Link to="/">
                     <img className='h-16 hover:scale-110 transition ease-in delay-50' src={Logo} alt="Logo Nae Riviera Maya" />
                 </Link>
-
             </nav>
-            <nav >
+            <nav>
                 {isDark ?
                     <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
                         <li className='navlink'>
@@ -42,12 +41,12 @@ export const NavBar = () => {
                         <li className='navlinkDark'>
                             <Link to="/">Nosotros</Link>
                         </li>
-                        <li className='navlinkDark cursor-pointer'>
 
-                            <li className='navlinkDark'>
-                                <Link to="/">Apartamentos</Link>
-                            </li>
+
+                        <li className='navlinkDark'>
+                            <Link to="/">Apartamentos</Link>
                         </li>
+
                         <li className='navlinkDark'>
                             <Link to="/contact">Contacto</Link>
                         </li>
