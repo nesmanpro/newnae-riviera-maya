@@ -47,7 +47,7 @@ h3 {
 }
 
 .navlinkDark::after{
-    background-color: #219EBC;
+    background-color: #9BBEB8;
 }
 
 .navlink::after{
@@ -58,3 +58,17 @@ h3 {
 .navlinkDark:hover::after {
     transform: scaleX(1);
 }
+
+
+.whatsapp::before {
+    content: '';
+    position: absolute;
+    height: 29px;
+    width: 29px;
+    background-color: #25D366;
+    bottom: 4px;
+    left: 4px;
+    
+}
+
+

@@ -6,7 +6,7 @@ export const Details = () => {
     return (
         <div>
             <main className="flex justify-center px-5 py-10 sm:p-16">
-                <section className="overflow-hidden grid grid-cols-2 justify-center items-center rounded-3xl lg:max-w-4xl  bg-azulOscuro">
+                <section className="overflow-hidden grid grid-cols-2 justify-center items-center rounded-3xl lg:max-w-4xl  bg-azulClaro">
 
                     <img className="w-full object-cover max-h-unit-40 sm:max-h-unit-5xl lg:max-h-unit-6xl" src={img1} alt="Rent your apartment in Riviera Maya" />
 

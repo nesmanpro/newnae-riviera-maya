@@ -18,7 +18,7 @@ export default {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      'azulClaro': '#219EBC',
+      'azulClaro': '#9BBEB8',
       'azulOscuro': '#023047',
       'arenaClaro': '#FFF8EA',
       'arenaOscuro': '#FFE299',

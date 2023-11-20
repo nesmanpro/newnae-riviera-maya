@@ -4,6 +4,7 @@ import { Footer } from './components/Footer'
 import { Contact } from './pages/Contact'
 import { ItemListContainer } from './pages/ItemListContainer'
 import { ItemDetailContainer } from './pages/ItemDetailContainer'
+import { Whatsapp } from './components/Whatsapp'
 
 
 
@@ -22,7 +23,7 @@ function App() {
             <Route exact path='/item/:id' element={<ItemDetailContainer />} />
 
           </Routes>
-
+          <Whatsapp />
           <Footer />
         </div>
       </BrowserRouter>
