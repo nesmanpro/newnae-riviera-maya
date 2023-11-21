@@ -1,9 +1,23 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
 export const ItemList = ({ productos }) => {
 
     const [hoveredIndex, setHoveredIndex] = useState(null);
+    const [preloadedImages, setPreloadedImages] = useState([]);
+
+    useEffect(() => {
+        const preloadImages = () => {
+            const images = productos.map(prod => {
+                const image = new Image();
+                image.src = prod.img.img1; // Aquí debes especificar la URL de tu imagen de fondo
+                return image;
+            });
+            setPreloadedImages(images);
+        };
+
+        preloadImages();
+    }, [productos]);
 
 
     return (
@@ -14,9 +28,13 @@ export const ItemList = ({ productos }) => {
                     productos.map((prod, index) =>
                     (
 
-                        <Link rel="preload" to={`/item/${prod.id}`} key={prod.id} className={` border-azulClaro w-[80vw] 2xl:w-[50vw]  border-b-1 last:border-none hover:w-full px-20 py-20 sm:py-6 sm:pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-64 hover:border-none hover:shadow-inner-2xl`}
+                        <Link
+                            rel="preload"
+                            to={`/item/${prod.id}`}
+                            key={prod.id}
                             onMouseEnter={() => setHoveredIndex(index)}
                             onMouseLeave={() => setHoveredIndex(null)}
+                            className={` border-azulClaro w-[80vw] 2xl:w-[50vw]  border-b-1 last:border-none hover:w-full px-20 py-20 sm:py-6 sm:pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-64 hover:border-none hover:shadow-inner-2xl`}
 
                             style={{
                                 backgroundImage: `url(${hoveredIndex === index ? prod.img.img1 : 'transparent'})`,
