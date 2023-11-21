@@ -9,12 +9,12 @@ export const Contact = () => {
 
     return (
         <>
-            <main className='grid grid-cols-2 mt-32 min-h-[30vh]'>
+            <main className='grid grid-cols-1 sm:grid-cols-2 mt-20 sm:mt-32 min-h-[30vh] mb-10 sm:mb-0'>
                 <section className='flex flex-col justify-center'>
-                    <div className='md:px-16 px-6 pb-2'>
+                    <div className='md:px-16 px-6  pb-20 sm:pb-2'>
 
                         <div className="flex flex-col ">
-                            <h1 className="text-2xl sm:text-3xl text-azulOscuro leading-none tracking-wide  xs:text-2xl md:text-3xl lg:text-5xl mb-2"> ¿Cómo hacer una reserva?</h1>
+                            <h1 className=" text-azulOscuro leading-none tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10"> ¿Cómo hacer una reserva?</h1>
                         </div>
                         <div>
                             <p className="text-azulOscuro  text-md">La mejor manera de hacer una reserva es ponerte en contacto directamente con nuestro agente. Llamando a nuestras oficinas te proporcionaremos una atencion personalizada, brindandote el mejor servicio y que  más se adecúe a tus necesidades, sin que tu bolsillo salga perjudicado.</p>
@@ -23,13 +23,13 @@ export const Contact = () => {
                     </div>
                 </section>
 
-                <section className="flex flex-col justify-center ml-20">
+                <section className="flex flex-col items-start justify-center px-6 sm:px-0 ml-0 sm:ml-20">
 
 
 
-                    <h1 className="text-3xl text-azulOscuro tracking-wide xs:text-2xl md:text-3xl lg:text-5xl mb-2">Contacto: </h1>
+                    <h1 className=" text-azulOscuro tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10">Contacto: </h1>
 
-                    <div className='flex flex-col gap-6 md:items-start items-center justify-center'>
+                    <div className='flex flex-col gap-6  justify-center'>
                         <div className='flex gap-6'>
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-azulClaro" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />

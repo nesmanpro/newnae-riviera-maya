@@ -14,7 +14,7 @@ export const ItemList = ({ productos }) => {
                     productos.map((prod, index) =>
                     (
 
-                        <Link to={`/item/${prod.id}`} key={prod.id} className={` border-azulClaro w-[70vw] border-b-1 last:border-none  hover:w-full px-20 py-6 pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-64 hover:border-none hover:shadow-inner-2xl`}
+                        <Link to={`/item/${prod.id}`} key={prod.id} className={` border-azulClaro w-[80vw] 2xl:w-[50vw]  border-b-1 last:border-none hover:w-full px-20 py-20 sm:py-6 sm:pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-64 hover:border-none hover:shadow-inner-2xl`}
                             onMouseEnter={() => setHoveredIndex(index)}
                             onMouseLeave={() => setHoveredIndex(null)}
 
@@ -26,20 +26,15 @@ export const ItemList = ({ productos }) => {
                             }}
                         >
 
-                            <div className="flex justify-center items-center gap-7 h-full w-full ">
-                                {/* <div>
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" className={`bi bi-plus-lg ${hoveredIndex === index ? 'hidden' : 'text-azulClaro'}`} viewBox="0 0 16 16">
-                                        <path fillRule="evenodd" d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2Z" />
-                                    </svg>
-                                </div> */}
+                            <div className="flex justify-center items-center gap-7 h-full">
                                 <div className={`max-w-3xl ${hoveredIndex === index ? 'text-arenaClaro' : 'text-azulOscuro'}`}>
-                                    <div>
-                                        <h3 className={'font-semibold text-3xl'}>{prod.title}</h3>
+                                    <div className="flex justify-left ">
+                                        <h3 className={'font-semibold text-2xl sm:text-3xl'}>{prod.title}</h3>
                                     </div>
-                                    <div className="flex justify-evenly gap-12">
+                                    <div className="flex justify-left sm:gap-12 gap-8 text-xs sm:text-base w-[80vw] sm:max-w-3xl ">
                                         <p>{prod.details.rooms}</p>
                                         <p>{prod.details.area}</p>
-                                        <p>{prod.details.plus}</p>
+                                        <p className="hidden sm:flex">{prod.details.plus}</p>
                                     </div>
                                 </div>
 

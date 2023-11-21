@@ -1,5 +1,5 @@
 import { Typography } from "@material-tailwind/react";
-import Logo from '../assets/logo/logoLight.svg'
+import Logo from '../assets/logo/logoDark.svg'
 import { Link } from "react-router-dom";
 
 export function Footer() {

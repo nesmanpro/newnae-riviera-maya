@@ -1,7 +1,9 @@
 import { Link, useLocation } from 'react-router-dom'
 import Logo from '../assets/logo/logoLight.svg'
+import LogoDark from '../assets/logo/logoDark.svg'
 import { Link as NavScroll } from 'react-scroll'
 
+const esMobile = window.innerWidth <= 640;
 
 export const NavBar = () => {
 
@@ -10,14 +12,32 @@ export const NavBar = () => {
 
     return (
         <section className='flex justify-between items-center pt-5'>
-            <nav>
-                <Link to="/">
-                    <img className='h-16 hover:scale-110 transition ease-in delay-50' src={Logo} alt="Logo Nae Riviera Maya" />
-                </Link>
-            </nav>
+            {esMobile ?
+
+                <nav>
+                    <Link to="/">
+                        <img className='h-10 sm:h-16 hover:scale-110 transition ease-in delay-50' src={Logo} alt="Logo Nae Riviera Maya" />
+                    </Link>
+                </nav>
+                :
+                isDark ? <nav>
+                    <Link to="/">
+                        <img className='h-10 sm:h-16 hover:scale-110 transition ease-in delay-50' src={LogoDark} alt="Logo Nae Riviera Maya" />
+                    </Link>
+                </nav>
+                    :
+                    <nav>
+                        <Link to="/">
+                            <img className='h-10 sm:h-16 hover:scale-110 transition ease-in delay-50' src={Logo} alt="Logo Nae Riviera Maya" />
+                        </Link>
+                    </nav>
+
+            }
+
+
             <nav>
                 {isDark ?
-                    <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
+                    <ul className='flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold sm:text-azulOscuro text-arenaClaro'>
                         <li className='navlink'>
                             <Link to="/">Nosotros</Link>
                         </li>
@@ -37,14 +57,14 @@ export const NavBar = () => {
                         </li>
                     </ul>
                     :
-                    <ul className='flex gap-5 font-sans font-bold text-arenaClaro'>
+                    <ul className='flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold text-arenaClaro'>
                         <li className='navlinkDark'>
                             <Link to="/">Nosotros</Link>
                         </li>
 
 
                         <li className='navlinkDark'>
-                            <Link to="/">Apartamentos</Link>
+                            <Link to="/">Departamentos</Link>
                         </li>
 
                         <li className='navlinkDark'>
