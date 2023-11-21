@@ -13,6 +13,12 @@ export default {
         helvetica: 'helvetica',
         josefine: 'josefine',
         bebas: 'bebas'
+      },
+      screens: {
+        '3xl': '1600px',
+        '4xl': '1700px',
+        '5xl': '1900px'
+
       }
     },
     colors: {

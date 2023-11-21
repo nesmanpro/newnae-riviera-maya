@@ -17,25 +17,25 @@ export const ItemDetail = ({ item }) => {
 
             {/* 1ra Seccion imagen principal */}
 
-            <div className="h-[65vh] overflow-hidden">
+            <div className="md:h-[65vh] w-full overflow-hidden">
                 <img className="w-full bottom-[-200px]" src={item.img.img2} alt={item.subtitle} />
             </div>
 
             {/* 2da Seccion titulo & img */}
 
             <div className="grid grid-cols-2">
-                <div className="bg-azulOscuro p-12 text-arenaClaro pl-20">
+                <div className="bg-azulOscuro p-3 sm:p-12 text-arenaClaro 5xl:pl-96 4xl:pl-72 3xl:pl-60">
 
                     {/* Izquierda */}
 
                     <div className="border-b-1 border-azulClaro pb-5">
-                        <h1 className="font-bebas text-6xl tracking-wide pb-5">{item.title}</h1>
-                        <p className="leading-tight">{item.description.alojamiento}</p>
+                        <h1 className="font-bebas text-2xl sm:text-4xl md:text-6xl tracking-wide pb-5">{item.title}</h1>
+                        <p className="text-xs md:text-sm lg:text-base leading-tight">{item.description.alojamiento}</p>
                     </div>
 
-                    <div className="text-arenaclaro mt-5 grid grid-cols-2 gap-2">
+                    <div className="text-xs md:text-sm lg:text-base text-arenaclaro mt-5 grid sm:grid-cols-2 sm:gap-2">
                         {firstSix.map((key, index) => (
-                            <div className="flex gap-3 mb-5" key={index}>
+                            <div className="flex gap-3 mb-2 sm:mb-5" key={index}>
                                 <div dangerouslySetInnerHTML={{ __html: item.extras.icon[key] }} />
                                 <h4>{item.extras.text[key]}</h4>
                             </div>
@@ -53,9 +53,12 @@ export const ItemDetail = ({ item }) => {
 
             {/* 3ra Seccion Sobre el departamento */}
 
-            <div className="text-azulOscuro py-12 px-20 bg-arenaClaro">
-                <h2 className="w-full font-bebas text-5xl tracking-wide border-b-1 border-azulClaro pb-2">Sobre el departamento</h2>
-                <p className="mt-7">{item.description.acerca}</p>
+            <div className="flex justify-center  py-12 px-20">
+
+                <div className="text-azulOscuro bg-arenaClaro lg:max-w-7xl">
+                    <h2 className="w-full font-bebas text-5xl tracking-wide border-b-1 border-azulClaro pb-2">Sobre el departamento</h2>
+                    <p className="mt-7">{item.description.acerca}</p>
+                </div>
             </div>
 
             {/* 4ta Seccion Imagenes */}
@@ -68,68 +71,74 @@ export const ItemDetail = ({ item }) => {
 
             {/* 5ta Seccion Info y Mapa */}
 
-            <div className="my-16">
-                <div className="grid grid-cols-3 mx-20 my-10 gap-10">
+            <div className="flex flex-col items-center py-12 px-20">
 
-                    {/* Info */}
+                {/* Info */}
+                <div className="">
 
-                    <div className="col-span-2">
-                        <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
-                            <h3 className="">{item.details.rooms}</h3>
-                            <h3>·</h3>
-                            <h3 className="">{item.details.guest}</h3>
-                            <h3>·</h3>
-                            <h3 className="">{item.details.plus}</h3>
+                    <div className="grid grid-cols-3 my-10 gap-10 max-w-7xl">
+
+                        <div className="col-span-2 ">
+                            <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
+                                <h3 className="">{item.details.rooms}</h3>
+                                <h3>·</h3>
+                                <h3 className="">{item.details.guest}</h3>
+                                <h3>·</h3>
+                                <h3 className="">{item.details.plus}</h3>
+                            </div>
+                            <p>{item.description.acerca}</p>
                         </div>
-                        <p>{item.description.acerca}</p>
+
+
+                        <div className="">
+                            <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
+                                <h3 className="">Acerca de {item.details.area}</h3>
+                            </div>
+                            <p>{item.description.acceso}</p>
+                        </div>
+
                     </div>
 
-
-                    <div className="">
-                        <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
-                            <h3 className="">Acerca de {item.details.area}</h3>
-                        </div>
-                        <p>{item.description.acceso}</p>
-                    </div>
-
-                </div>
-                <div className="grid grid-cols-3 mx-20 my-10 gap-10">
                     {/* mapa */}
 
-                    <div className="col-span-2">
-                        {isLoaded ?
-                            (<GoogleMap
-                                center={{
-                                    lat: item.details.location.lat,
-                                    lng: item.details.location.lng
-                                }}
-                                zoom={18}
-                                mapContainerStyle={{
-                                    width: '100%',
-                                    height: '100%'
-                                }}
-                            >
-                            </GoogleMap>) : null}
-                    </div>
+                    <div className="grid grid-cols-3 gap-10">
 
-
-                    <div className="">
-                        <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
-                            <h3 className="">otros servicios</h3>
-                        </div>
-                        <div className="text-arenaclaro mt-5 gap-2">
-                            {secondSix.map((key, index) => (
-                                <div className="flex gap-3 mb-5" key={index}>
-                                    <div dangerouslySetInnerHTML={{ __html: item.extras.icon[key] }} />
-                                    <h4>{item.extras.text[key]}</h4>
-                                </div>
-                            ))}
+                        <div className="col-span-2">
+                            {isLoaded ?
+                                (<GoogleMap
+                                    center={{
+                                        lat: item.details.location.lat,
+                                        lng: item.details.location.lng
+                                    }}
+                                    zoom={18}
+                                    mapContainerStyle={{
+                                        width: '100%',
+                                        height: '100%'
+                                    }}
+                                >
+                                </GoogleMap>) : null}
                         </div>
 
 
-                    </div>
+                        <div className="">
+                            <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
+                                <h3 className="">otros servicios</h3>
+                            </div>
+                            <div className="text-arenaclaro mt-5 gap-2">
+                                {secondSix.map((key, index) => (
+                                    <div className="flex gap-3 mb-5" key={index}>
+                                        <div dangerouslySetInnerHTML={{ __html: item.extras.icon[key] }} />
+                                        <h4>{item.extras.text[key]}</h4>
+                                    </div>
+                                ))}
+                            </div>
 
+
+                        </div>
+
+                    </div>
                 </div>
+
 
             </div>
 

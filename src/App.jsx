@@ -15,7 +15,7 @@ function App() {
     <>
       <BrowserRouter>
 
-        <div className="bg-arenaClaro">
+        <div className="bg-arenaClaro min-h-screen">
           <Header />
           <Routes>
             <Route exact path='/' element={<ItemListContainer />} />
