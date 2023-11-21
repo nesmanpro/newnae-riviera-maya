@@ -14,7 +14,7 @@ export const ItemList = ({ productos }) => {
                     productos.map((prod, index) =>
                     (
 
-                        <Link to={`/item/${prod.id}`} key={prod.id} className={` border-azulClaro w-[80vw] 2xl:w-[50vw]  border-b-1 last:border-none hover:w-full px-20 py-20 sm:py-6 sm:pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-64 hover:border-none hover:shadow-inner-2xl`}
+                        <Link rel="preload" to={`/item/${prod.id}`} key={prod.id} className={` border-azulClaro w-[80vw] 2xl:w-[50vw]  border-b-1 last:border-none hover:w-full px-20 py-20 sm:py-6 sm:pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-64 hover:border-none hover:shadow-inner-2xl`}
                             onMouseEnter={() => setHoveredIndex(index)}
                             onMouseLeave={() => setHoveredIndex(null)}
 
