@@ -23,7 +23,7 @@ export const ItemDetail = ({ item }) => {
 
             {/* 2da Seccion titulo & img */}
 
-            <div className="grid grid-cols-2">
+            <div className="grid sm:grid-cols-2">
                 <div className="bg-azulOscuro p-3 sm:p-12 text-arenaClaro 5xl:pl-96 4xl:pl-72 3xl:pl-60">
 
                     {/* Izquierda */}
@@ -33,7 +33,7 @@ export const ItemDetail = ({ item }) => {
                         <p className="text-xs md:text-sm lg:text-base leading-tight">{item.description.alojamiento}</p>
                     </div>
 
-                    <div className="text-xs md:text-sm lg:text-base text-arenaclaro mt-5 grid sm:grid-cols-2 sm:gap-2">
+                    <div className="text-xs md:text-sm lg:text-base text-arenaclaro mt-5 grid grid-cols-2 sm:gap-2">
                         {firstSix.map((key, index) => (
                             <div className="flex gap-3 mb-2 sm:mb-5" key={index}>
                                 <div dangerouslySetInnerHTML={{ __html: item.extras.icon[key] }} />
@@ -53,7 +53,7 @@ export const ItemDetail = ({ item }) => {
 
             {/* 3ra Seccion Sobre el departamento */}
 
-            <div className="flex justify-center  py-12 px-20">
+            <div className="flex justify-center  py-12 px-8 sm:px-20">
 
                 <div className="text-azulOscuro bg-arenaClaro lg:max-w-7xl">
                     <h2 className="w-full font-bebas text-5xl tracking-wide border-b-1 border-azulClaro pb-2">Sobre el departamento</h2>
@@ -71,7 +71,7 @@ export const ItemDetail = ({ item }) => {
 
             {/* 5ta Seccion Info y Mapa */}
 
-            <div className="flex flex-col items-center py-12 px-20">
+            <div className="flex flex-col items-center py-12 px-8 sm:px-20">
 
                 {/* Info */}
                 <div className="">
@@ -103,7 +103,7 @@ export const ItemDetail = ({ item }) => {
 
                     <div className="grid grid-cols-1 sm:grid-cols-3 gap-10 max-w-7xl">
 
-                        <div className=" sm:col-span-2">
+                        <div className="sm:col-span-2">
                             {isLoaded ?
                                 (<GoogleMap
                                     center={{
@@ -124,7 +124,7 @@ export const ItemDetail = ({ item }) => {
                             <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
                                 <h3 className="">otros servicios</h3>
                             </div>
-                            <div className="text-arenaclaro mt-5 gap-2">
+                            <div className="grid grid-cols-2 sm:grid-cols-1 text-arenaclaro mt-5 ">
                                 {secondSix.map((key, index) => (
                                     <div className="flex gap-3 mb-5" key={index}>
                                         <div dangerouslySetInnerHTML={{ __html: item.extras.icon[key] }} />
