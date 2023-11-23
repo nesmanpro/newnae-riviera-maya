@@ -30,19 +30,19 @@ export const Header = () => {
                             <div className="text-center lg:flex-auto lg:py-32 lg:text-left mb-20 lg:mb-0">
                                 {esMobile ? <div>
                                     <h1 className="pt-10 text-3xl font-bold tracking-normal text-arenaClaro text-center sm:text-7xl">
-                                        Bienvenido a Nae Riviera Maya
+                                        Bienvenido a Nae Riviera Maya Rentals
                                     </h1>
                                     <p className="mt-6 text-lg  leading-tight text-arenaClaro">
-                                        Pronto estara lista nuestra nueva web. Mientras tanto, puedes estar informado de todas nuestras novedades en nuestras redes sociales, encontrarás los links más abajo.
+                                        Más abajo descubrirás la amplia oferta disponibles de alojamiento para ti en la Riviera Maya mexicana. Tenemos apartamentos individuales y también para parejas o grupos de amigos y familiares.
                                     </p>
                                 </div>
                                     :
                                     <div>
                                         <h1 className="pt-10 text-3xl font-bold tracking-normal text-azulOscuro text-center sm:text-7xl">
-                                            Bienvenido a Nae Riviera Maya
+                                            Bienvenido a Nae Riviera Maya Rentals
                                         </h1>
                                         <p className="mt-6 text-lg  leading-tight text-azulOscuro">
-                                            Pronto estara lista nuestra nueva web. Mientras tanto, puedes estar informado de todas nuestras novedades en nuestras redes sociales, encontrarás los links más abajo.
+                                            Más abajo descubrirás la amplia oferta disponibles de alojamiento para ti en la Riviera Maya mexicana. Tenemos apartamentos individuales y también para parejas o grupos de amigos y familiares.
                                         </p>
                                     </div>
                                 }

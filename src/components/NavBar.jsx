@@ -39,7 +39,7 @@ export const NavBar = () => {
                 {isDark ?
                     <ul className='flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold sm:text-azulOscuro text-arenaClaro'>
                         <li className='navlink'>
-                            <Link to="/">Nosotros</Link>
+                            <Link to="/nosotros">Nosotros</Link>
                         </li>
                         <li className='navlink cursor-pointer'>
                             <NavScroll
