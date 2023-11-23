@@ -6,6 +6,7 @@ export const ItemList = ({ productos }) => {
     const [hoveredIndex, setHoveredIndex] = useState(null);
     const [preloadedImages, setPreloadedImages] = useState([]);
 
+
     useEffect(() => {
         const preloadImages = () => {
             const images = productos.map(prod => {

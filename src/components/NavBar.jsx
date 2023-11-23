@@ -22,13 +22,13 @@ export const NavBar = () => {
                 :
                 isDark ? <nav>
                     <Link to="/">
-                        <img className='h-10 sm:h-16 hover:scale-110 transition ease-in delay-50' src={LogoDark} alt="Logo Nae Riviera Maya" />
+                        <img className='h-10 sm:h-16 md:h-24 hover:scale-110 transition ease-in delay-50' src={LogoDark} alt="Logo Nae Riviera Maya" />
                     </Link>
                 </nav>
                     :
                     <nav>
                         <Link to="/">
-                            <img className='h-10 sm:h-16 hover:scale-110 transition ease-in delay-50' src={Logo} alt="Logo Nae Riviera Maya" />
+                            <img className='h-10 sm:h-16 md:h-24  hover:scale-110 transition ease-in delay-50' src={Logo} alt="Logo Nae Riviera Maya" />
                         </Link>
                     </nav>
 
@@ -37,7 +37,7 @@ export const NavBar = () => {
 
             <nav>
                 {isDark ?
-                    <ul className='flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold sm:text-azulOscuro text-arenaClaro'>
+                    <ul className='flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold  text-arenaClaro'>
                         <li className='navlink'>
                             <Link to="/nosotros">Nosotros</Link>
                         </li>

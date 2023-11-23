@@ -20,17 +20,17 @@ export const Header = () => {
             <div className="">
 
                 {isActiveDepartamentos ?
-                    <div className=" relative isolate overflow-hidden lg:flex justify-center">
+                    <div className=" relative isolate overflow-hidden lg:flex justify-center ">
                         {esMobile ? <img className='absolute object-cover overflow-hidden -z-20 w-full h-screen lg:h-full' src={img} alt="" />
-                            : <video className='absolute object-cover overflow-hidden -z-20 w-full h-screen lg:h-full' src={video} autoPlay loop muted alt="Caribbean sea" />
+                            : <video className='absolute object-cover overflow-hidden -z-20 w-full h-full' src={video} autoPlay loop muted alt="Caribbean sea" />
                         }
                         <main className='flex flex-col px-10 mt-4 mx-auto sm:max-w-[75%] xl:max-w-6xl'>
 
                             <NavBar />
-                            <div className="text-center lg:flex-auto lg:py-32 lg:text-left mb-20 lg:mb-0">
+                            <div className="text-center lg:flex-auto lg:py-16 lg:text-left mb-5">
                                 {esMobile ? <div>
                                     <h1 className="pt-10 text-3xl font-bold tracking-normal text-arenaClaro text-center sm:text-7xl">
-                                        Bienvenido a Nae Riviera Maya Rentals
+                                        Bienvenido a Nae Riviera Maya
                                     </h1>
                                     <p className="mt-6 text-lg  leading-tight text-arenaClaro">
                                         Más abajo descubrirás la amplia oferta disponibles de alojamiento para ti en la Riviera Maya mexicana. Tenemos apartamentos individuales y también para parejas o grupos de amigos y familiares.
@@ -38,10 +38,10 @@ export const Header = () => {
                                 </div>
                                     :
                                     <div>
-                                        <h1 className="pt-10 text-3xl font-bold tracking-normal text-azulOscuro text-center sm:text-7xl">
-                                            Bienvenido a Nae Riviera Maya Rentals
+                                        <h1 className="drop-shadow-md  pt-10 text-3xl sm:text-6xl font-bold tracking-normal text-arenaClaro text-center lg:text-7xl">
+                                            Bienvenido a Nae Riviera Maya
                                         </h1>
-                                        <p className="mt-6 text-lg  leading-tight text-azulOscuro">
+                                        <p className="drop-shadow-md mt-6 text-lg  leading-tight text-arenaClaro">
                                             Más abajo descubrirás la amplia oferta disponibles de alojamiento para ti en la Riviera Maya mexicana. Tenemos apartamentos individuales y también para parejas o grupos de amigos y familiares.
                                         </p>
                                     </div>
@@ -50,7 +50,7 @@ export const Header = () => {
 
                                 <div className="mt-10 flex items-center justify-center gap-x-6">
                                     <NavScroll
-                                        className="rounded-full bg-arenaClaro px-6 py-2.5 text-sm font-semibold text-azulOscuro border-2 border-arenaClaro hover:text-arenaClaro shadow-sm hover:bg-transparent transition hover:duration-500 ease-in-out"
+                                        className="drop-shadow-md rounded-full bg-arenaClaro px-6 py-2.5 text-sm font-semibold text-azulOscuro border-2 border-arenaClaro hover:text-arenaClaro shadow-sm hover:bg-transparent transition hover:duration-500 ease-in-out"
                                         to="ItemList"
                                         spy={true}
                                         smooth={true}
