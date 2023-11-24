@@ -20,27 +20,19 @@ export const NavBar = () => {
                     </Link>
                 </nav>
                 :
-                isDark ? <nav>
+
+                <nav>
                     <Link to="/">
-                        <img className='h-10 sm:h-16 md:h-24 hover:scale-110 transition ease-in delay-50' src={LogoDark} alt="Logo Nae Riviera Maya" />
+                        <img className='h-10 sm:h-16 md:h-24  hover:scale-110 transition ease-in delay-50' src={LogoDark} alt="Logo Nae Riviera Maya" />
                     </Link>
                 </nav>
-                    :
-                    <nav>
-                        <Link to="/">
-                            <img className='h-10 sm:h-16 md:h-24  hover:scale-110 transition ease-in delay-50' src={Logo} alt="Logo Nae Riviera Maya" />
-                        </Link>
-                    </nav>
 
             }
 
 
             <nav>
                 {isDark ?
-                    <ul className='flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold  text-arenaClaro'>
-                        <li className='navlink'>
-                            <Link to="/nosotros">Nosotros</Link>
-                        </li>
+                    <ul className='drop-shadow-md flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold  text-arenaClaro'>
                         <li className='navlink cursor-pointer'>
                             <NavScroll
                                 to="ItemList"
@@ -53,20 +45,20 @@ export const NavBar = () => {
                             </NavScroll>
                         </li>
                         <li className='navlink'>
+                            <Link to="/nosotros">Nosotros</Link>
+                        </li>
+                        <li className='navlink'>
                             <Link to="/contact">Contacto</Link>
                         </li>
                     </ul>
                     :
-                    <ul className='flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold text-arenaClaro'>
-                        <li className='navlinkDark'>
-                            <Link to="/">Nosotros</Link>
-                        </li>
-
-
+                    <ul className='drop-shadow-md flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold text-arenaClaro'>
                         <li className='navlinkDark'>
                             <Link to="/">Departamentos</Link>
                         </li>
-
+                        <li className='navlinkDark'>
+                            <Link to="/nosotros">Nosotros</Link>
+                        </li>
                         <li className='navlinkDark'>
                             <Link to="/contact">Contacto</Link>
                         </li>

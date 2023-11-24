@@ -46,11 +46,12 @@ h3 {
     transform: scaleX(0);
 }
 
-.navlinkDark::after{
+/* .navlinkDark::after{
     background-color: #9BBEB8;
-}
+} */
 
-.navlink::after{
+.navlink::after, 
+.navlinkDark::after{
     background-color: #023047;
 }
 
