@@ -23,6 +23,7 @@ export default {
     },
     colors: {
       transparent: 'transparent',
+      'blanco': 'white',
       current: 'currentColor',
       'azulClaro': '#9BBEB8',
       'azulOscuro': '#023047',

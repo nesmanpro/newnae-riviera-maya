@@ -59,7 +59,7 @@ h3 {
     transform: scaleX(1);
 }
 
-.whatsapp {
+.whatsapp, .whatslogo {
     transition: .5s;
     transform-origin: center;
     transform: scale(0.9);
@@ -69,7 +69,7 @@ h3 {
     transform: scale(1.1);
 }
 
-.whatsapp::before {
+.whatslogo::before {
     content: '';
     position: absolute;
     height: 29px;
