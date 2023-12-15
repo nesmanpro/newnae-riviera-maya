@@ -1,5 +1,5 @@
 import { Link } from 'react-scroll'
-import img1 from '../assets/images/30-02.png'
+import img1 from '../assets/images/3.jpg'
 
 export const Details = () => {
 

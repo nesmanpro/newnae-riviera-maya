@@ -42,7 +42,7 @@ export const Header = () => {
                                             Bienvenido a Nae Riviera Maya
                                         </h1>
                                         <p className="drop-shadow-md mt-6 text-lg  leading-tight text-arenaClaro">
-                                            Más abajo descubrirás la amplia oferta disponibles de alojamiento para ti en la Riviera Maya mexicana. Tenemos apartamentos individuales y también para parejas o grupos de amigos y familiares.
+                                            Descubre más abajo la diversidad de alojamientos disponibles para ti en la increíble Riviera Maya mexicana..
                                         </p>
                                     </div>
                                 }

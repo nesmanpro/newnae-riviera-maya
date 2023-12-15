@@ -17,6 +17,21 @@ export const Nosotros = () => {
                     <p className="text-xs sm:text-base pt-4 leading-tight text-azulOscuro mt-2">Queremos que cada estadía sea una experiencia cómoda y de primer nivel en los mejores lugares de la Riviera Maya. Creamos conexiones cercanas con nuestros huéspedes, quienes nos siguen eligiendo año tras año y se convierten en parte de nuestra familia en Nae Riviera Maya</p>
                     <p className="text-xs sm:text-base pt-4 leading-tight text-azulOscuro mt-2">Mantener propiedades de alta calidad en excelente estado es nuestra promesa. Queremos que se sientan felices en su segundo hogar, la Riviera Maya, mientras también concienciamos sobre el cuidado del medio ambiente.</p>
                     <p className="text-xs sm:text-base pt-4 leading-tight text-azulOscuro mt-2">Nuestro equipo está lleno de características y valores únicos, con habilidades y conocimientos que nos permiten brindar un servicio excepcional. ¡Nos enorgullece decir que somos tus amigos locales en la Riviera Maya!</p>
+                    <div className="grid sm:grid-cols-3 gap-10 sm:gap-5 items-center mt-10 lg:mt-20">
+                        <div className="flex flex-col items-center">
+                            <h4 className="font-bebas text-6xl sm:text-4xl lg:text-6xl text-azulOscuro">+20</h4>
+                            <h4 className="font-bebas text-2xl sm:text-xl lg:text-2xl text-azulClaro">Departamentos</h4>
+                        </div>
+                        <div className="flex flex-col items-center">
+                            <h4 className="font-bebas text-6xl sm:text-4xl lg:text-6xl text-azulOscuro">4.81</h4>
+                            <h4 className="font-bebas text-2xl sm:text-xl lg:text-2xl text-azulClaro">Valoración</h4>
+                        </div>
+                        <div className="flex flex-col items-center">
+                            <h4 className="font-bebas text-6xl sm:text-4xl lg:text-6xl text-azulOscuro">+300</h4>
+                            <h4 className="font-bebas text-2xl sm:text-xl lg:text-2xl text-azulClaro">Clientes felices</h4>
+                        </div>
+
+                    </div>
                 </section>
 
             </main>
