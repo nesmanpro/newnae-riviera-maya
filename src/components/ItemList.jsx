@@ -37,7 +37,7 @@ export const ItemList = ({ productos }) => {
                             onMouseEnter={() => setHoveredIndex(index)}
                             onMouseLeave={() => setHoveredIndex(null)}
                             className={`select-none border-azulClaro w-[80vw] 2xl:w-[50vw]  border-b-1 last:border-none hover:w-full px-20 py-20 sm:py-6 sm:pb-10 flex justify-center gap-7 items-center bg-center bg-cover transition-height ease-in-out h-32 hover:h-96 hover:border-none hover:shadow-inner-2xl`}
-
+                            draggable="false"
                             style={{
                                 backgroundImage: `url(${hoveredIndex === index ? prod.img.img1 : 'transparent'})`,
                                 boxShadow: `${hoveredIndex === index ? 'inset 0 0 30px rgba(0, 0, 0, 0.3)' : 'none'}`,

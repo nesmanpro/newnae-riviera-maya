@@ -23,7 +23,7 @@ export const ItemDetail = ({ item }) => {
 
             {/* 2da Seccion titulo & img */}
 
-            <div className="grid sm:grid-cols-2">
+            <section className="grid sm:grid-cols-2">
                 <div className="bg-azulOscuro p-3 sm:p-12 text-arenaClaro 5xl:pl-96 4xl:pl-72 3xl:pl-60">
 
                     {/* Izquierda */}
@@ -49,7 +49,7 @@ export const ItemDetail = ({ item }) => {
                 <div>
                     <img className="h-full w-full object-cover" src={item.img.img1} alt={item.subtitle} />
                 </div>
-            </div>
+            </section>
 
             {/* 3ra Seccion Sobre el departamento */}
 
