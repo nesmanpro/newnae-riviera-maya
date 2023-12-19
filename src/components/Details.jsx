@@ -1,5 +1,5 @@
 import { Link } from 'react-scroll'
-import img1 from '../assets/images/3.jpg'
+import img1 from '../assets/images/kumaru.webp'
 
 export const Details = () => {
 
@@ -8,7 +8,7 @@ export const Details = () => {
             <main className="flex justify-center px-5 py-10 sm:p-16">
                 <section className="overflow-hidden grid grid-cols-2 justify-center items-center rounded-3xl lg:max-w-4xl  bg-azulClaro">
 
-                    <img className="w-full object-cover max-h-unit-40 sm:max-h-unit-5xl lg:max-h-unit-6xl" src={img1} alt="Rent your apartment in Riviera Maya" />
+                    <img className="w-full object-cover max-full sm:max-h-unit-5xl lg:max-h-unit-6xl" src={img1} alt="Rent your apartment in Riviera Maya" />
 
                     <div className='md:px-16 px-6 pb-2'>
                         <h2 className='text-arenaClaro leading-tight tracking-wide text-xl xs:text-2xl md:text-3xl lg:text-5xl mb-5 md:mb-10'>

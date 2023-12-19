@@ -15,7 +15,7 @@ export const Contact = () => {
                         <div className='md:px-16 px-6  pb-20 sm:pb-2'>
 
                             <div className="flex flex-col ">
-                                <h1 className=" text-azulOscuro leading-none tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10"> ¿Cómo hacer una reserva?</h1>
+                                <h1 className=" text-azulOscuro leading-none tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10">¿Cómo hacer una reserva?</h1>
                             </div>
                             <div>
                                 <p className="text-azulOscuro  text-md">La mejor manera de hacer una reserva es ponerte en contacto directamente con nuestro agente. Llamando a nuestras oficinas te proporcionaremos una atencion personalizada, brindandote el mejor servicio y que  más se adecúe a tus necesidades, sin que tu bolsillo salga perjudicado.</p>

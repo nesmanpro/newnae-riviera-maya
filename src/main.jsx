@@ -5,7 +5,6 @@ import { NextUIProvider } from "@nextui-org/react";
 import { ThemeProvider } from "@material-tailwind/react";
 
 
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <ThemeProvider>
     <NextUIProvider>

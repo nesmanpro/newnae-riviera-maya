@@ -47,8 +47,8 @@ export const ItemList = ({ productos }) => {
                         >
 
                             <div className="select-none flex justify-center items-center gap-7" draggable="false">
-                                <div className={`max-w-3xl ${hoveredIndex === index ? 'text-arenaClaro' : 'text-azulOscuro'}`} draggable="false">
-                                    <div className="flex justify-left sm:justify-center">
+                                <div className={`select-none  max-w-3xl ${hoveredIndex === index ? 'text-arenaClaro' : 'text-azulOscuro'}`} draggable="false">
+                                    <div className="flex justify-left sm:justify-center select-none ">
                                         <h3 className='select-none font-semibold text-2xl sm:text-3xl'>{prod.title}</h3>
                                     </div>
                                     <div className="select-none flex justify-left sm:justify-center sm:gap-12 gap-8 text-xs sm:text-base w-[80vw] sm:max-w-3xl ">
