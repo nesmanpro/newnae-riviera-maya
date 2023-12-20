@@ -1,13 +1,15 @@
-import { Link, useLocation } from 'react-router-dom'
+import { useLocation } from 'react-router-dom'
 import video from '../assets/images/wave.webm'
 import img from '../assets/images/mobilebg.jpg'
 import { NavBar } from './NavBar'
 import { Link as NavScroll } from 'react-scroll'
-
+import { useTranslation } from 'react-i18next'
 
 const esMobile = window.innerWidth <= 640;
 
 export const Header = () => {
+
+    const { t } = useTranslation();
 
     const location = useLocation();
 
@@ -30,19 +32,19 @@ export const Header = () => {
                             <div className="text-center lg:flex-auto lg:py-16 lg:text-left mb-5">
                                 {esMobile ? <div>
                                     <h1 className="drop-shadow-md  pt-10 text-3xl font-bold tracking-normal text-arenaClaro text-center sm:text-7xl">
-                                        Bienvenido a Nae Riviera Maya
+                                        {t('title')}
                                     </h1>
                                     <p className="drop-shadow-md mt-6 text-lg  leading-tight text-arenaClaro">
-                                        Más abajo descubrirás la amplia oferta disponibles de alojamiento para ti en la Riviera Maya mexicana. Tenemos apartamentos individuales y también para parejas o grupos de amigos y familiares.
+                                        {t('description')}
                                     </p>
                                 </div>
                                     :
                                     <div>
                                         <h1 className="drop-shadow-md  pt-10 text-3xl sm:text-6xl font-bold tracking-normal text-arenaClaro text-center lg:text-7xl">
-                                            Bienvenido a Nae Riviera Maya
+                                            {t('title')}
                                         </h1>
                                         <p className="drop-shadow-md mt-6 text-lg  leading-tight text-arenaClaro">
-                                            Descubre más abajo la diversidad de alojamientos disponibles para ti en la increíble Riviera Maya mexicana..
+                                            {t('description')}
                                         </p>
                                     </div>
                                 }
@@ -58,7 +60,7 @@ export const Header = () => {
                                         duration={500}
 
                                     >
-                                        Ver Departamentos
+                                        {t('button')}
                                     </NavScroll>
                                 </div>
 
