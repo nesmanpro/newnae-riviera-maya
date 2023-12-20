@@ -50,6 +50,9 @@ export const NavBar = () => {
                         <li className='navlink'>
                             <Link to="/contact">Contacto</Link>
                         </li>
+                        <li>
+                            <span>EN</span>
+                        </li>
                     </ul>
                     :
                     <ul className='drop-shadow-md flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold text-arenaClaro'>

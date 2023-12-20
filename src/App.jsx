@@ -14,11 +14,11 @@ function App() {
 
 
 
-
   return (
     <>
-      <BrowserRouter>
 
+
+      <BrowserRouter>
         <div className="bg-arenaClaro min-h-screen">
           <Header />
           <Routes>
@@ -32,6 +32,7 @@ function App() {
           <Footer />
         </div>
       </BrowserRouter>
+
     </>
   )
 }
