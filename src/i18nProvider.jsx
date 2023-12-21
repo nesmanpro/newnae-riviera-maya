@@ -5,10 +5,10 @@ import { I18nextProvider } from 'react-i18next';
 import EN from './locale/en.json';
 import ES from './locale/es.json';
 
-// Creamos el contexto para las funciones de i18n
+// Creamos el contexto para las funciones de i18n.
 export const I18nContext = createContext();
 
-// Inicializamos i18n y configuramos los recursos
+// Inicializamos i18n y configuramos los recursos.
 i18n.use(initReactI18next).init({
     resources: {
         en: { ...EN },
