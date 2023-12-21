@@ -32,19 +32,19 @@ export const Header = () => {
                             <div className="text-center lg:flex-auto lg:py-16 lg:text-left mb-5">
                                 {esMobile ? <div>
                                     <h1 className="drop-shadow-md  pt-10 text-3xl font-bold tracking-normal text-arenaClaro text-center sm:text-7xl">
-                                        {t('title')}
+                                        {t('head.title')}
                                     </h1>
                                     <p className="drop-shadow-md mt-6 text-lg  leading-tight text-arenaClaro">
-                                        {t('description')}
+                                        {t('head.description')}
                                     </p>
                                 </div>
                                     :
                                     <div>
                                         <h1 className="drop-shadow-md  pt-10 text-3xl sm:text-6xl font-bold tracking-normal text-arenaClaro text-center lg:text-7xl">
-                                            {t('title')}
+                                            {t('head.title')}
                                         </h1>
                                         <p className="drop-shadow-md mt-6 text-lg  leading-tight text-arenaClaro">
-                                            {t('description')}
+                                            {t('head.description')}
                                         </p>
                                     </div>
                                 }
@@ -60,7 +60,7 @@ export const Header = () => {
                                         duration={500}
 
                                     >
-                                        {t('button')}
+                                        {t('head.button')}
                                     </NavScroll>
                                 </div>
 

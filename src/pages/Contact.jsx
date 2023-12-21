@@ -1,6 +1,9 @@
 import { GoogleMap, useLoadScript } from '@react-google-maps/api';
+import { useTranslation } from 'react-i18next';
 
 export const Contact = () => {
+
+    const { t } = useTranslation();
 
     const { isLoaded } = useLoadScript({
         googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAP_API_KEY
@@ -15,10 +18,14 @@ export const Contact = () => {
                         <div className='md:px-16 px-6  pb-20 sm:pb-2'>
 
                             <div className="flex flex-col ">
-                                <h1 className=" text-azulOscuro leading-none tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10"> ¿Cómo hacer una reserva?</h1>
+                                <h1 className=" text-azulOscuro leading-none tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10">
+                                    {t('contact.title')}
+                                </h1>
                             </div>
                             <div>
-                                <p className="text-azulOscuro  text-md">La mejor manera de hacer una reserva es ponerte en contacto directamente con nuestro agente. Llamando a nuestras oficinas te proporcionaremos una atencion personalizada, brindandote el mejor servicio y que  más se adecúe a tus necesidades, sin que tu bolsillo salga perjudicado.</p>
+                                <p className="text-azulOscuro  text-md">
+                                    {t('contact.parag')}
+                                </p>
                             </div>
 
                         </div>
@@ -28,7 +35,9 @@ export const Contact = () => {
 
 
 
-                        <h1 className=" text-azulOscuro tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10">Contacto: </h1>
+                        <h1 className=" text-azulOscuro tracking-wide text-3xl md:text-4xl lg:text-5xl sm:mb-2 mb-10">
+                            {t('contact.title2')}
+                        </h1>
 
                         <div className='flex flex-col gap-6  justify-center'>
                             <div className='flex gap-6'>

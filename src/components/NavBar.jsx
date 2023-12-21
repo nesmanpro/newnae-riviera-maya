@@ -11,7 +11,7 @@ export const NavBar = () => {
 
     const location = useLocation();
     const isDark = location.pathname === '/';
-    const { i18n } = useTranslation();
+    const { t, i18n } = useTranslation();
 
     const handleChangeLanguage = () => {
         const newLanguage = i18n.language === 'en' ? 'es' : 'en';
@@ -49,14 +49,14 @@ export const NavBar = () => {
                                 offset={-150}
                                 duration={1000}
                             >
-                                Departamentos
+                                {t('navbar.dep')}
                             </NavScroll>
                         </li>
                         <li className='navlink'>
-                            <Link to="/nosotros">Nosotros</Link>
+                            <Link to="/nosotros">{t('navbar.us')}</Link>
                         </li>
                         <li className='navlink'>
-                            <Link to="/contact">Contacto</Link>
+                            <Link to="/contact">{t('navbar.cont')}</Link>
                         </li>
                         <li>
                             <div
@@ -70,13 +70,21 @@ export const NavBar = () => {
                     :
                     <ul className='drop-shadow-md flex text-xs sm:text-base gap-2 sm:gap-5 font-sans font-bold text-arenaClaro'>
                         <li className='navlinkDark'>
-                            <Link to="/">Departamentos</Link>
+                            <Link to="/">{t('navbar.dep')}</Link>
                         </li>
                         <li className='navlinkDark'>
-                            <Link to="/nosotros">Nosotros</Link>
+                            <Link to="/nosotros">{t('navbar.us')}</Link>
                         </li>
                         <li className='navlinkDark'>
-                            <Link to="/contact">Contacto</Link>
+                            <Link to="/contact">{t('navbar.cont')}</Link>
+                        </li>
+                        <li>
+                            <div
+                                type='button'
+                                onClick={handleChangeLanguage}
+                                className='navlink cursor-pointer'>
+                                {i18n.language === 'en' ? 'ES' : 'EN'}
+                            </div>
                         </li>
                     </ul>
                 }
