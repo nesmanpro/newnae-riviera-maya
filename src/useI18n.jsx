@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { I18nContext } from './I18nProvider';
+import { I18nContext } from './i18nProvider';
 
 // Hook personalizado para usar las funciones de i18n en cualquier componente
 export const useI18n = () => {
