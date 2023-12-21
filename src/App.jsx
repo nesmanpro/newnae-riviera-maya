@@ -10,6 +10,8 @@ import { Nosotros } from './pages/Nosotros';
 
 
 
+
+
 function App() {
 
 
@@ -28,6 +30,7 @@ function App() {
             <Route exact path='/item/:id' element={<ItemDetailContainer />} />
 
           </Routes>
+
           <Whatsapp />
           <Footer />
         </div>

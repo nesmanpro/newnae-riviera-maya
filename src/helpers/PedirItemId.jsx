@@ -1,4 +1,5 @@
 import data from '../data/departments.json'
+import dataEN from '../data/departmentsEN.json'
 
 const PedirItemId = (id) => {
 

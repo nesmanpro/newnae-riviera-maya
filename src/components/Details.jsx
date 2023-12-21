@@ -1,7 +1,10 @@
 import { Link } from 'react-scroll'
-import img1 from '../assets/images/kumaru.webp'
+import img1 from '../assets/images/3.jpg'
+import { useTranslation } from 'react-i18next';
 
 export const Details = () => {
+
+    const { t } = useTranslation();
 
     return (
         <div>
@@ -12,7 +15,7 @@ export const Details = () => {
 
                     <div className='md:px-16 px-6 pb-2'>
                         <h2 className='text-arenaClaro leading-tight tracking-wide text-xl xs:text-2xl md:text-3xl lg:text-5xl mb-5 md:mb-10'>
-                            Explora nuestros alojamientos
+                            {t('details')}
                         </h2>
 
                         <Link to='ItemList'

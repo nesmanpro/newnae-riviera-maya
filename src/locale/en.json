@@ -1,7 +1,44 @@
 {
-    "welcome": {
-        "title": "Welcome to Nae Riviera Maya",
-        "description": "Discover below the diversity of accommodations available for you.",
-        "btn": "Let's see our apartments"
+    "translation": {
+        "head": {
+            "title": "Welcome to Nae Riviera Maya",
+            "description": "Discover below the diversity of accommodations available for you in the incredible Mexican Riviera Maya.",
+            "button": "Let's see our departments"
+        },
+        "details": "Explore our departments",
+        "navbar":{
+            "dep": "Departments",
+            "us": "About Us",
+            "cont": "Contact"
+        },
+        "banda": {
+            "text1": "Service tailored to your needs",
+            "text2": "Reasonable prices with no surprises",
+            "text3": "We'll be your home away from home"
+        },
+        "banda2": {
+            "title": "How can I make a reservation?",
+            "parag": "It's as easy as getting in touch with our agent; they will provide you with all the necessary information and help you find the solution that best fits your needs without compromising your wallet.",
+            "btn": "Contact Us"
+        },
+        "about": {
+            "title": "About Us",
+            "parag1": "With over a decade in the property and rental management game, we feel great to keep growing every day! At Nae Riviera Maya, we're committed to owners, guests, and the environment too! That's the key to our success.",
+            "parag2": "We want every stay to be a comfortable, top-notch experience in the best places in the Riviera Maya. We create close connections with our guests, who continue to choose us year after year and become part of our family at Nae Riviera Maya.",
+            "parag3": "Maintaining high-quality properties in excellent condition is our promise. We want you to feel happy in your second home, the Riviera Maya, while also raising awareness about environmental care.",
+            "parag4": "Our team is full of unique characteristics and values, with skills and knowledge that allow us to provide exceptional service. We're proud to say we're your local friends in the Riviera Maya!",
+            "detail1": "Apartments",
+            "detail2": "Assessment",
+            "detail3": "Happy Clients"
+        },
+        "contact": {
+            "title": "How to Make a Reservation?",
+            "parag": "The best way to make a reservation is to contact our agent directly. By calling our offices, we will provide you with personalized attention, offering you the best service that suits your needs without harming your wallet.",
+            "title2": "Contact:"
+        },
+        "whatsapp":{
+            "text1":"Make the reservation directly",
+            "text2":"by messaging us here!"
+        }
     }
 }
