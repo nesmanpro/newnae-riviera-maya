@@ -16,6 +16,7 @@ export const NavBar = () => {
     const handleChangeLanguage = () => {
         const newLanguage = i18n.language === 'en' ? 'es' : 'en';
         i18n.changeLanguage(newLanguage)
+        localStorage.setItem('lng', newLanguage)
     };
 
     return (
