@@ -41,7 +41,7 @@ export const I18nProvider = ({ children }) => {
             setCurrentLanguage(defaultLang);
         }
 
-    }, [currentLanguage])
+    }, [])
 
 
 
