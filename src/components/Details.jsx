@@ -1,5 +1,5 @@
 import { Link } from 'react-scroll'
-import img1 from '../assets/images/3.jpg'
+import img1 from '../assets/images/kumaru.webp'
 import { useTranslation } from 'react-i18next';
 
 export const Details = () => {
