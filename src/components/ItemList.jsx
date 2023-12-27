@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
+
 export const ItemList = ({ productos }) => {
 
     const [hoveredIndex, setHoveredIndex] = useState(null);
@@ -11,14 +12,16 @@ export const ItemList = ({ productos }) => {
         const preloadImages = () => {
             const images = productos.map(prod => {
                 const image = new Image();
-                image.src = prod.img.img1; // Aquí debes especificar la URL de tu imagen de fondo
+                image.src = prod.img.img1;
                 return image;
             });
             setPreloadedImages(images);
         };
 
         preloadImages();
+
     }, [productos]);
+
 
 
     return (

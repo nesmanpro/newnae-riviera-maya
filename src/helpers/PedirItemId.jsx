@@ -1,10 +1,14 @@
 import data from '../data/departments.json'
-import dataEN from '../data/departmentsEN.json'
+import data2 from '../data/departmentsEN.json'
 
 const PedirItemId = (id) => {
 
+    const storageLan = localStorage.getItem('lng');
+    const getlng = () => storageLan === 'es' ? data : data2;
+    const dataDef = getlng();
+
     return new Promise((resolve, reject) => {
-        const item = data.find((el) => el.id === id)
+        const item = dataDef.find((el) => el.id === id)
 
         if (item) {
             resolve(item)
@@ -15,5 +19,6 @@ const PedirItemId = (id) => {
         }
     })
 }
+
 
 export default PedirItemId

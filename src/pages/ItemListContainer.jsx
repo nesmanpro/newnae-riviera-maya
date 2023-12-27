@@ -5,6 +5,7 @@ import { ItemList } from '../components/ItemList';
 import { Banda } from '../components/Banda';
 import { BannerBot } from '../components/BannerBot';
 
+
 export const ItemListContainer = () => {
 
     const [productos, setProductos] = useState([]);
@@ -17,6 +18,9 @@ export const ItemListContainer = () => {
             .then((res) => {
                 setProductos(res)
             })
+            .catch((error) => console.log(error))
+        PedirDatos()
+
 
     }, [])
 

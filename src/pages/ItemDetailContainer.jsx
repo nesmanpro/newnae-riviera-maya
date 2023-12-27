@@ -11,6 +11,7 @@ export const ItemDetailContainer = () => {
 
 
 
+
     useEffect(() => {
         PedirItemId(id)
             .then((res) => {
@@ -21,6 +22,8 @@ export const ItemDetailContainer = () => {
             left: 0,
             behavior: 'smooth'
         });
+
+
     }, [pathname])
 
 

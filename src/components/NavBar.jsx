@@ -15,8 +15,8 @@ export const NavBar = () => {
 
     const handleChangeLanguage = () => {
         const newLanguage = i18n.language === 'en' ? 'es' : 'en';
-        i18n.changeLanguage(newLanguage)
-        localStorage.setItem('lng', newLanguage)
+        i18n.changeLanguage(newLanguage);
+        localStorage.setItem('lng', newLanguage);
     };
 
     return (
@@ -60,12 +60,14 @@ export const NavBar = () => {
                             <Link to="/contact">{t('navbar.cont')}</Link>
                         </li>
                         <li>
-                            <div
-                                type='button'
-                                onClick={handleChangeLanguage}
-                                className='navlink cursor-pointer'>
-                                {i18n.language === 'en' ? 'ES' : 'EN'}
-                            </div>
+                            <a href={location.pathname}>
+                                <div
+                                    type='button'
+                                    onClick={handleChangeLanguage}
+                                    className='navlink cursor-pointer'>
+                                    {i18n.language === 'en' ? 'ES' : 'EN'}
+                                </div>
+                            </a>
                         </li>
                     </ul>
                     :
@@ -80,12 +82,14 @@ export const NavBar = () => {
                             <Link to="/contact">{t('navbar.cont')}</Link>
                         </li>
                         <li>
-                            <div
-                                type='button'
-                                onClick={handleChangeLanguage}
-                                className='navlink cursor-pointer'>
-                                {i18n.language === 'en' ? 'ES' : 'EN'}
-                            </div>
+                            <a href={location.pathname}>
+                                <div
+                                    type='button'
+                                    onClick={handleChangeLanguage}
+                                    className='navlink cursor-pointer'>
+                                    {i18n.language === 'en' ? 'ES' : 'EN'}
+                                </div>
+                            </a>
                         </li>
                     </ul>
                 }
