@@ -39,6 +39,11 @@
         "whatsapp":{
             "text1":"Puedes hacer la reserva",
             "text2":"escribiendonos aqui!"
+        },
+        "deps":{
+            "about1":"Sobre el departamento",
+            "about2":"Acerca de ",
+            "other":"otros servicios"
         }
     }
     

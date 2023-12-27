@@ -39,6 +39,11 @@
         "whatsapp":{
             "text1":"Now click and make the",
             "text2":"reservation directly with us!"
+        },
+        "deps":{
+            "about1":"About the department",
+            "about2":"About ",
+            "other":"Other facilities"
         }
     }
 }

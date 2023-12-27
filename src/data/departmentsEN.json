@@ -7,7 +7,7 @@
             "rooms": "2 rooms",
             "guest": "5 guest",
             "plus": "Private pool",
-            "area": "playa del carmen",
+            "area": "Playa del Carmen",
             "location": {
                 "lat": 20.63085519353053,
                 "lng": -87.07325994843094
@@ -87,7 +87,7 @@
             "rooms": "3 rooms",
             "guest": "8 guest",
             "plus": "Private pool",
-            "area": "playa del carmen",
+            "area": "Playa del Carmen",
             "location": {
                 "lat": 20.63085519353053,
                 "lng": -87.07325994843094
@@ -165,8 +165,8 @@
             "details": {
                 "rooms": "1 rooms",
                 "guest": "3 guest",
-                "plus": "Rooftop with pool",
-                "area": "playa del carmen",
+                "plus": "Rooftop pool",
+                "area": "Playa del Carmen",
                 "location": {
                     "lat": 20.63708579067877,
                     "lng": -87.06539953373431
@@ -245,8 +245,8 @@
         "details": {
             "rooms": "2 rooms",
             "guest": "4 guest",
-            "plus": "Rooftop with pool",
-            "area": "playa del carmen",
+            "plus": "Rooftop pool",
+            "area": "Playa del Carmen",
             "location": {
                 "lat": 20.63708579067877,
                 "lng": -87.06539953373431
@@ -254,11 +254,12 @@
         },
         "description": 
         {
-            "acerca": "Ubicado en un hermoso condominio en una avenida principal, el departamento cuenta con todas las comodidades para una estancia placentera. Sus rooms son luminosas pero cálidas con una decoración orgánica, brindando comodidad al contar con 2 baños completos y completa privacidad. La cocina esta equipada con utensilios y parrilla eléctrica en caso de que prefieras cocinar en casa, una sala de estar cómoda con vista al patio, zona privilegiada por estar en la primera planta del condominio.",
-            "alojamiento": "Kumaru es un condominio localizado en la zona diamante de Playa del Carmen. Se encuentra sobre avenida CTM entre la famosa 5th avenida y 10th avenida.",
-            "equipamiento": "En ultimo piso del Condominio cuenta con un roof con barra, camastros, sillones y alberca que serán compartidos con otros huéspedes. También cuenta con un Gym que tiene bicis estáticas instaladas. Dada la excelente localizacion del departamento tendrás mucha facilidad para moverte a los puntos de interes que desees sin ningun problema, ya sean tours, playa o zona comercial como la 5th avenida",
-            "acceso": "A unos pasos de Kumaru, se encuentra una tienda de auto servicio (Oxxo) abierta las 24 horas. A unos cuántos metros hay restaurantes, bares, clubs de playa, farmacias, tiendas, etc. Y por supuesto, a sólo unos pasos, se encuentra la famosa Quinta Avenida, así como la Playa."
-        },
+            "acerca": "Located in a beautiful condominium on a main avenue, the apartment has all the amenities for a pleasant stay. Its rooms are bright yet cozy with an organic decoration, providing comfort with 2 full bathrooms and complete privacy. The kitchen is equipped with utensils and an electric grill in case you prefer to cook at home, a comfortable living room overlooking the patio, a privileged area being on the ground floor of the condominium.",
+            "alojamiento": "Kumaru is a condominium located in the diamond zone of Playa del Carmen. It is located on CTM avenue between the famous 5th Avenue and 10th Avenue.",
+            "equipamiento": "On the top floor of the Condominium, there is a rooftop with a bar, sun loungers, armchairs, and a pool that will be shared with other guests. It also has a gym with installed stationary bikes. Given the excellent location of the apartment, you will have great ease in moving to the points of interest you desire without any problem, whether it's tours, beach, or commercial area like the 5th Avenue.",
+            "acceso": "A few steps from Kumaru, there is a 24-hour self-service store (Oxxo). Within a few meters, there are restaurants, bars, beach clubs, pharmacies, shops, etc. And of course, just a few steps away, you'll find the famous Fifth Avenue, as well as the beach."
+        }
+        ,
         "img": 
         {
             "img1": "../img/apartments/kumaru02/1.jpg",
@@ -325,8 +326,8 @@
     "details": {
         "rooms": "2 rooms",
         "guest": "4 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.63708579067877,
             "lng": -87.06539953373431
@@ -405,8 +406,8 @@
     "details": {
         "rooms": "1 rooms",
         "guest": "2 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.636446943219514,
             "lng": -87.06344748710394
@@ -485,8 +486,8 @@
     "details": {
         "rooms": "1 rooms",
         "guest": "3 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.63644066795326,
             "lng": -87.06343944047704
@@ -565,8 +566,8 @@
     "details": {
         "rooms": "1 rooms",
         "guest": "3 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.63805462400413,
             "lng": -87.06785113988073
@@ -640,13 +641,13 @@
 },
 {
     "id": "singular112",
-    "title": "Singular, Departamento con vistas increibles",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Singular, Apartment with incredible views",
+    "subtitle": "Entire Accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "2 rooms",
         "guest": "5 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.627986793640236,
             "lng": -87.0704459705678
@@ -654,10 +655,10 @@
     },
     "description": 
     {
-        "acerca": "Singular es un proyecto que fusiona lo moderno y lo clásico; puedes sentir que estas en un lugar nuevo, vanguardista con lujo clásico y al mismo tiempo relajado y jovial con colores vivos entre los neutros. Definitivo es un proyecto para personas de gustos únicos y que disfrutan de pequeños detalles cómo mosaicos, muros con nuevas tendencias inspiradas en lo clásico y por supuesto aquellas que disfrutan de ver el mar desde la terraza donde pueden estar rodeados de personas similares.",
-        "alojamiento": "El encanto de este departamento es determinado por el buen gusto y la calidad de los materiales de los muebles, su confortable cama y sus deliciosas sabanas; definitivamente hospedarte aquí te dará una sensación confort y elegancia.",
-        "equipamiento": "El departamento no es apto para fumadores; sin embargo hay áreas compartidas en donde podrás disfrutar de un cigarrillo si así lo deseas. Cuenta con área de SPA donde si lo deseas podrías contratar el servicio de masajes. En el Roof padres disfrutar de un jacuzzi, alberca y bebidas a la carta compartidos con el resto de los huéspedes.",
-        "acceso": "Desde esta ubicación podrás estar en contacto con las zonas de mayor interés en playa del carmen, tendrás la playa y la famosa 5th avenida apenas a 100 metros, restaurantes, bares y clubs, lugares de buceo, gimnasios y más!"
+        "acerca": "Singular is a project that merges the modern and the classic; you can feel like you're in a new, avant-garde place with classic luxury while simultaneously feeling relaxed and youthful with vibrant colors among neutrals. Definitely, it's a project for people with unique tastes who enjoy small details like mosaics, walls with new trends inspired by the classic, and, of course, those who enjoy seeing the sea from the terrace where they can be surrounded by like-minded people.",
+        "alojamiento": "The charm of this apartment is defined by the good taste and quality of the furniture materials, its comfortable bed, and delightful sheets; definitely, staying here will give you a feeling of comfort and elegance.",
+        "equipamiento": "The apartment is not suitable for smokers; however, there are shared areas where you can enjoy a cigarette if you wish. It has a SPA area where you could hire massage services if desired. On the Roof, you can enjoy a shared jacuzzi, pool, and à la carte drinks with the other guests.",
+        "acceso": "From this location, you'll be in contact with the most interesting areas in Playa del Carmen. You'll have the beach and the famous 5th Avenue just 100 meters away, restaurants, bars, clubs, diving spots, gyms, and more!"
     },
     "img": 
     {
@@ -698,7 +699,7 @@
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
             "jacuzzi": "Jacuzzi compartido",
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "ac": "Air conditioning",
             "coffee": "Coffee maker",
             "work": "Remote work area",
@@ -720,13 +721,13 @@
 },
 {
     "id": "singular212",
-    "title": "Singular 2, Departamento de estilo moderno",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Singular 2, Modern-style apartment",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "2 rooms",
         "guest": "5 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.627986793640236,
             "lng": -87.0704459705678
@@ -734,10 +735,10 @@
     },
     "description": 
     {
-        "acerca": "Singular es un proyecto que fusiona lo moderno y lo clásico; puedes sentir que estas en un lugar nuevo, vanguardista con lujo clásico y al mismo tiempo relajado y jovial con colores vivos entre los neutros. Definitivo es un proyecto para personas de gustos únicos y que disfrutan de pequeños detalles cómo mosaicos, muros con nuevas tendencias inspiradas en lo clásico y por supuesto aquellas que disfrutan de ver el mar desde la terraza donde pueden estar rodeados de personas similares.",
-        "alojamiento": "El encanto de este departamento es determinado por el buen gusto y la calidad de los materiales de los muebles, su confortable cama y sus deliciosas sabanas; definitivamente hospedarte aquí te dará una sensación confort y elegancia.",
-        "equipamiento": "El departamento no es apto para fumadores; sin embargo hay áreas compartidas en donde podrás disfrutar de un cigarrillo si así lo deseas. Cuenta con área de SPA donde si lo deseas podrías contratar el servicio de masajes. En el Roof padres disfrutar de un jacuzzi, alberca y bebidas a la carta compartidos con el resto de los huéspedes.",
-        "acceso": "Desde esta ubicación podrás estar en contacto con las zonas de mayor interés en playa del carmen, tendrás la playa y la famosa 5th avenida apenas a 100 metros, restaurantes, bares y clubs, lugares de buceo, gimnasios y más!"
+        "acerca": "Singular is a project that blends the modern and the classic; you can feel like you're in a new, avant-garde place with classic luxury while at the same time feeling relaxed and cheerful with vibrant colors among neutrals. It's definitely a project for people with unique tastes who enjoy small details like mosaics, walls with new trends inspired by the classic, and of course, those who enjoy seeing the sea from the terrace where they can be surrounded by similar-minded people.",
+        "alojamiento": "The charm of this apartment is defined by the good taste and quality of the furniture materials, its comfortable bed, and delightful sheets; staying here will definitely give you a sense of comfort and elegance.",
+        "equipamiento": "The apartment is not suitable for smokers; however, there are shared areas where you can enjoy a cigarette if you wish. It has a SPA area where you could hire massage services if desired. On the Roof, you can enjoy a shared jacuzzi, pool, and à la carte drinks with the rest of the guests.",
+        "acceso": "From this location, you'll be in contact with the most interesting areas in Playa del Carmen. You'll have the beach and the famous 5th Avenue just 100 meters away, restaurants, bars, clubs, diving spots, gyms, and more!"
     },
     "img": 
     {
@@ -778,7 +779,7 @@
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
             "jacuzzi": "Jacuzzi compartido",
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "ac": "Air conditioning",
             "coffee": "Coffee maker",
             "work": "Remote work area",
@@ -800,13 +801,13 @@
 },
 {
     "id": "nolita104",
-    "title": "Nolita, Departamento en pleno centro",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Nolita, Apartment in the heart of the city",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "2 rooms",
         "guest": "8 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.631393809011637,
             "lng": -87.06876623472796
@@ -814,10 +815,10 @@
     },
     "description": 
     {
-        "acerca": "Desde este alojamiento céntrico tendrás fácil acceso a los elementos mas sobresalientes de playa del carmen; su hermosa playa, la famosa 5th Avenida, restaurantes, cafes, bares, tiendas, gym, pequeñas tiendas de conveniencia y más!¡IMPORTANTE! Por su ubicación, en algunos momentos del día hay ruido generado por el turismo, ya que su balcón da a la calle 24th y la 5th avenida, plena zona de ocio, por lo que si el descanso es prioritario tal vez éste no sea el mejor lugar.",
-        "alojamiento": "El departamento cuenta con 2 rooms, la principal como cama king size y baño, y la segunda con 2 camas queen size y otro baño completo justo antes de la entrada a la habitación. En la sala hay un sofa en el que podría dormir un 7º y 8 huesped (costo extra).",
-        "equipamiento": "Dentro del condominio se comparten los corredores, y escaleras (hay un elevador que esta fuera de servicio y subiendo al ultimo piso (tercer piso) encontrarás la alberca donde podrás disfrutar en compañía de tus amigos o familiares. En caso de tener mascotas que hayan sido registradas previamente no podrán estar en las areas comunes.",
-        "acceso": "El mejor lugar para moverte caminando a todos los sitios de interés. A unos pasos de la 5ª avenida, a pocos metros de la playa, antros, bares y restaurantes. El edificio no cuenta con estacionamiento, por lo que si eres de los que disfruta recorrer la ciudad en bici, podrás descargar la App BiciPlaya y hacer uso de las bicicletas públicas estacionadas en distintos puntos de la ciudad."
+        "acerca": "From this central accommodation, you'll have easy access to the most outstanding elements of Playa del Carmen: its beautiful beach, the famous 5th Avenue, restaurants, cafes, bars, shops, gyms, small convenience stores, and more! IMPORTANT! Due to its location, at certain times of the day, there may be noise from tourism since its balcony faces 24th Street and 5th Avenue, a lively leisure area. If rest is a priority, this may not be the best place.",
+        "alojamiento": "The apartment has 2 rooms, the main one with a king-size bed and bathroom, and the second one with 2 queen-size beds and another full bathroom just before the entrance to the room. In the living room, there is a sofa where a 7th and 8th guest could sleep (extra cost).",
+        "equipamiento": "Within the condominium, corridors and stairs are shared (there's an elevator that is out of service), and going up to the top floor (third floor), you'll find the pool where you can enjoy time with your friends or family. In case of having pets that have been previously registered, they are not allowed in the common areas.",
+        "acceso": "The best place to get around by walking to all the places of interest. Just steps away from the 5th Avenue, a few meters from the beach, clubs, bars, and restaurants. The building does not have parking, so if you enjoy exploring the city by bike, you can download the BiciPlaya App and use the public bicycles parked at various points in the city."
     },
     "img": 
     {
@@ -857,7 +858,7 @@
         "text": {
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pet": "Pet allowed",
             "ac": "Air conditioning",
             "coffee": "Coffee maker",
@@ -880,13 +881,13 @@
 },
 {
     "id": "nolita204",
-    "title": "Nolita 2, Departamento en pleno centro",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Nolita 2, Apartment in the heart of the city",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "2 rooms",
         "guest": "8 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.631393809011637,
             "lng": -87.06876623472796
@@ -894,10 +895,10 @@
     },
     "description": 
     {
-        "acerca": "Desde este alojamiento céntrico tendrás fácil acceso a los elementos mas sobresalientes de playa del carmen; su hermosa playa, la famosa 5th Avenida, restaurantes, cafes, bares, tiendas, gym, pequeñas tiendas de conveniencia y más!¡IMPORTANTE! Por su ubicación, en algunos momentos del día hay ruido generado por el turismo, ya que su balcón da a la calle 24th y la 5th avenida, plena zona de ocio, por lo que si el descanso es prioritario tal vez éste no sea el mejor lugar.",
-        "alojamiento": "El departamento cuenta con 2 rooms, la principal como cama king size y baño, y la segunda con 2 camas queen size y otro baño completo justo antes de la entrada a la habitación. En la sala hay un sofa en el que podría dormir un 7º y 8 huesped (costo extra).",
-        "equipamiento": "Dentro del condominio se comparten los corredores, y escaleras (hay un elevador que esta fuera de servicio y subiendo al ultimo piso (tercer piso) encontrarás la alberca donde podrás disfrutar en compañía de tus amigos o familiares. En caso de tener mascotas que hayan sido registradas previamente no podrán estar en las areas comunes.",
-        "acceso": "El mejor lugar para moverte caminando a todos los sitios de interés. A unos pasos de la 5ª avenida, a pocos metros de la playa, antros, bares y restaurantes. El edificio no cuenta con estacionamiento, por lo que si eres de los que disfruta recorrer la ciudad en bici, podrás descargar la App BiciPlaya y hacer uso de las bicicletas públicas estacionadas en distintos puntos de la ciudad."
+        "acerca": "From this centrally located accommodation, you'll have easy access to the most outstanding elements of Playa del Carmen: its beautiful beach, the famous 5th Avenue, restaurants, cafes, bars, shops, gyms, small convenience stores, and more! IMPORTANT! Due to its location, there might be noise from tourism at certain times of the day, as its balcony overlooks 24th Street and 5th Avenue, a lively leisure area. If prioritizing rest is important, this might not be the best place.",
+        "alojamiento": "The apartment has 2 rooms, the main one with a king-size bed and a bathroom, and the second one with 2 queen-size beds and another full bathroom just before the entrance to the room. In the living room, there's a sofa where a 7th and 8th guest could sleep (extra cost).",
+        "equipamiento": "Corridors and stairs are shared within the condominium (there's an elevator out of service). Upon reaching the top floor (third floor), you'll find the pool where you can enjoy time with your friends or family. In the case of having pets that have been previously registered, they are not allowed in the common areas.",
+        "acceso": "The best location for walking to all places of interest. Just steps away from the 5th Avenue, a few meters from the beach, clubs, bars, and restaurants. The building does not have parking, so if you enjoy exploring the city by bike, you can download the BiciPlaya App and use the public bicycles parked at various points in the city."
     },
     "img": 
     {
@@ -937,7 +938,7 @@
         "text": {
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pet": "Pet allowed",
             "ac": "Air conditioning",
             "coffee": "Coffee maker",
@@ -960,13 +961,13 @@
 },
 {
     "id": "tg101s",
-    "title": "The Gallery, ideal para adultos y jóvenes",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "The Gallery, Ideal for adults and young people",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "1 rooms",
         "guest": "3 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.630977126955436,
             "lng": -87.07194043435832
@@ -974,10 +975,10 @@
     },
     "description": 
     {
-        "acerca": "THE GALLERY es de nuestros preferidos por su estilo único que combina lo clásico con lo moderno haciéndolo ideal para adultos y jóvenes. Dispone de club de niños, spa con sauna y jacuzzi, gimnasio, sky bar, jardines y áreas lounge de esparcimiento, parking privado subterráneo y salón de juegos.",
-        "alojamiento": "Alójate en una de las calles más céntricas de Playa del Carmen, a solo unas cuadras de la playa y de todo tipo de servicios. A 2 cuadras a pie de la Quinta Avenida. Desde esta ubicación podrás caminar y tener acceso muy fácil a todo lo necesario, tiendas OXXO, supermercados, restaurantes, cafes, la playa, clubs y bares.",
-        "equipamiento": "Esta localizado en la avenida que divide Playa del Carmen en lo que podríamos denominar la vieja y la nueva Playa del Carmen. Por lo que tendrás acceso a todo Playa desde aquí. Cafés, restaurantes, la Fisheria famosa por su chef y Aldea Corazón famoso por el increíble cenote abierto y mucho más!",
-        "acceso": "Desde ésta ubicación podrás caminar a la 5th avenida (240m), a la playa (600m) y supermercado (350m), puntos de venta de tours, restaurantes y todo lo necesario al alcance de tu mano! El edificio aunque cuenta con estacionamiento, si eres de los que disfruta recorrer la ciudad en bici podrás hacerlo descargandote la App BiciPlaya y hacer uso de las bicicletas públicas estacionadas en distintos puntos de la ciudad."
+        "acerca": "THE GALLERY is one of our favorites for its unique style that combines the classic with the modern, making it ideal for adults and young people. It has a kids' club, a spa with sauna and jacuzzi, a gym, a sky bar, gardens, leisure lounge areas, underground private parking, and a game room.",
+        "alojamiento": "Stay on one of the most central streets in Playa del Carmen, just a few blocks from the beach and all kinds of services. A 2-minute walk from Fifth Avenue. From this location, you can walk and have very easy access to everything you need, OXXO stores, supermarkets, restaurants, cafes, the beach, clubs, and bars.",
+        "equipamiento": "It is located on the avenue that divides Playa del Carmen into what we could call old and new Playa del Carmen. So, you'll have access to all of Playa from here. Cafes, restaurants, La Fisheria famous for its chef, and Aldea Corazón famous for the incredible open cenote, and much more!",
+        "acceso": "From this location, you can walk to 5th Avenue (240m), the beach (600m), and supermarket (350m), tour sales points, restaurants, and everything you need at your fingertips! Although the building has parking, if you enjoy exploring the city by bike, you can do so by downloading the BiciPlaya App and using the public bicycles parked at various points in the city."
     },
     "img": 
     {
@@ -1031,7 +1032,7 @@
             "gym": "Shared gym in the area",
             "cajafuerte": "Lockbox in the room",
             "bbq": "Bbq private",
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pet": "Pet allowed",
             "jacuzzi": "Jacuzzi compartido"
         }
@@ -1039,13 +1040,13 @@
 },
 {
     "id": "tg405",
-    "title": "The Gallery 2, ideal para adultos y jóvenes",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "The Gallery 2, Ideal for adults and young people",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "2 rooms",
         "guest": "5 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.630977126955436,
             "lng": -87.07194043435832
@@ -1053,10 +1054,10 @@
     },
     "description": 
     {
-        "acerca": "THE GALLERY es de nuestros preferidos por su estilo único que combina lo clásico con lo moderno haciéndolo ideal para adultos y jóvenes. Dispone de club de niños, spa con sauna y jacuzzi, gimnasio, sky bar, jardines y áreas lounge de esparcimiento, parking privado subterráneo y salón de juegos.",
-        "alojamiento": "Alójate en una de las calles más céntricas de Playa del Carmen, a solo unas cuadras de la playa y de todo tipo de servicios. A 2 cuadras a pie de la Quinta Avenida. Desde esta ubicación podrás caminar y tener acceso muy fácil a todo lo necesario, tiendas OXXO, supermercados, restaurantes, cafes, la playa, clubs y bares.",
-        "equipamiento": "Ubicación, comodidad, privacidad, son las características que hacen especial mi lugar, así como las amenidades que tiene el condominio, gym, sala de yoga, cine, sala de juegos para adultos, sala de juego para niños, alberca en el roof para adultos, alberca familiar en planta baja, salon de lectura y trabajo, parking (sujeto a disponibilidad), otra característica a destacar es que el apartamento tiene dos puertas de acceso, lavadora, secadora.",
-        "acceso": "Desde ésta ubicación podrás caminar a la 5th avenida (240m), a la playa (600m) y supermercado (350m), puntos de venta de tours, restaurantes y todo lo necesario al alcance de tu mano! El edificio aunque cuenta con estacionamiento, si eres de los que disfruta recorrer la ciudad en bici podrás hacerlo descargandote la App BiciPlaya y hacer uso de las bicicletas públicas estacionadas en distintos puntos de la ciudad."
+        "acerca": "THE GALLERY is one of our favorites due to its unique style that combines the classic with the modern, making it ideal for adults and young people. It features a children's club, spa with sauna and jacuzzi, gym, sky bar, gardens, leisure lounge areas, underground private parking, and a game room.",
+        "alojamiento": "Stay in one of the most central streets in Playa del Carmen, just a few blocks from the beach and all kinds of services. A 2-minute walk from Fifth Avenue. From this location, you can walk and have very easy access to everything you need: OXXO stores, supermarkets, restaurants, cafes, the beach, clubs, and bars.",
+        "equipamiento": "Location, comfort, privacy - these are the characteristics that make my place special, as well as the amenities the condominium offers: gym, yoga room, cinema, adult game room, children's game room, rooftop pool for adults, ground floor family pool, reading and work lounge, parking (subject to availability). Another notable feature is that the apartment has two access doors, washer, dryer.",
+        "acceso": "From this location, you can walk to 5th Avenue (240m), the beach (600m), and supermarket (350m), tour sales points, restaurants, and everything you need at your fingertips! Although the building has parking, if you enjoy exploring the city by bike, you can do so by downloading the BiciPlaya App and using the public bicycles parked at various points in the city."
     },
     "img": 
     {
@@ -1110,7 +1111,7 @@
             "cajafuerte": "Lockbox in the room",
             "bbq": "Bbq private",
             "security": "Security cameras on property",
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pet": "Pet allowed",
             "dryer": "Dryer gratis"
         }
@@ -1119,12 +1120,12 @@
 {
     "id": "volta205",
     "title": "Volta, Caribbean vibes",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "1 rooms",
         "guest": "2 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.632561820001143,
             "lng": -87.06923946626914
@@ -1132,10 +1133,10 @@
     },
     "description": 
     {
-        "acerca": "Es un estudio diseñado y pintado de colores azules para que nunca dejes de vivir la experiencia de que estás vacacionando en el caribe. La ubicación es excelente, su amplitud hace que en el día entre mucha luz natural por las ventas.",
-        "alojamiento": "Tiene un espacio de trabajo, balcón con silla de descanso y mesa para comer, cocina equipada, baño amplio, internet de alta velocidad, TV frente a la cama tamaño king y amenidades exteriores en el edificio, que hacen tu estadía más especial y placentera.",
-        "equipamiento": "Ubicación, comodidad, privacidad, son las características que hacen especial este lugar, así como las comodidades que tiene este condominio.",
-        "acceso": "Podrás acceder fácilmente con vehículo y moverte por la zona, ya sea caminando o en bicicleta, esta última podrás rentarla con la app de BiciPlaya para recorridos cortos."
+        "acerca": "It's a studio designed and painted in shades of blue so you never stop experiencing the feeling of vacationing in the Caribbean. The location is excellent, its spaciousness allows a lot of natural light to enter through the windows during the day.",
+        "alojamiento": "It features a workspace, balcony with a lounge chair and dining table, equipped kitchen, spacious bathroom, high-speed internet, TV in front of the king-size bed, and outdoor amenities in the building that make your stay more special and enjoyable.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "You can easily access it by vehicle and move around the area, either by walking or by bike. The latter can be rented using the BiciPlaya app for short rides."
     },
     "img": 
     {
@@ -1188,7 +1189,7 @@
             "outdoor": "Sun loungers",
             "bed": "Queensize bed",
             "cajafuerte": "Lockbox in the room",
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "security": "Security cameras on property",
             "pet": "Pet allowed",
             "jacuzzi": "Jacuzzi compartido"
@@ -1198,12 +1199,12 @@
 {
     "id": "volta403",
     "title": "Volta 2, Caribbean vibes",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "1 rooms",
         "guest": "2 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.639598157677312,
             "lng": -87.06392294477583
@@ -1211,10 +1212,10 @@
     },
     "description": 
     {
-        "acerca": "Este es un nuevo estudio bohemio y chic en el centro de Playa. Un área de planta totalmente abierta con grandes ventanales que atraen la luz solar al tiempo que fomentan la conexión interior-exterior.",
-        "alojamiento": "Un vecindario seguro y agradable con muchos restaurantes, bares y tiendas. En la esquina de la famosa Quinta Avenida y usted conocerá a pocos pasos de la playa. Este estudio de lujo incluye acabados de alta gama, armarios y armarios de madera, pisos de mármol, vidrio templado en el baño, encimera de granito. Una gran ducha con albornoz, secador de pelo, champú y jabón orgánico.",
-        "equipamiento": "Ubicación, comodidad, privacidad, son las características que hacen especial este lugar, así como las comodidades que tiene este condominio.",
-        "acceso": "Ubicado a media cuadra de la 5ta Avenida en Playa del Carmen, la locación ofrece cercanía a restaurantes, bares y lugares de entretenimiento sin dejar de lado la tranquilidad ya que no se encuentra en la zona de clubs nocturnos. El acceso en vehículo es fácil, moto, bicicleta y caminando."
+        "acerca": "This is a new bohemian and chic studio in the center of Playa. A completely open-plan area with large windows that bring in sunlight while promoting indoor-outdoor connection.",
+        "alojamiento": "A safe and pleasant neighborhood with many restaurants, bars, and shops. Located at the corner of the famous Fifth Avenue and just steps away from the beach. This luxury studio includes high-end finishes, wooden cabinets and closets, marble floors, tempered glass in the bathroom, granite countertops. A large shower with bathrobe, hairdryer, shampoo, and organic soap.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located half a block from the 5th Avenue in Playa del Carmen, the location offers proximity to restaurants, bars, and entertainment venues while maintaining tranquility as it's not in the nightclub zone. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
     },
     "img": 
     {
@@ -1276,13 +1277,13 @@
 },
 {
     "id": "dkexclusive303",
-    "title": "Dk Exclusive, en el corazon de Playa del Carmen",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Dk Exclusive, In the heart of Playa del Carmen",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "1 rooms",
         "guest": "3 guest",
-        "plus": "Rooftop with pool",
-        "area": "playa del carmen",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.632561820001143,
             "lng": -87.06923946626914
@@ -1290,10 +1291,10 @@
     },
     "description": 
     {
-        "acerca": "Dk Exclusive es una propiedad ubicada a solo media cuadra de la 5ta Avenida en Playa del Carmen, una de las zonas más concurridas y visitadas. Tendrás a tu cercacanía restaurantes, bares y cafés. La zona es tranquila por lo que podrás recorrerla caminando, rentar el servicio de bicicleta estacionaria y/o acceder con auto.",
-        "alojamiento": "Hermoso departamento ubicado a solo media cuadra de la 5ta Avenida en Playa del Carmen, DK Exclusive es un departamento con detalles modernos y perfecto para parejas, donde tendrás privacidad. La propiedad cuenta con cocina equipada, comedor y una habitación cómoda y luminosa.",
-        "equipamiento": "Ubicación, comodidad, privacidad, son las características que hacen especial este lugar, así como las comodidades que tiene este condominio.",
-        "acceso": "Ubicado a media cuadra de la 5ta Avenida en Playa del Carmen, la locación ofrece cercanía a restaurantes, bares y lugares de entretenimiento sin dejar de lado la tranquilidad ya que no se encuentra en la zona de clubs nocturnos. El acceso en vehículo es fácil, moto, bicicleta y caminando."
+        "acerca": "Dk Exclusive is a property located just half a block from the 5th Avenue in Playa del Carmen, one of the busiest and most visited areas. You'll have restaurants, bars, and cafes nearby. The area is peaceful, so you can explore it on foot, rent a stationary bike service, and/or access it by car.",
+        "alojamiento": "Beautiful apartment located just half a block from the 5th Avenue in Playa del Carmen, DK Exclusive is a modernly detailed apartment perfect for couples, offering privacy. The property features an equipped kitchen, dining area, and a comfortable and bright bedroom.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located half a block from the 5th Avenue in Playa del Carmen, the location offers proximity to restaurants, bars, and entertainment venues while maintaining tranquility as it's not in the nightclub zone. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
     },
     "img": 
     {
@@ -1331,7 +1332,7 @@
             
         },
         "text": {
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
             "parking": "Estacionamiento gratuito en la puerta",
@@ -1355,13 +1356,13 @@
 },
 {
     "id": "mayamar",
-    "title": "Casa Maya Mar de estilo boho caribeño",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Casa Maya Mar with Caribbean Boho Style",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "3 rooms",
         "guest": "8 guest",
-        "plus": "Alberca y jardin",
-        "area": "playa del carmen",
+        "plus": "Pool and garden",
+        "area": "Playa del Carmen",
         "location": {
             "lat": 20.621058914902687,
             "lng": -87.0826865050022
@@ -1369,10 +1370,10 @@
     },
     "description": 
     {
-        "acerca": "Es una hermosa casa familiar, la caracteriza su buen flujo de aire y luz natural. Sus amplios espacios permiten privacidad para varias personas.",
-        "alojamiento": "La alberca y el jardin son compartidos con 6 casas, siendo un entorno muy acogedor. Esta ubicada en el fraccionamiento Playacar fase 2, a 600 m. de la playa. Su estilo es boho caribeño con tonalidades en blanco y café. Dos de las rooms se encuentran en la segunda planta y son en suite. Inolvidables momentos te esperan!!",
-        "equipamiento": "Ubicación, comodidad, privacidad, son las características que hacen especial este lugar, así como las comodidades que tiene este condominio.",
-        "acceso": "Ubicado en el barrio residencial mas exclusivo de Playa del Carmen, la locación ofrece cercanía a restaurantes, bares y lugares de entretenimiento sin dejar de lado la tranquilidad. El acceso en vehículo es fácil, moto, bicicleta y caminando."
+        "acerca": "It's a beautiful family house characterized by its good airflow and natural light. Its spacious areas allow privacy for several people.",
+        "alojamiento": "The pool and garden are shared among 6 houses, creating a very welcoming environment. It's located in the Playacar phase 2 development, 600 meters from the beach. Its style is Caribbean boho with tones in white and brown. Two of the rooms are located on the second floor and are en suite. Unforgettable moments await you!",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located in the most exclusive residential neighborhood of Playa del Carmen, the location offers proximity to restaurants, bars, and entertainment venues without sacrificing tranquility. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
     },
     "img": 
     {
@@ -1410,7 +1411,7 @@
             
         },
         "text": {
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
             "parking": "Free parking on premises",
@@ -1434,12 +1435,12 @@
 },
 {
     "id": "gaia301",
-    "title": "Estudio en Aldea Zama",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Studio in Aldea Zama",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "1 rooms",
         "guest": "3 guest",
-        "plus": "Alberca en el rooftop",
+        "plus": "Rooftop pool",
         "area": "Tulum",
         "location": {
             "lat": 20.198471741900878,
@@ -1448,10 +1449,10 @@
     },
     "description": 
     {
-        "acerca": "Espacioso Apartamento de un dormitorio, con buena entrada de luz Natural, tiene las comodidades adecuadas para que pases unas excelente vacaciones, el area tiene hace alrededor, bares, restaurantes, tiendas, como seven eleven.",
-        "alojamiento": "Hermoso departamento en Aldea Zama, un lugar muy céntrico, a solo 5 minutos del centro y a 10 minutos de la playa. La propiedad cuenta con cocina equipada, comedor y una habitación cómoda y luminosa. Dispone de alberca en el rooftop",
-        "equipamiento": "Ubicación, comodidad, privacidad, son las características que hacen especial este lugar, así como las comodidades que tiene este condominio.",
-        "acceso": "Ubicado en en Aldea Zama, una zona muy tranquila de Tulum, la locación ofrece cercanía a restaurantes, bares y lugares de entretenimiento sin dejar de lado la tranquilidad. El acceso en vehículo es fácil, moto, bicicleta y caminando."
+        "acerca": "Spacious one-bedroom apartment with good natural light, offering the right amenities for an excellent vacation. The area around it features bars, restaurants, and shops like Seven Eleven.",
+        "alojamiento": "Beautiful apartment in Aldea Zama, a very central location, just 5 minutes from downtown and 10 minutes from the beach. The property features an equipped kitchen, dining area, and a comfortable and bright bedroom. It has a rooftop pool.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located in Aldea Zama, a very quiet area of Tulum, the location offers proximity to restaurants, bars, and entertainment venues without sacrificing tranquility. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
     },
     "img": 
     {
@@ -1489,7 +1490,7 @@
             
         },
         "text": {
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
             "parking": "Free parking on premises",
@@ -1513,12 +1514,12 @@
 },
 {
     "id": "solum403",
-    "title": "Apartamento en Aldea Zama",
-    "subtitle": "Alojamiento entero: condominio en Playa del Carmen, México",
+    "title": "Apartment in Aldea Zama",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
     "details": {
         "rooms": "1 rooms",
         "guest": "2 guest",
-        "plus": "Alberca en el rooftop",
+        "plus": "Rooftop pool",
         "area": "Tulum",
         "location": {
             "lat": 20.204333237951467,
@@ -1527,10 +1528,10 @@
     },
     "description": 
     {
-        "acerca": "Espacioso Apartamento de un dormitorio, con buena entrada de luz Natural, tiene las comodidades adecuadas para que pases unas excelente vacaciones, el area tiene hace alrededor, bares, restaurantes, tiendas, como seven eleven.",
-        "alojamiento": "Hermoso departamento en Aldea Zama, un lugar muy céntrico, a solo 5 minutos del centro y a 10 minutos de la playa. La propiedad cuenta con cocina equipada, comedor y una habitación cómoda y luminosa. Dispone de alberca en el rooftop",
-        "equipamiento": "El apartamento cuenta con un rooftop privado, con barbacoa en el que vivirás momentos inolvidables. Ubicación, comodidad, privacidad, son las características que hacen especial este lugar, así como las comodidades que tiene este condominio.",
-        "acceso": "Ubicado en en Aldea Zama, una zona muy tranquila de Tulum, la locación ofrece cercanía a restaurantes, bares y lugares de entretenimiento sin dejar de lado la tranquilidad. El acceso en vehículo es fácil, moto, bicicleta y caminando."
+        "acerca": "Spacious one-bedroom apartment with good natural light, offering the right amenities for an excellent vacation. The area around it features bars, restaurants, and shops like Seven Eleven.",
+        "alojamiento": "Beautiful apartment in Aldea Zama, a very central location, just 5 minutes from downtown and 10 minutes from the beach. The property features an equipped kitchen, dining area, and a comfortable and bright bedroom. It has a rooftop pool.",
+        "equipamiento": "The apartment has a private rooftop with a barbecue where you will experience unforgettable moments. Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located in Aldea Zama, a very quiet area of Tulum, the location offers proximity to restaurants, bars, and entertainment venues without sacrificing tranquility. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
     },
     "img": 
     {
@@ -1568,11 +1569,11 @@
             
         },
         "text": {
-            "view": "Vistas al mar",
+            "view": "Sea views",
             "pool": "Shared outdoor pool",
             "kitchen": "Full equipped kitchen",
             "jacuzzi": "Jacuzzi privado",
-            "bbq": "Parrilla de carbón private",
+            "bbq": "Private charcoal grill",
             "outdoor": "Sun loungers",
             "gym": "Shared gym in the area",
             "parking": "Free parking on premises",

@@ -1,3 +1,4 @@
+import { useTranslation } from "react-i18next";
 import { Banda } from "./Banda";
 import { BannerBot } from "./BannerBot";
 import { GoogleMap, useLoadScript } from '@react-google-maps/api';
@@ -7,6 +8,8 @@ export const ItemDetail = ({ item }) => {
 
     const firstSix = Object.keys(item.extras.text).slice(0, 6);
     const secondSix = Object.keys(item.extras.text).slice(6, 12);
+
+    const { t } = useTranslation();
 
     const { isLoaded } = useLoadScript({
         googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAP_API_KEY
@@ -56,7 +59,7 @@ export const ItemDetail = ({ item }) => {
             <div className="flex justify-center  py-12 px-8 sm:px-20">
 
                 <div className="text-azulOscuro bg-arenaClaro lg:max-w-7xl">
-                    <h2 className="w-full font-bebas text-5xl tracking-wide border-b-1 border-azulClaro pb-2">Sobre el departamento</h2>
+                    <h2 className="w-full font-bebas text-5xl tracking-wide border-b-1 border-azulClaro pb-2">{t('deps.about1')}</h2>
                     <p className="mt-7 text-sm lg:text-base">{item.description.acerca}</p>
                 </div>
             </div>
@@ -92,7 +95,7 @@ export const ItemDetail = ({ item }) => {
 
                         <div className="">
                             <div className="flex flex-col sm:flex-row gap-1 sm:gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
-                                <h3 className="">Acerca de {item.details.area}</h3>
+                                <h3 className="">{t('deps.about2')} {item.details.area}</h3>
                             </div>
                             <p className="text-sm lg:text-base">{item.description.acceso}</p>
                         </div>
@@ -122,7 +125,7 @@ export const ItemDetail = ({ item }) => {
 
                         <div className="">
                             <div className="flex gap-5 text-3xl text-azulOscuro border-b-1 border-azulClaro pb-2 mb-5">
-                                <h3 className="">otros servicios</h3>
+                                <h3 className="">{t('deps.other')}</h3>
                             </div>
                             <div className="grid grid-cols-2 sm:grid-cols-1 text-arenaclaro mt-5 ">
                                 {secondSix.map((key, index) => (
