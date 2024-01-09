@@ -8,7 +8,7 @@ export const BannerBot = () => {
     return (
         <section className='grid grid-rows-2 sm:grid-rows-1 grid-cols-1 sm:grid-cols-2 items-center h-full overflow-hidden text-azulOscuro bg-arenaClaro rounded-tr-3xl rounded-tl-3xl relative bottom-[-22px] z-20'>
 
-            <div className='h-full bg-[url("../public/img/apartments/kumaru01/3.jpg")] bg-cover bg-center'>
+            <div className='h-full bg-[url("../img/apartments/kumaru01/3.jpg")] bg-cover bg-center'>
 
             </div>
             <div className='p-10 pb-20 xl:pr-[200px]'>
