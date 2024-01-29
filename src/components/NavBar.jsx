@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next';
 
 
 const esMobile = window.innerWidth <= 640;
-
+console.log(location.pathname)
 export const NavBar = () => {
 
     const location = useLocation();
@@ -60,14 +60,15 @@ export const NavBar = () => {
                             <Link to="/contact">{t('navbar.cont')}</Link>
                         </li>
                         <li>
-                            <a href={location.pathname}>
+                            <Link to={location.pathname}>
                                 <div
                                     type='button'
                                     onClick={handleChangeLanguage}
                                     className='navlink cursor-pointer'>
                                     {i18n.language === 'en' ? 'ES' : 'EN'}
+                                    {console.log(location.pathname)}
                                 </div>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                     :
