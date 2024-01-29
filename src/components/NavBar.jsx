@@ -82,14 +82,14 @@ export const NavBar = () => {
                             <Link to="/contact">{t('navbar.cont')}</Link>
                         </li>
                         <li>
-                            <Link to={location.pathname}>
-                                <div
-                                    type='button'
-                                    onClick={handleChangeLanguage}
-                                    className='navlink cursor-pointer'>
-                                    {i18n.language === 'en' ? 'ES' : 'EN'}
-                                </div>
-                            </Link>
+                            {/* <Link to={location.pathname}> */}
+                            <div
+                                type='button'
+                                onClick={handleChangeLanguage}
+                                className='navlink cursor-pointer'>
+                                {i18n.language === 'en' ? 'ES' : 'EN'}
+                            </div>
+                            {/* </Link> */}
                         </li>
                     </ul>
                 }
