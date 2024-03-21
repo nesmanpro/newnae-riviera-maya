@@ -4,7 +4,7 @@
 
 This project is a web application for managing vacation rental properties, built using React and incorporating multilingual support with React-i18next. It provides features such as listing rental properties, viewing property details, contacting the owner, and learning more about the company.
 
-![User experience of the site](public/uiux1.webp)
+![User experience of the site](public/viewUIUX1.webp)
 
 ## Key Features
 
@@ -13,7 +13,7 @@ This project is a web application for managing vacation rental properties, built
 - **Contact Form:** Allows users to contact the property owner or company via a contact form.
 - **Responsive Design:** Implements responsive design principles to ensure optimal viewing and usability across various devices and screen sizes.
 
-![User experience of the site](public/uiux2.webp)
+![User experience of the site](public/viewUIUX2.webp)
 
 ## Technologies Used
 
