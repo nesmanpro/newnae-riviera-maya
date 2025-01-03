@@ -107,6 +107,7 @@ export const ItemDetail = ({ item }) => {
                     <div className="grid grid-cols-1 sm:grid-cols-3 gap-10 max-w-7xl">
 
                         <div className="sm:col-span-2">
+
                             {isLoaded ?
                                 (<GoogleMap
                                     center={{
@@ -119,7 +120,7 @@ export const ItemDetail = ({ item }) => {
                                         height: '100%'
                                     }}
                                 >
-                                </GoogleMap>) : null}
+                                </GoogleMap>) : <div className='flex justify-center align-middle'>Loading...</div>}
                         </div>
 
 
@@ -154,6 +155,6 @@ export const ItemDetail = ({ item }) => {
             </div>
             <Banda />
             <BannerBot />
-        </div>
+        </div >
     );
 };

@@ -4,7 +4,6 @@ import { useTranslation } from 'react-i18next';
 export const Contact = () => {
 
     const { t } = useTranslation();
-
     const { isLoaded } = useLoadScript({
         googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAP_API_KEY
     })
@@ -68,13 +67,20 @@ export const Contact = () => {
                 </main>
             </div>
             <div className='h-96 relative bottom-[-32px] z-20'>
-                {isLoaded ? <GoogleMap center={{ lat: 20.634028, lng: -87.076671 }} zoom={15} mapContainerStyle={{
-                    width: '100%',
-                    height: '100%'
-                }}>
-
-                </GoogleMap>
-                    : null}
+                {isLoaded
+                    ? <GoogleMap
+                        center={{
+                            lat: 20.634028,
+                            lng: -87.076671
+                        }}
+                        zoom={15}
+                        mapContainerStyle={{
+                            width: '100%',
+                            height: '100%'
+                        }}>
+                    </GoogleMap>
+                    : <div className='flex justify-center align-middle'>Loading...</div>
+                }
             </div>
         </>
 
