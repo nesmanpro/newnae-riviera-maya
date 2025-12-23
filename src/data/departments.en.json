@@ -1,0 +1,1533 @@
+[
+    {
+        "id": "anahn101",
+        "title": "Anah Norte, Great department",
+        "subtitle": "Entire accommodation: condo in Playa del Carmen, Mexico",
+        "details": {
+            "rooms": "2 rooms",
+            "guest": "5 guest",
+            "plus": "Private pool",
+            "area": "Playa del Carmen",
+            "location": {
+                "lat": 20.63085519353053,
+                "lng": -87.07325994843094
+            }
+        },
+        "description": 
+        {
+            "acerca": "The master bedroom features a delightful king-size bed, private full bathroom, and a complete closet. The second bedroom offers two very comfortable single beds with a view of the terrace and access to a shared full bathroom connected to the living room. Additionally, you'll have a private swimming pool and a terrace table all to yourself to enjoy.",
+            "alojamiento": "Marvelous Anah Norte apartment, located just 3 blocks from Playa del Carmen's 5th Avenue. Equipped with a full kitchen, 2 bedrooms, 2 full bathrooms, and a private pool. The perfect place to relax and have a great time. You'll find supermarkets two blocks away, HSBC and Santander ATMs, restaurants, a pharmacy, and the ADO bus station just 190 meters away, as well as bars nearby.",
+            "equipamiento": "Within the condominium facilities, you can make use of the shared terrace with a pool and sun loungers ideal for sunbathing with a view of Playa del Carmen's cityscape. There's also a barbecue area for preparing drinks while you relax. Access to a shared gym on the terrace and a co-working space. The perfect place to relax and have a great time. You'll find supermarkets, HSBC and Santander ATMs, restaurants, and a pharmacy just two blocks away. The ADO bus station and bars are just 190 meters away.",
+            "acceso": "Anha is located on 20th Avenue between 16th Norte Cis and 14th Norte Bis streets, just a few blocks from the beach, supermarkets, dining places, and nightlife."
+        },
+        "img": 
+        {
+            "img1": "../img/apartments/anahn101/1.jpg",
+            "img2": "../img/apartments/anahn101/2.jpg",
+            "img3": "../img/apartments/anahn101/3.jpg",
+            "img4": "../img/apartments/anahn101/4.jpg",
+            "img5": "../img/apartments/anahn101/5.jpg",
+            "img6": "../img/apartments/anahn101/6.jpg",
+            "img7": "../img/apartments/anahn101/7.jpg",
+            "img8": "../img/apartments/anahn101/8.jpg"
+        },
+        "extras": {
+            "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+            "text": {
+                "pool": "Private pool",
+                "bed": "Double bed",
+                "jacuzzi": "Jacuzzi",
+                "kitchen": "Equipped kitchen",
+                "gym": "Gym",
+                "ac": "Air conditioning",
+                "coffee": "Coffee maker",
+                "fan": "Ceiling fan",
+                "tv": "Television",
+                "outdoor": "Garden furniture or terrace",
+                "work": "Remote work area",
+                "wifi": "Free wifi",
+                "parking": "On-site parking",
+                "cajafuerte": "In-room safe",
+                "pet": "Pet-friendly",
+                "security": "Surveillance system",
+                "bbq": "Private barbecue",
+                "dryer": "Dryer",
+                "view": "Spectacular views"
+            }            
+        }
+        
+    },
+    {
+        "id": "anahn401",
+        "title": "Penthouse NÁAY with Private pool",
+        "subtitle": "Entire accommodation: condo in Playa del Carmen, Mexico",
+        "details": {
+            "rooms": "3 rooms",
+            "guest": "8 guest",
+            "plus": "Private pool",
+            "area": "Playa del Carmen",
+            "location": {
+                "lat": 20.63085519353053,
+                "lng": -87.07325994843094
+            }
+        },
+        "description": 
+        {
+            "about": "Enjoy this charming penthouse with a private pool and everything you need! Fully equipped kitchen, Nespresso machine, large fridge, and barbecue. All 3 rooms have air conditioning, smart TV, and private bathrooms. A lovely terrace where you can dine and enjoy the beautiful colors of the sky during sunset!",
+            "accommodation": "Magnificent Anah Norte apartment, located just 3 blocks from the 5th Avenue of Playa del Carmen, equipped with a full kitchen, 2 bedrooms, 2 full bathrooms, and a private pool. The penthouse has an incredible location, within walking distance of everything. Shopping area, supermarkets, bus station, restaurants, the 5th avenue, and of course, the beach. No need to rent any vehicle.",
+            "equipment": "In the condominium facilities, you can use the shared terrace, a pool with sun loungers ideal for sunbathing with a view of the city of Playa del Carmen, and a barbecue area to prepare drinks while you relax. Access to a shared gym in the terrace area and co-working room. The perfect place to relax and have a good time. You will have supermarkets, HSBC and Santander ATMs, restaurants, pharmacies just two blocks away, and 190 meters away is the ADO bus station and bars.",
+            "access": "Anha is located on Avenida 20 between 16th Norte Cis and 14th Norte Bis streets, just a few blocks from the beach, supermarket, food, and nightlife places."
+        },
+        "img": 
+        {
+            "img1": "../img/apartments/anahn401/1.jpg",
+            "img2": "../img/apartments/anahn401/2.jpg",
+            "img3": "../img/apartments/anahn401/3.jpg",
+            "img4": "../img/apartments/anahn401/4.jpg",
+            "img5": "../img/apartments/anahn401/5.jpg",
+            "img6": "../img/apartments/anahn401/6.jpg",
+            "img7": "../img/apartments/anahn401/7.jpg",
+            "img8": "../img/apartments/anahn401/8.jpg"
+        },
+        "extras": {
+            "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+            "text": {
+                "view": "Spectacular views",
+                "pool": "Private pool",
+                "bbq": "Private BBQ",
+                "kitchen": "Equipped kitchen",
+                "ac": "Air conditioning",
+                "jacuzzi": "Jacuzzi",
+                "gym": "Gym",
+                "coffee": "Coffee maker",
+                "fan": "Ceiling fan",
+                "tv": "Television",
+                "security": "Surveillance system",
+                "outdoor": "Outdoor furniture or terrace",
+                "work": "Remote work area",
+                "wifi": "Free WiFi",
+                "parking": "On-site parking",
+                "safebox": "Room safe",
+                "pet": "Pet friendly",
+                "bed": "Double bed",
+                "dryer": "Dryer"
+            }              
+        }
+    },
+    {
+            "id": "kumaru01",
+            "title": "Kumaru, accommodation just a few meters from the sea",
+            "subtitle": "Entire apartment: Condominium in Playa del Carmen, Mexico",
+            "details": {
+                "rooms": "1 rooms",
+                "guest": "3 guest",
+                "plus": "Rooftop pool",
+                "area": "Playa del Carmen",
+                "location": {
+                    "lat": 20.63708579067877,
+                    "lng": -87.06539953373431
+                }
+            },
+            "description": 
+            {
+                "about": "This unit is fully equipped and decorated with high-quality furniture and accessories of good taste. It is located just a few meters from the sea and a few steps from the famous Fifth Avenue of Playa del Carmen. If you are a lover of the Mediterranean style, this unit will be ideal for your stay. The delicate details designed by Casona Playa del Carmen make it unique, providing a sense of freshness and calmness.",
+                "accommodation": "Kumaru is a condominium located in the diamond zone of Playa del Carmen. It is situated on CTM Avenue between the famous 5th and 10th avenues.",
+                "amenities": "On the top floor of the condominium, there is a roof with a bar, sun loungers, armchairs, and a pool that will be shared with other guests. It also has a gym with installed exercise bikes. Due to the excellent location of the apartment, you will have easy access to the points of interest you want to visit without any problem, whether it's tours, the beach, or commercial areas like Fifth Avenue.",
+                "access": "A few steps from Kumaru, there is a convenience store (Oxxo) open 24 hours. A few meters away, there are restaurants, bars, beach clubs, pharmacies, shops, etc. And, of course, just a few steps away, you will find the famous Fifth Avenue, as well as the beach."
+            },            
+            "img": 
+            {
+                "img1": "../img/apartments/kumaru01/1.jpg",
+                "img2": "../img/apartments/kumaru01/2.jpg",
+                "img3": "../img/apartments/kumaru01/3.jpg",
+                "img4": "../img/apartments/kumaru01/4.jpg",
+                "img5": "../img/apartments/kumaru01/5.jpg",
+                "img6": "../img/apartments/kumaru01/6.jpg",
+                "img7": "../img/apartments/kumaru01/7.jpg",
+                "img8": "../img/apartments/kumaru01/8.jpg"
+            },
+            "extras": {
+                "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+                "text": {
+                    "view": "Spectacular views",
+                    "pool": "Rooftop pool",
+                    "kitchen": "Full equipped kitchen",
+                    "ac": "Air conditioning",
+                    "coffee": "Coffee maker",
+                    "work": "Remote work area",
+                    "fan": "Ceiling fan",
+                    "tv": "Television",
+                    "security": "Surveillance system",
+                    "outdoor": "Sun loungers",
+                    "wifi": "Free wifi",
+                    "parking": "Free parking on premises",
+                    "cajafuerte": "Lockbox in the room",
+                    "bed": "Queensize bed",
+                    "pet": "Pet allowed",
+                    "gym": "Gym",
+                    "bbq": "Bbq private",
+                    "jacuzzi": "Jacuzzi",
+                    "dryer": "Dryer"
+                }
+            }
+        
+    },
+    {
+        "id": "kumaru02",
+        "title": "Kumaru 2, condominium near the sea",
+        "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+        "details": {
+            "rooms": "2 rooms",
+            "guest": "4 guest",
+            "plus": "Rooftop pool",
+            "area": "Playa del Carmen",
+            "location": {
+                "lat": 20.63708579067877,
+                "lng": -87.06539953373431
+            }
+        },
+        "description": 
+        {
+            "acerca": "Located in a beautiful condominium on a main avenue, the apartment has all the amenities for a pleasant stay. Its rooms are bright yet cozy with an organic decoration, providing comfort with 2 full bathrooms and complete privacy. The kitchen is equipped with utensils and an electric grill in case you prefer to cook at home, a comfortable living room overlooking the patio, a privileged area being on the ground floor of the condominium.",
+            "alojamiento": "Kumaru is a condominium located in the diamond zone of Playa del Carmen. It is located on CTM avenue between the famous 5th Avenue and 10th Avenue.",
+            "equipamiento": "On the top floor of the Condominium, there is a rooftop with a bar, sun loungers, armchairs, and a pool that will be shared with other guests. It also has a gym with installed stationary bikes. Given the excellent location of the apartment, you will have great ease in moving to the points of interest you desire without any problem, whether it's tours, beach, or commercial area like the 5th Avenue.",
+            "acceso": "A few steps from Kumaru, there is a 24-hour self-service store (Oxxo). Within a few meters, there are restaurants, bars, beach clubs, pharmacies, shops, etc. And of course, just a few steps away, you'll find the famous Fifth Avenue, as well as the beach."
+        }
+        ,
+        "img": 
+        {
+            "img1": "../img/apartments/kumaru02/1.jpg",
+            "img2": "../img/apartments/kumaru02/2.jpg",
+            "img3": "../img/apartments/kumaru02/3.jpg",
+            "img4": "../img/apartments/kumaru02/4.jpg",
+            "img5": "../img/apartments/kumaru02/5.jpg",
+            "img6": "../img/apartments/kumaru02/6.jpg",
+            "img7": "../img/apartments/kumaru02/7.jpg",
+            "img8": "../img/apartments/kumaru02/8.jpg"
+        },
+        "extras": {
+            "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+            "text": {
+                "view": "Spectacular views",
+                "pool": "Rooftop pool",
+                "kitchen": "Full equipped kitchen",
+                "ac": "Air conditioning",
+                "coffee": "Coffee maker",
+                "work": "Remote work area",
+                "fan": "Ceiling fan",
+                "tv": "Television",
+                "security": "Surveillance system",
+                "outdoor": "Sun loungers",
+                "wifi": "Free wifi",
+                "parking": "Free parking on premises",
+                "cajafuerte": "Lockbox in the room",
+                "bed": "Queensize bed",
+                "pet": "Pet allowed",
+                "gym": "Gym",
+                "bbq": "Bbq private",
+                "jacuzzi": "Jacuzzi",
+                "dryer": "Dryer"
+            }
+        }
+    
+},
+{
+    "id": "kumaru501",
+    "title": "Kumaru 3, apartment with rooftop pool",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico.",
+    "details": {
+        "rooms": "2 rooms",
+        "guest": "4 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.63708579067877,
+            "lng": -87.06539953373431
+        }
+    },
+    "description": 
+    {
+        "acerca": "Located in a beautiful condominium on a main avenue, the apartment boasts all the amenities for a pleasant stay. Its rooms are bright yet warm with an organic decor, providing comfort with 2 full bathrooms and complete privacy. The kitchen is equipped with utensils and an electric grill in case you prefer to cook at home, a comfortable living room overlooking the patio, a privileged area being on the first floor of the condominium.",
+        "alojamiento": "Kumaru is a condominium located in the diamond zone of Playa del Carmen. It is situated on CTM Avenue between the famous 5th and 10th avenues.",
+        "equipamiento": "On the top floor of the Condominium, there is a rooftop with a bar, loungers, armchairs, and a pool that will be shared with other guests. It also has a gym with stationary bikes installed. Given the excellent location of the apartment, you will have ease of access to the points of interest you wish to visit without any problem, whether it's tours, the beach, or commercial areas like the 5th Avenue.",
+        "acceso": "Just steps from Kumaru, there is a 24-hour self-service store (Oxxo). Within a few meters, there are restaurants, bars, beach clubs, pharmacies, shops, etc. And of course, just a few steps away, you will find the famous Fifth Avenue, as well as the beach."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/kumaru501/1.jpg",
+        "img2": "../img/apartments/kumaru501/2.jpg",
+        "img3": "../img/apartments/kumaru501/3.jpg",
+        "img4": "../img/apartments/kumaru501/4.jpg",
+        "img5": "../img/apartments/kumaru501/5.jpg",
+        "img6": "../img/apartments/kumaru501/6.jpg",
+        "img7": "../img/apartments/kumaru501/7.jpg",
+        "img8": "../img/apartments/kumaru501/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "view": "Spectacular views",
+            "pool": "Rooftop pool",
+            "kitchen": "Full equipped kitchen",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "fan": "Ceiling fan",
+            "tv": "Television",
+            "security": "Surveillance system",
+            "outdoor": "Sun loungers",
+            "wifi": "Free wifi",
+            "parking": "Free parking on premises",
+            "cajafuerte": "Lockbox in the room",
+            "bed": "Queensize bed",
+            "pet": "Pet allowed",
+            "gym": "Gym",
+            "bbq": "Bbq private",
+            "jacuzzi": "Jacuzzi",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "it206",
+    "title": "It Building, apartment with pool in the heart of Playa",
+    "subtitle": "Whole accommodation: condo in Playa del Carmen, Mexico.",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "2 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.636446943219514,
+            "lng": -87.06344748710394
+        }
+    },
+    "description": 
+    {
+        "acerca": "This apartment has long been a favorite among many couples. Its decoration and layout are designed to provide a sense of well-being and tranquility.",
+        "alojamiento": "This 1-bedroom apartment is located in the IT Building Residences condominium; it's a modern condominium that offers proximity to the beach and the most interesting tourist areas in Playa del Carmen. Walking distance to the most popular tourist areas in Playa del Carmen.",
+        "equipamiento": "From the rooftop, you can see the sea while sunbathing. It is fully equipped and decorated with current furniture and accessories, of high quality and good taste. It is located just a few meters from the sea and a few steps from the famous Quinta Avenida of Playa del Carmen. If you wish to explore the area by bicycle, you can use the Bici Playa app for short rides and leave it at the corresponding station.",
+        "acceso": "It Building is located on 44th Street with 1st Avenue in the heart of the diamond zone of Playa del Carmen. Just a 2-block walk and you can reach the sea and the famous 5th Avenue."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/it04/1.jpg",
+        "img2": "../img/apartments/it04/2.jpg",
+        "img3": "../img/apartments/it04/3.jpg",
+        "img4": "../img/apartments/it04/4.jpg",
+        "img5": "../img/apartments/it04/5.jpg",
+        "img6": "../img/apartments/it04/6.jpg",
+        "img7": "../img/apartments/it04/7.jpg",
+        "img8": "../img/apartments/it04/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Rooftop pool",
+            "kitchen": "Full equipped kitchen",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "fan": "Ceiling fan",
+            "tv": "Television",
+            "security": "Surveillance system",
+            "outdoor": "Sun loungers",
+            "wifi": "Free wifi",
+            "parking": "Free parking on premises",
+            "bed": "Queensize bed",
+            "cajafuerte": "Lockbox in the room",
+            "pet": "Pet allowed",
+            "gym": "Gym",
+            "view": "Spectacular views",
+            "bbq": "Bbq private",
+            "jacuzzi": "Jacuzzi",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "it04",
+    "title": "IT Building Residences",
+    "subtitle": "Whole accommodation: condo in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "3 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.63644066795326,
+            "lng": -87.06343944047704
+        }
+    },
+    "description": 
+    {
+        "acerca": "Relax in this tranquil and elegant space, located in the IT Building Residences condominium, a modern condominium offering proximity to the beach and the most touristically appealing areas in Playa del Carmen.",
+        "alojamiento": "This 1-bedroom apartment is located in the IT Building Residences condominium; it's a modern condominium that offers proximity to the beach and the most interesting tourist areas in Playa del Carmen. You can walk to the most popular tourist areas in Playa del Carmen.",
+        "equipamiento": "From the rooftop, you can see the sea while sunbathing. It is fully equipped and decorated with current furniture and accessories, of high quality and good taste. It is located just a few meters from the sea and a few steps from the famous Quinta Avenida of Playa del Carmen. If you wish to explore the area by bicycle, you can use the Bici Playa app for short rides and leave it at the corresponding station.",
+        "acceso": "It Building is located on 44th Street with 1st Avenue in the heart of the diamond zone of Playa del Carmen. Just a 2-block walk and you can reach the sea and the famous 5th Avenue."
+        },
+    "img": 
+    {
+        "img2": "../img/apartments/it206/1.jpg",
+        "img1": "../img/apartments/it206/2.jpg",
+        "img3": "../img/apartments/it206/3.jpg",
+        "img4": "../img/apartments/it206/4.jpg",
+        "img5": "../img/apartments/it206/5.jpg",
+        "img6": "../img/apartments/it206/6.jpg",
+        "img7": "../img/apartments/it206/7.jpg",
+        "img8": "../img/apartments/it206/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Rooftop pool",
+            "kitchen": "Full equipped kitchen",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "fan": "Ceiling fan",
+            "tv": "Television",
+            "security": "Surveillance system",
+            "outdoor": "Sun loungers",
+            "wifi": "Free wifi",
+            "parking": "Free parking on premises",
+            "bed": "Queensize bed",
+            "cajafuerte": "Lockbox in the room",
+            "pet": "Pet allowed",
+            "gym": "Gym",
+            "view": "Spectacular views",
+            "bbq": "Bbq private",
+            "jacuzzi": "Jacuzzi",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "yellow101",
+    "title": "YELLOW, Modern-style apartment",
+    "subtitle": "Entire condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "3 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.63805462400413,
+            "lng": -87.06785113988073
+        }
+    },
+    "description": 
+    {
+        "about": "If you're a fan of modern style and vibrant colors, this unit will be ideal for your stay. The modern details designed by the developer make it unique. Its spacious windows allow the passage of light and its curtains block it when not needed. It has a balcony that faces the street where you can enjoy outdoor moments if you wish.",
+        "accommodation": "YELLOW is a condominium located in the quadrant of the most recent development in Playa del Carmen, Quintana Roo. It is situated on 40th street between 15th and 20th Avenue.",
+        "amenities": "This unit is fully equipped and decorated with furniture and accessories of high quality and good taste. It is located just 650 meters away (9 minutes walking) from the sea and 280 meters away (4 minutes walking) from the famous Fifth Avenue of Playa del Carmen.",
+        "access": "On the top floor of the condominium, there is a rooftop with a bar, lounge chairs, and a pool that will be shared with other guests. A few blocks away, you'll find supermarkets, restaurants, bars, beach clubs, pharmacies, shops, etc. And of course, just a few steps away are the famous Fifth Avenue and the beach."
+    },
+    "img": 
+    {
+        "img2": "../img/apartments/yellow101/1.jpg",
+        "img1": "../img/apartments/yellow101/2.jpg",
+        "img3": "../img/apartments/yellow101/3.jpg",
+        "img4": "../img/apartments/yellow101/4.jpg",
+        "img5": "../img/apartments/yellow101/5.jpg",
+        "img6": "../img/apartments/yellow101/6.jpg",
+        "img7": "../img/apartments/yellow101/7.jpg",
+        "img8": "../img/apartments/yellow101/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "view": "Panoramic views",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "tv": "Television",
+            "security": "Surveillance system",
+            "outdoor": "Outdoor furniture",
+            "wifi": "Free wifi",
+            "gym": "Shared gym in the area",
+            "bed": "Queensize bed",
+            "fan": "Ceiling fan",
+            "parking": "Free parking on premises",
+            "cajafuerte": "Lockbox in the room",
+            "pet": "Pet allowed",
+            "bbq": "Bbq private",
+            "jacuzzi": "Jacuzzi",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "singular112",
+    "title": "Singular, Apartment with incredible views",
+    "subtitle": "Entire Accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "2 rooms",
+        "guest": "5 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.627986793640236,
+            "lng": -87.0704459705678
+        }
+    },
+    "description": 
+    {
+        "acerca": "Singular is a project that merges the modern and the classic; you can feel like you're in a new, avant-garde place with classic luxury while simultaneously feeling relaxed and youthful with vibrant colors among neutrals. Definitely, it's a project for people with unique tastes who enjoy small details like mosaics, walls with new trends inspired by the classic, and, of course, those who enjoy seeing the sea from the terrace where they can be surrounded by like-minded people.",
+        "alojamiento": "The charm of this apartment is defined by the good taste and quality of the furniture materials, its comfortable bed, and delightful sheets; definitely, staying here will give you a feeling of comfort and elegance.",
+        "equipamiento": "The apartment is not suitable for smokers; however, there are shared areas where you can enjoy a cigarette if you wish. It has a SPA area where you could hire massage services if desired. On the Roof, you can enjoy a shared jacuzzi, pool, and à la carte drinks with the other guests.",
+        "acceso": "From this location, you'll be in contact with the most interesting areas in Playa del Carmen. You'll have the beach and the famous 5th Avenue just 100 meters away, restaurants, bars, clubs, diving spots, gyms, and more!"
+    },
+    "img": 
+    {
+        "img2": "../img/apartments/singular112/1.jpg",
+        "img1": "../img/apartments/singular112/2.jpg",
+        "img3": "../img/apartments/singular112/3.jpg",
+        "img4": "../img/apartments/singular112/4.jpg",
+        "img5": "../img/apartments/singular112/5.jpg",
+        "img6": "../img/apartments/singular112/6.jpg",
+        "img7": "../img/apartments/singular112/7.jpg",
+        "img8": "../img/apartments/singular112/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "jacuzzi": "Jacuzzi compartido",
+            "view": "Sea views",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "cajafuerte": "Lockbox in the room",
+            "security": "Surveillance system",
+            "gym": "Shared gym in the area",
+            "bed": "Queensize bed",
+            "parking": "Free parking on premises",
+            "pet": "Pet allowed",
+            "bbq": "Bbq private",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "singular212",
+    "title": "Singular 2, Modern-style apartment",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "2 rooms",
+        "guest": "5 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.627986793640236,
+            "lng": -87.0704459705678
+        }
+    },
+    "description": 
+    {
+        "acerca": "Singular is a project that blends the modern and the classic; you can feel like you're in a new, avant-garde place with classic luxury while at the same time feeling relaxed and cheerful with vibrant colors among neutrals. It's definitely a project for people with unique tastes who enjoy small details like mosaics, walls with new trends inspired by the classic, and of course, those who enjoy seeing the sea from the terrace where they can be surrounded by similar-minded people.",
+        "alojamiento": "The charm of this apartment is defined by the good taste and quality of the furniture materials, its comfortable bed, and delightful sheets; staying here will definitely give you a sense of comfort and elegance.",
+        "equipamiento": "The apartment is not suitable for smokers; however, there are shared areas where you can enjoy a cigarette if you wish. It has a SPA area where you could hire massage services if desired. On the Roof, you can enjoy a shared jacuzzi, pool, and à la carte drinks with the rest of the guests.",
+        "acceso": "From this location, you'll be in contact with the most interesting areas in Playa del Carmen. You'll have the beach and the famous 5th Avenue just 100 meters away, restaurants, bars, clubs, diving spots, gyms, and more!"
+    },
+    "img": 
+    {
+        "img2": "../img/apartments/singular212/1.jpg",
+        "img1": "../img/apartments/singular212/2.jpg",
+        "img3": "../img/apartments/singular212/3.jpg",
+        "img4": "../img/apartments/singular212/4.jpg",
+        "img5": "../img/apartments/singular212/5.jpg",
+        "img6": "../img/apartments/singular212/6.jpg",
+        "img7": "../img/apartments/singular212/7.jpg",
+        "img8": "../img/apartments/singular212/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "jacuzzi": "Jacuzzi compartido",
+            "view": "Sea views",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "cajafuerte": "Lockbox in the room",
+            "security": "Surveillance system",
+            "gym": "Shared gym in the area",
+            "bed": "Queensize bed",
+            "parking": "Free parking on premises",
+            "pet": "Pet allowed",
+            "bbq": "Bbq private",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "nolita104",
+    "title": "Nolita, Apartment in the heart of the city",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "2 rooms",
+        "guest": "8 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.631393809011637,
+            "lng": -87.06876623472796
+        }
+    },
+    "description": 
+    {
+        "acerca": "From this central accommodation, you'll have easy access to the most outstanding elements of Playa del Carmen: its beautiful beach, the famous 5th Avenue, restaurants, cafes, bars, shops, gyms, small convenience stores, and more! IMPORTANT! Due to its location, at certain times of the day, there may be noise from tourism since its balcony faces 24th Street and 5th Avenue, a lively leisure area. If rest is a priority, this may not be the best place.",
+        "alojamiento": "The apartment has 2 rooms, the main one with a king-size bed and bathroom, and the second one with 2 queen-size beds and another full bathroom just before the entrance to the room. In the living room, there is a sofa where a 7th and 8th guest could sleep (extra cost).",
+        "equipamiento": "Within the condominium, corridors and stairs are shared (there's an elevator that is out of service), and going up to the top floor (third floor), you'll find the pool where you can enjoy time with your friends or family. In case of having pets that have been previously registered, they are not allowed in the common areas.",
+        "acceso": "The best place to get around by walking to all the places of interest. Just steps away from the 5th Avenue, a few meters from the beach, clubs, bars, and restaurants. The building does not have parking, so if you enjoy exploring the city by bike, you can download the BiciPlaya App and use the public bicycles parked at various points in the city."
+    },
+    "img": 
+    {
+        "img2": "../img/apartments/nolita104/1.jpg",
+        "img1": "../img/apartments/nolita104/2.jpg",
+        "img3": "../img/apartments/nolita104/3.jpg",
+        "img4": "../img/apartments/nolita104/4.jpg",
+        "img5": "../img/apartments/nolita104/5.jpg",
+        "img6": "../img/apartments/nolita104/6.jpg",
+        "img7": "../img/apartments/nolita104/7.jpg",
+        "img8": "../img/apartments/nolita104/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "view": "Sea views",
+            "pet": "Pet allowed",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "bed": "Queensize bed",
+            "security": "Surveillance system",
+            "gym": "Shared gym in the area",
+            "parking": "Free parking on premises",
+            "cajafuerte": "Lockbox in the room",
+            "bbq": "Bbq private",
+            "jacuzzi": "Jacuzzi compartido",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "nolita204",
+    "title": "Nolita 2, Apartment in the heart of the city",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "2 rooms",
+        "guest": "8 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.631393809011637,
+            "lng": -87.06876623472796
+        }
+    },
+    "description": 
+    {
+        "acerca": "From this centrally located accommodation, you'll have easy access to the most outstanding elements of Playa del Carmen: its beautiful beach, the famous 5th Avenue, restaurants, cafes, bars, shops, gyms, small convenience stores, and more! IMPORTANT! Due to its location, there might be noise from tourism at certain times of the day, as its balcony overlooks 24th Street and 5th Avenue, a lively leisure area. If prioritizing rest is important, this might not be the best place.",
+        "alojamiento": "The apartment has 2 rooms, the main one with a king-size bed and a bathroom, and the second one with 2 queen-size beds and another full bathroom just before the entrance to the room. In the living room, there's a sofa where a 7th and 8th guest could sleep (extra cost).",
+        "equipamiento": "Corridors and stairs are shared within the condominium (there's an elevator out of service). Upon reaching the top floor (third floor), you'll find the pool where you can enjoy time with your friends or family. In the case of having pets that have been previously registered, they are not allowed in the common areas.",
+        "acceso": "The best location for walking to all places of interest. Just steps away from the 5th Avenue, a few meters from the beach, clubs, bars, and restaurants. The building does not have parking, so if you enjoy exploring the city by bike, you can download the BiciPlaya App and use the public bicycles parked at various points in the city."
+    },
+    "img": 
+    {
+        "img2": "../img/apartments/nolita204/1.jpg",
+        "img1": "../img/apartments/nolita204/2.jpg",
+        "img3": "../img/apartments/nolita204/3.jpg",
+        "img4": "../img/apartments/nolita204/4.jpg",
+        "img5": "../img/apartments/nolita204/5.jpg",
+        "img6": "../img/apartments/nolita204/6.jpg",
+        "img7": "../img/apartments/nolita104/7.jpg",
+        "img8": "../img/apartments/nolita104/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "view": "Sea views",
+            "pet": "Pet allowed",
+            "ac": "Air conditioning",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "bed": "Queensize bed",
+            "security": "Surveillance system",
+            "gym": "Shared gym in the area",
+            "parking": "Free parking on premises",
+            "cajafuerte": "Lockbox in the room",
+            "bbq": "Bbq private",
+            "jacuzzi": "Jacuzzi compartido",
+            "dryer": "Dryer"
+        }
+    }
+
+},
+{
+    "id": "tg101s",
+    "title": "The Gallery, Ideal for adults and young people",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "3 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.630977126955436,
+            "lng": -87.07194043435832
+        }
+    },
+    "description": 
+    {
+        "acerca": "THE GALLERY is one of our favorites for its unique style that combines the classic with the modern, making it ideal for adults and young people. It has a kids' club, a spa with sauna and jacuzzi, a gym, a sky bar, gardens, leisure lounge areas, underground private parking, and a game room.",
+        "alojamiento": "Stay on one of the most central streets in Playa del Carmen, just a few blocks from the beach and all kinds of services. A 2-minute walk from Fifth Avenue. From this location, you can walk and have very easy access to everything you need, OXXO stores, supermarkets, restaurants, cafes, the beach, clubs, and bars.",
+        "equipamiento": "It is located on the avenue that divides Playa del Carmen into what we could call old and new Playa del Carmen. So, you'll have access to all of Playa from here. Cafes, restaurants, La Fisheria famous for its chef, and Aldea Corazón famous for the incredible open cenote, and much more!",
+        "acceso": "From this location, you can walk to 5th Avenue (240m), the beach (600m), and supermarket (350m), tour sales points, restaurants, and everything you need at your fingertips! Although the building has parking, if you enjoy exploring the city by bike, you can do so by downloading the BiciPlaya App and using the public bicycles parked at various points in the city."
+    },
+    "img": 
+    {
+        "img2": "../img/apartments/tg101s/1.jpg",
+        "img1": "../img/apartments/tg101s/2.jpg",
+        "img3": "../img/apartments/tg101s/3.jpg",
+        "img4": "../img/apartments/tg101s/4.jpg",
+        "img5": "../img/apartments/tg101s/5.jpg",
+        "img6": "../img/apartments/tg101s/6.jpg",
+        "img7": "../img/apartments/tg101s/7.jpg",
+        "img8": "../img/apartments/tg101s/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "parking": "Free parking on premises",
+            "ac": "Air conditioning",
+            "dryer": "Dryer gratis",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "security": "Security cameras on property",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "bed": "Queensize bed",
+            "gym": "Shared gym in the area",
+            "cajafuerte": "Lockbox in the room",
+            "bbq": "Bbq private",
+            "view": "Sea views",
+            "pet": "Pet allowed",
+            "jacuzzi": "Jacuzzi compartido"
+        }
+    }
+},
+{
+    "id": "tg405",
+    "title": "The Gallery 2, Ideal for adults and young people",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "2 rooms",
+        "guest": "5 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.630977126955436,
+            "lng": -87.07194043435832
+        }
+    },
+    "description": 
+    {
+        "acerca": "THE GALLERY is one of our favorites due to its unique style that combines the classic with the modern, making it ideal for adults and young people. It features a children's club, spa with sauna and jacuzzi, gym, sky bar, gardens, leisure lounge areas, underground private parking, and a game room.",
+        "alojamiento": "Stay in one of the most central streets in Playa del Carmen, just a few blocks from the beach and all kinds of services. A 2-minute walk from Fifth Avenue. From this location, you can walk and have very easy access to everything you need: OXXO stores, supermarkets, restaurants, cafes, the beach, clubs, and bars.",
+        "equipamiento": "Location, comfort, privacy - these are the characteristics that make my place special, as well as the amenities the condominium offers: gym, yoga room, cinema, adult game room, children's game room, rooftop pool for adults, ground floor family pool, reading and work lounge, parking (subject to availability). Another notable feature is that the apartment has two access doors, washer, dryer.",
+        "acceso": "From this location, you can walk to 5th Avenue (240m), the beach (600m), and supermarket (350m), tour sales points, restaurants, and everything you need at your fingertips! Although the building has parking, if you enjoy exploring the city by bike, you can do so by downloading the BiciPlaya App and using the public bicycles parked at various points in the city."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/tg405/1.jpg",
+        "img2": "../img/apartments/tg405/2.jpg",
+        "img3": "../img/apartments/tg405/3.jpg",
+        "img4": "../img/apartments/tg405/4.jpg",
+        "img5": "../img/apartments/tg405/5.jpg",
+        "img6": "../img/apartments/tg405/6.jpg",
+        "img7": "../img/apartments/tg405/7.jpg",
+        "img8": "../img/apartments/tg405/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "parking": "Free parking on premises",
+            "pool": "Rooftop pool",
+            "kitchen": "Full equipped kitchen",
+            "ac": "Air conditioning",
+            "jacuzzi": "Jacuzzi compartido",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "gym": "Shared gym in the area",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "bed": "Queensize bed",
+            "cajafuerte": "Lockbox in the room",
+            "bbq": "Bbq private",
+            "security": "Security cameras on property",
+            "view": "Sea views",
+            "pet": "Pet allowed",
+            "dryer": "Dryer gratis"
+        }
+    }
+},
+{
+    "id": "volta205",
+    "title": "Volta, Caribbean vibes",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "2 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.632561820001143,
+            "lng": -87.06923946626914
+        }
+    },
+    "description": 
+    {
+        "acerca": "It's a studio designed and painted in shades of blue so you never stop experiencing the feeling of vacationing in the Caribbean. The location is excellent, its spaciousness allows a lot of natural light to enter through the windows during the day.",
+        "alojamiento": "It features a workspace, balcony with a lounge chair and dining table, equipped kitchen, spacious bathroom, high-speed internet, TV in front of the king-size bed, and outdoor amenities in the building that make your stay more special and enjoyable.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "You can easily access it by vehicle and move around the area, either by walking or by bike. The latter can be rented using the BiciPlaya app for short rides."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/volta205/1.jpg",
+        "img2": "../img/apartments/volta205/2.jpg",
+        "img3": "../img/apartments/volta205/3.jpg",
+        "img4": "../img/apartments/volta205/4.jpg",
+        "img5": "../img/apartments/volta205/5.jpg",
+        "img6": "../img/apartments/volta205/6.jpg",
+        "img7": "../img/apartments/volta205/7.jpg",
+        "img8": "../img/apartments/volta205/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "parking": "Free parking on premises",
+            "ac": "Air conditioning",
+            "bbq": "Charcoal shared bbq",
+            "dryer": "Dryer gratis",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "gym": "Shared gym in the area",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "bed": "Queensize bed",
+            "cajafuerte": "Lockbox in the room",
+            "view": "Sea views",
+            "security": "Security cameras on property",
+            "pet": "Pet allowed",
+            "jacuzzi": "Jacuzzi compartido"
+        }
+    }
+},
+{
+    "id": "volta403",
+    "title": "Volta 2, Caribbean vibes",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "2 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.639598157677312,
+            "lng": -87.06392294477583
+        }
+    },
+    "description": 
+    {
+        "acerca": "This is a new bohemian and chic studio in the center of Playa. A completely open-plan area with large windows that bring in sunlight while promoting indoor-outdoor connection.",
+        "alojamiento": "A safe and pleasant neighborhood with many restaurants, bars, and shops. Located at the corner of the famous Fifth Avenue and just steps away from the beach. This luxury studio includes high-end finishes, wooden cabinets and closets, marble floors, tempered glass in the bathroom, granite countertops. A large shower with bathrobe, hairdryer, shampoo, and organic soap.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located half a block from the 5th Avenue in Playa del Carmen, the location offers proximity to restaurants, bars, and entertainment venues while maintaining tranquility as it's not in the nightclub zone. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/volta403/1.webp",
+        "img2": "../img/apartments/volta403/2.jpg",
+        "img3": "../img/apartments/volta403/3.jpg",
+        "img4": "../img/apartments/volta403/4.webp",
+        "img5": "../img/apartments/volta403/5.webp",
+        "img6": "../img/apartments/volta403/6.webp",
+        "img7": "../img/apartments/volta403/7.webp",
+        "img8": "../img/apartments/volta403/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "jacuzzi": "Jacuzzi compartido",
+            "view": "Panoramic views",
+            "parking": "Free parking on premises",
+            "ac": "Air conditioning",
+            "bbq": "Charcoal shared bbq",
+            "dryer": "Dryer gratis",
+            "coffee": "Coffee maker",
+            "work": "Remote work area",
+            "gym": "Shared gym in the area",
+            "tv": "Television",
+            "fan": "Ceiling fan",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "bed": "Queensize bed",
+            "cajafuerte": "Lockbox in the room",
+            "security": "Security cameras on property",
+            "pet": "Pet allowed"
+        }
+    }
+},
+{
+    "id": "dkexclusive303",
+    "title": "Dk Exclusive, In the heart of Playa del Carmen",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "3 guest",
+        "plus": "Rooftop pool",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.632561820001143,
+            "lng": -87.06923946626914
+        }
+    },
+    "description": 
+    {
+        "acerca": "Dk Exclusive is a property located just half a block from the 5th Avenue in Playa del Carmen, one of the busiest and most visited areas. You'll have restaurants, bars, and cafes nearby. The area is peaceful, so you can explore it on foot, rent a stationary bike service, and/or access it by car.",
+        "alojamiento": "Beautiful apartment located just half a block from the 5th Avenue in Playa del Carmen, DK Exclusive is a modernly detailed apartment perfect for couples, offering privacy. The property features an equipped kitchen, dining area, and a comfortable and bright bedroom.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located half a block from the 5th Avenue in Playa del Carmen, the location offers proximity to restaurants, bars, and entertainment venues while maintaining tranquility as it's not in the nightclub zone. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/dkexclusive303/1.jpg",
+        "img2": "../img/apartments/dkexclusive303/2.jpg",
+        "img3": "../img/apartments/dkexclusive303/3.jpg",
+        "img4": "../img/apartments/dkexclusive303/4.jpg",
+        "img5": "../img/apartments/dkexclusive303/5.jpg",
+        "img6": "../img/apartments/dkexclusive303/6.jpg",
+        "img7": "../img/apartments/dkexclusive303/7.jpg",
+        "img8": "../img/apartments/dkexclusive303/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "view": "Sea views",
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "parking": "Estacionamiento gratuito en la puerta",
+            "tv": "Television",
+            "ac": "Air conditioning",
+            "wifi": "Free wifi",
+            "outdoor": "Sun loungers",
+            "security": "Security cameras on property",
+            "coffee": "Coffee maker",
+            "fan": "Ceiling fan",
+            "bed": "Queensize bed",
+            "work": "Remote work area",
+            "cajafuerte": "Lockbox in the room",
+            "pet": "Pet allowed",
+            "gym": "Shared gym in the area",
+            "dryer": "Dryer gratis",
+            "bbq": "Charcoal shared bbq",
+            "jacuzzi": "Jacuzzi compartido"
+        }
+    }
+},
+{
+    "id": "mayamar",
+    "title": "Casa Maya Mar with Caribbean Boho Style",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "3 rooms",
+        "guest": "8 guest",
+        "plus": "Pool and garden",
+        "area": "Playa del Carmen",
+        "location": {
+            "lat": 20.621058914902687,
+            "lng": -87.0826865050022
+        }
+    },
+    "description": 
+    {
+        "acerca": "It's a beautiful family house characterized by its good airflow and natural light. Its spacious areas allow privacy for several people.",
+        "alojamiento": "The pool and garden are shared among 6 houses, creating a very welcoming environment. It's located in the Playacar phase 2 development, 600 meters from the beach. Its style is Caribbean boho with tones in white and brown. Two of the rooms are located on the second floor and are en suite. Unforgettable moments await you!",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located in the most exclusive residential neighborhood of Playa del Carmen, the location offers proximity to restaurants, bars, and entertainment venues without sacrificing tranquility. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/mayamar/1.jpg",
+        "img2": "../img/apartments/mayamar/2.jpg",
+        "img3": "../img/apartments/mayamar/3.jpg",
+        "img4": "../img/apartments/mayamar/4.jpg",
+        "img5": "../img/apartments/mayamar/5.jpg",
+        "img6": "../img/apartments/mayamar/6.jpg",
+        "img7": "../img/apartments/mayamar/7.jpg",
+        "img8": "../img/apartments/mayamar/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "view": "Sea views",
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "parking": "Free parking on premises",
+            "tv": "Television",
+            "ac": "Air conditioning",
+            "wifi": "Free wifi",
+            "security": "Security cameras on property",
+            "coffee": "Coffee maker",
+            "fan": "Ceiling fan",
+            "bed": "Queensize bed",
+            "work": "Remote work area",
+            "cajafuerte": "Lockbox in the room",
+            "pet": "Pet allowed",
+            "gym": "Shared gym in the area",
+            "dryer": "Dryer gratis",
+            "bbq": "Charcoal shared bbq",
+            "outdoor": "Sun loungers",
+            "jacuzzi": "Jacuzzi compartido"
+        }
+    }
+},
+{
+    "id": "gaia301",
+    "title": "Studio in Aldea Zama",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "3 guest",
+        "plus": "Rooftop pool",
+        "area": "Tulum",
+        "location": {
+            "lat": 20.198471741900878,
+            "lng": -87.46184023313455
+        }
+    },
+    "description": 
+    {
+        "acerca": "Spacious one-bedroom apartment with good natural light, offering the right amenities for an excellent vacation. The area around it features bars, restaurants, and shops like Seven Eleven.",
+        "alojamiento": "Beautiful apartment in Aldea Zama, a very central location, just 5 minutes from downtown and 10 minutes from the beach. The property features an equipped kitchen, dining area, and a comfortable and bright bedroom. It has a rooftop pool.",
+        "equipamiento": "Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located in Aldea Zama, a very quiet area of Tulum, the location offers proximity to restaurants, bars, and entertainment venues without sacrificing tranquility. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/gaia301/1.jpg",
+        "img2": "../img/apartments/gaia301/2.jpg",
+        "img3": "../img/apartments/gaia301/3.jpg",
+        "img4": "../img/apartments/gaia301/4.jpg",
+        "img5": "../img/apartments/gaia301/5.jpg",
+        "img6": "../img/apartments/gaia301/6.jpg",
+        "img7": "../img/apartments/gaia301/7.jpg",
+        "img8": "../img/apartments/gaia301/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "view": "Sea views",
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "parking": "Free parking on premises",
+            "tv": "Television",
+            "ac": "Air conditioning",
+            "wifi": "Free wifi",
+            "security": "Security cameras on property",
+            "coffee": "Coffee maker",
+            "fan": "Ceiling fan",
+            "bed": "Queensize bed",
+            "work": "Remote work area",
+            "cajafuerte": "Lockbox in the room",
+            "pet": "Pet allowed",
+            "gym": "Shared gym in the area",
+            "dryer": "Dryer gratis",
+            "bbq": "Charcoal shared bbq",
+            "outdoor": "Sun loungers",
+            "jacuzzi": "Jacuzzi compartido"
+        }
+    }
+},
+{
+    "id": "solum403",
+    "title": "Apartment in Aldea Zama",
+    "subtitle": "Entire accommodation: condominium in Playa del Carmen, Mexico",
+    "details": {
+        "rooms": "1 rooms",
+        "guest": "2 guest",
+        "plus": "Rooftop pool",
+        "area": "Tulum",
+        "location": {
+            "lat": 20.204333237951467,
+            "lng": -87.45790728835885
+        }
+    },
+    "description": 
+    {
+        "acerca": "Spacious one-bedroom apartment with good natural light, offering the right amenities for an excellent vacation. The area around it features bars, restaurants, and shops like Seven Eleven.",
+        "alojamiento": "Beautiful apartment in Aldea Zama, a very central location, just 5 minutes from downtown and 10 minutes from the beach. The property features an equipped kitchen, dining area, and a comfortable and bright bedroom. It has a rooftop pool.",
+        "equipamiento": "The apartment has a private rooftop with a barbecue where you will experience unforgettable moments. Location, comfort, privacy are the characteristics that make this place special, as well as the amenities provided by this condominium.",
+        "acceso": "Located in Aldea Zama, a very quiet area of Tulum, the location offers proximity to restaurants, bars, and entertainment venues without sacrificing tranquility. Access by vehicle is easy, as well as by motorcycle, bicycle, and walking."
+    },
+    "img": 
+    {
+        "img1": "../img/apartments/solum403/1.jpg",
+        "img2": "../img/apartments/solum403/2.jpg",
+        "img3": "../img/apartments/solum403/3.jpg",
+        "img4": "../img/apartments/solum403/4.jpg",
+        "img5": "../img/apartments/solum403/5.jpg",
+        "img6": "../img/apartments/solum403/6.jpg",
+        "img7": "../img/apartments/solum403/7.jpg",
+        "img8": "../img/apartments/solum403/8.jpg"
+    },
+    "extras": {
+        "icon": [
+                    "pet",
+                    "pool",
+                    "wifi",
+                    "outdoor",
+                    "bed",
+                    "ac",
+                    "parking",
+                    "bbq",
+                    "dryer",
+                    "work",
+                    "view",
+                    "coffee",
+                    "security",
+                    "fan",
+                    "kitchen",
+                    "gym",
+                    "jacuzzi",
+                    "cajafuerte",
+                    "tv"],
+        "text": {
+            "view": "Sea views",
+            "pool": "Shared outdoor pool",
+            "kitchen": "Full equipped kitchen",
+            "jacuzzi": "Jacuzzi privado",
+            "bbq": "Private charcoal grill",
+            "outdoor": "Sun loungers",
+            "gym": "Shared gym in the area",
+            "parking": "Free parking on premises",
+            "coffee": "Coffee maker",
+            "tv": "Television",
+            "ac": "Air conditioning",
+            "wifi": "Free wifi",
+            "fan": "Ceiling fan",
+            "security": "Security cameras on property",
+            "bed": "Queensize bed",
+            "work": "Remote work area",
+            "cajafuerte": "Lockbox in the room",
+            "pet": "Pet allowed",
+            "dryer": "Dryer gratis"
+        }
+    }
+}]

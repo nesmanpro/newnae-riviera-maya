@@ -3,20 +3,19 @@ import App from './App.jsx'
 import './index.css'
 import { NextUIProvider } from "@nextui-org/react";
 import { ThemeProvider } from "@material-tailwind/react";
-import { I18nProvider } from './i18nProvider'
+
 
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
 
-  <ThemeProvider>
-    <I18nProvider>
-      <NextUIProvider>
-        <App />
-      </NextUIProvider>
-    </I18nProvider>
 
+  <ThemeProvider>
+    <NextUIProvider>
+      <App />
+    </NextUIProvider>
   </ThemeProvider>
+
 
 
 )

@@ -1,7 +1,8 @@
 import { useTranslation } from "react-i18next";
-import { Banda } from "./Banda";
-import { BannerBot } from "./BannerBot";
+import { Banner } from "../layouts/Banner";
+import { BannerCta } from "../layouts/BannerCta";
 import { GoogleMap, useLoadScript } from '@react-google-maps/api';
+import { IconResolver } from '../icons/helpers/iconResolver'
 
 
 export const ItemDetail = ({ item }) => {
@@ -39,7 +40,11 @@ export const ItemDetail = ({ item }) => {
                     <div className="text-xs md:text-sm lg:text-base text-arenaclaro mt-5 grid grid-cols-2 sm:gap-2">
                         {firstSix.map((key, index) => (
                             <div className="flex gap-3 mb-2 sm:mb-5" key={index}>
-                                <div dangerouslySetInnerHTML={{ __html: item.extras.icon[key] }} />
+                                <IconResolver
+                                    name={item.extras.icon[index]}
+                                    size={20}
+                                    className="text-arenaClaro"
+                                />
                                 <h4>{item.extras.text[key]}</h4>
                             </div>
                         ))}
@@ -130,8 +135,12 @@ export const ItemDetail = ({ item }) => {
                             </div>
                             <div className="grid grid-cols-2 sm:grid-cols-1 text-arenaclaro mt-5 ">
                                 {secondSix.map((key, index) => (
-                                    <div className="flex gap-3 mb-5" key={index}>
-                                        <div dangerouslySetInnerHTML={{ __html: item.extras.icon[key] }} />
+                                    <div className="flex gap-3 mb-5" key={key}>
+                                        <IconResolver
+                                            name={item.extras.icon[index]}
+                                            size={20}
+                                            className="text-azulOscuro"
+                                        />
                                         <p className="text-sm lg:text-base">{item.extras.text[key]}</p>
                                     </div>
                                 ))}
@@ -153,8 +162,8 @@ export const ItemDetail = ({ item }) => {
                 <img className="w-full h-full object-cover" src={item.img.img7} alt={item.description.acerca} />
                 <img className="w-full h-full object-cover" src={item.img.img8} alt={item.description.alojamiento} />
             </div>
-            <Banda />
-            <BannerBot />
+            <Banner />
+            <BannerCta />
         </div >
     );
 };

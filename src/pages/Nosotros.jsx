@@ -1,8 +1,10 @@
-import { Banda } from "../components/Banda";
-import { BannerBot } from "../components/BannerBot";
-import img from '../assets/images/pexels-michael-burrows-7129665.jpg';
 import { useTranslation } from "react-i18next";
-// import img2 from '../assets/images/pexels-francisco-basto-5344794.jpg';
+
+// components
+import { Banner } from "../components/layouts/Banner";
+import { BannerCta } from "../components/layouts/BannerCta";
+
+import img from '../assets/images/pexels-michael-burrows-7129665.jpg';
 
 export const Nosotros = () => {
     const { t } = useTranslation();
@@ -61,8 +63,8 @@ export const Nosotros = () => {
 
             </main>
             {/* <img className="w-full object-cover object-bottom max-h-unit-40 sm:max-h-unit-5xl lg:max-h-unit-9xl relative bottom-[-68px]" src={img2} alt="" /> */}
-            <Banda />
-            <BannerBot />
+            <Banner />
+            <BannerCta />
         </div>
     )
 }

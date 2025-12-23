@@ -5,22 +5,23 @@
 @font-face {
     font-family: "bebas";
     src: local("bebas"),
-        url("./fonts/BebasNeueBold.ttf") format("truetype");
+        url("./assets/fonts/BebasNeueBold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "josefine";
     src: local("josefine"),
-        url("./fonts/NTJosefine.otf") format("truetype");
+        url("./assets/fonts/NTJosefine.otf") format("truetype");
 }
 
 @font-face {
     font-family: "helvetica";
     src: local("helvetica"),
-        url("./fonts/HelveticaNeue.ttc") format("truetype");
+        url("./assets/fonts/HelveticaNeue.ttc") format("truetype");
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: "josefine";
 }
 
@@ -28,7 +29,7 @@ h3 {
     font-family: "bebas";
 }
 
-.navlink, 
+.navlink,
 .navlinkDark {
     position: relative;
 }
@@ -40,18 +41,16 @@ h3 {
     left: 0;
     right: 0;
     top: 100%;
-    height: 3px;
+    height: 2px;
     transition: .5s;
-    transform-origin: center;
+    transform-origin: left;
     transform: scaleX(0);
+    will-change: transform;
 }
 
-/* .navlinkDark::after{
-    background-color: #9BBEB8;
-} */
 
-.navlink::after, 
-.navlinkDark::after{
+.navlink::after,
+.navlinkDark::after {
     background-color: #023047;
 }
 
@@ -60,7 +59,8 @@ h3 {
     transform: scaleX(1);
 }
 
-.whatsapp, .whatslogo {
+.whatsapp,
+.whatslogo {
     transition: .5s;
     transform-origin: center;
     transform: scale(0.9);
@@ -89,7 +89,5 @@ h3 {
     background-color: #25D366;
     bottom: 4px;
     left: 4px;
-    
+
 }
-
-

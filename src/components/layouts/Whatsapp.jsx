@@ -16,7 +16,6 @@ export const Whatsapp = () => {
     };
 
 
-
     return (
 
         <Link className="flex flex-row-reverse gap-5 items-end  fixed  bottom-8 right-6 sm:bottom-16 sm:right-16 z-[100]" to={'https://api.whatsapp.com/send?phone=5219842323621'} target="_blank">
