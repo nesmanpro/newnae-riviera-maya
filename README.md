@@ -30,12 +30,11 @@ This project is a web application for managing vacation rental properties, built
 - `src`: Contains source code files for the application.
   - `assets`: Contains images, logos, and other static assets used in the application.
   - `components`: Reusable React components used across different pages.
-  - `data`: Includes data files containing information about rental properties and other relevant data.
-  - `helpers`: Contains JavaScript files with logic for fetching data from the database or performing other helper functions.
-  - `i18nProvider.js`: Context provider for managing language settings and translation resources.
-  - `locale`: JSON files containing translation resources for different languages.
-  - `pages`: React components representing different pages of the application.
-  - `router`: Configuration files for React Router.
-  - `utils`: Utility functions and custom hooks.
+  - `context`: Global React Contexts used to manage shared state across the app, such as language-dependent data (`DataContext`).
+  - `data`: JSON files containing domain data and translations that vary by language (e.g. departments data in EN/ES).
+  - `hooks`: Custom React hooks that encapsulate reusable logic (e.g. data access hooks and responsive helpers).
+  - `i18n`: Internationalization setup using `i18next`, including the provider, language configuration, and translation files.
+    - `locale`: Translation JSON files for general UI texts (Home, About Us, Contact, etc.).
+  - `pages`: Page-level components representing application routes (e.g. Home, About Us, Contact).
 - `public`: Static assets such as images and fonts.
 - `package.json`: Dependency configuration and scripts.
